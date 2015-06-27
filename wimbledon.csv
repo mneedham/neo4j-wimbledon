@@ -1,128 +1,1271 @@
-ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Gulbis E.,Zopp J.,10,272,2725,174,7,6,7,5,7,6,,,,,3,0,Completed,1.03,15,1.03,11,1.03,10,1.04,16,1.03,12,1.05,17,1.03,12.3
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Berdych T.,Hanescu V.,6,104,4680,552,6,7,6,1,6,4,6,3,,,3,1,Completed,1.03,15,1.03,11,1.03,12,1.03,17.5,1.04,11,1.05,21,1.03,12.72
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Simon G.,Kravchuk K.,44,221,1005,221,6,2,7,6,7,5,,,,,3,0,Completed,1.12,6,1.11,6,1.14,5,1.15,6.59,1.13,6,1.15,7.5,1.12,6.08
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Rola B.,Andujar P.,92,80,596,666,6,3,6,1,6,4,,,,,3,0,Completed,1.57,2.25,1.58,2.35,1.53,2.38,1.65,2.4,1.62,2.25,1.7,2.6,1.6,2.32
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Matosevic M.,Verdasco F.,58,24,827,1555,6,4,4,6,6,4,6,2,,,3,1,Completed,2.62,1.44,2.8,1.42,2.62,1.44,2.76,1.51,2.75,1.44,3.2,1.51,2.75,1.44
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Stakhovsky S.,Berlocq C.,90,43,610,1010,6,3,6,3,6,3,,,,,3,0,Completed,1.28,3.5,1.33,3.2,1.33,3.25,1.38,3.37,1.29,3.5,1.4,3.5,1.32,3.29
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Mayer L.,Seppi A.,64,36,784,1105,6,3,2,6,4,6,7,6,6,4,3,2,Completed,3.5,1.28,3.4,1.3,3.5,1.29,3.4,1.37,3.5,1.29,3.6,1.4,3.36,1.31
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Youzhny M.,Ward J.,16,154,1790,371,6,2,6,2,6,1,,,,,3,0,Completed,1.2,4.33,1.22,4,1.2,4.33,1.21,5.12,1.22,4,1.26,5.5,1.21,4.36
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Murray A.,Goffin D.,5,105,4680,548,6,1,6,4,7,5,,,,,3,0,Completed,1.04,13,1.03,11,1.03,12,1.04,16,1.04,11,1.05,16,1.03,12.43
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Wang J.,Gonzalez A.,147,76,397,705,6,3,6,3,6,2,,,,,3,0,Completed,1.2,4.33,1.22,4,1.2,4.33,1.26,4.38,1.22,4,1.27,4.5,1.22,4.13
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Chardy J.,Cox D.,42,214,1015,226,6,2,7,6,6,7,6,3,,,3,1,Completed,1.05,11,1.06,8.5,1.04,9,1.07,10.75,1.07,8,1.08,13,1.06,9.4
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Roger-Vasselin E.,Volandri F.,50,117,885,523,7,6,6,2,6,4,,,,,3,0,Completed,1.01,21,1.01,13,1.01,17,1.02,14.54,1.01,17,1.03,34,1.02,16.55
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Anderson K.,Bedene A.,18,140,1745,416,6,3,7,5,6,2,,,,,3,0,Completed,1.11,6.5,1.12,5.75,1.12,5.5,1.13,7.38,1.13,6,1.13,7.5,1.11,6.37
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Baghdatis M.,Brown D.,119,79,515,668,6,4,7,5,2,6,7,6,,,3,1,Completed,1.66,2.1,1.65,2.2,1.67,2.1,1.69,2.3,1.73,2.1,1.77,2.3,1.69,2.14
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Tomic B.,Donskoy E.,86,114,631,526,6,4,6,3,6,2,,,,,3,0,Completed,1.12,6,1.13,5.5,1.12,5.5,1.14,6.87,1.14,5.5,1.17,6.87,1.14,5.61
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Haase R.,Pospisil V.,53,33,865,1170,7,6,4,6,7,5,6,3,,,3,1,Completed,1.83,1.83,1.85,1.9,1.8,1.91,1.94,1.96,1.8,2,1.95,2.1,1.85,1.93
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Saville L.,Thiem D.,236,57,204,851,7,5,6,4,3,6,6,4,,,3,1,Completed,3,1.36,2.8,1.42,2.62,1.44,3.05,1.43,2.75,1.44,3.05,1.5,2.83,1.42
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Puetz T.,Gabashvili T.,251,61,191,798,2,6,6,4,6,2,6,2,,,3,1,Completed,1.33,3.25,1.35,3.1,1.3,3.4,1.35,3.49,1.57,2.25,1.57,3.5,1.35,3.16
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Dimitrov G.,Harrison R.,13,150,2595,386,7,6,6,3,6,2,,,,,3,0,Completed,1.07,9,1.08,7.5,1.08,8,1.09,9.16,1.08,7.5,1.1,10,1.08,8.01
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Ferrer D.,Carreno-Busta P.,7,60,4190,809,6,0,6,7,6,1,6,1,,,3,1,Completed,1.05,9,1.09,7,1.08,8,1.08,10.25,1.08,7.5,1.11,11,1.07,8.37
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Bautista R.,Johnson S.,23,70,1580,727,6,3,6,7,6,4,7,5,,,3,1,Completed,1.36,3,1.42,2.8,1.4,2.75,1.43,3.05,1.44,2.75,1.47,3.2,1.4,2.88
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Stepanek R.,Cuevas P.,38,112,1085,531,6,2,6,4,6,4,,,,,3,0,Completed,1.08,8,1.08,7.5,1.08,7,1.11,8.04,1.07,8,1.11,9,1.09,7.29
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Hernych J.,Kamke T.,285,87,165,629,6,3,6,7,6,3,5,7,6,4,3,2,Completed,2.62,1.44,2.45,1.52,2.5,1.44,2.44,1.63,2.5,1.53,2.7,1.63,2.51,1.52
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Cilic M.,Mathieu P.H.,29,89,1350,611,6,4,6,7,6,2,6,1,,,3,1,Completed,1.16,5,1.18,4.5,1.17,4.5,1.21,5,1.17,5,1.21,5.25,1.18,4.8
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Fognini F.,Kuznetsov Al.,15,148,2155,394,2,6,1,6,6,4,6,1,9,7,3,2,Completed,1.22,4,1.25,3.75,1.29,3.5,1.28,4.14,1.33,3.25,1.33,4.14,1.26,3.79
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Haider-Maurer A.,Edmund K.,95,320,589,145,6,3,7,6,6,2,,,,,3,0,Completed,2.62,1.44,2.45,1.52,2.5,1.5,2.66,1.54,2.5,1.53,2.66,1.6,2.53,1.51
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Djokovic N.,Golubev A.,2,56,12330,852,6,0,6,1,6,4,,,,,3,0,Completed,1.01,26,1.01,13,1.01,26,1.01,27.22,1.02,15,1.02,35,1.01,19.63
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Kuznetsov An.,Evans D.,118,143,519,404,6,1,7,5,3,6,7,6,,,3,1,Completed,1.61,2.2,1.62,2.25,1.57,2.38,1.69,2.3,1.62,2.25,1.69,2.38,1.63,2.24
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Dolgopolov O.,Groth S.,19,124,1680,471,7,5,7,6,7,6,,,,,3,0,Completed,1.4,2.75,1.48,2.6,1.4,2.75,1.54,2.66,1.4,2.88,1.54,2.88,1.46,2.67
-37,London,Wimbledon,23/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Becker B.,Young D.,65,69,783,732,6,4,6,3,6,4,,,,,3,0,Completed,1.44,2.62,1.55,2.4,1.5,2.5,1.63,2.43,1.53,2.5,1.63,2.65,1.55,2.44
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Granollers M.,Mahut N.,224,54,216,860,6,4,7,6,6,7,6,4,,,3,1,Completed,3,1.36,3.1,1.35,3,1.36,2.74,1.51,2.63,1.5,3.1,1.51,2.8,1.42
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Hewitt L.,Przysiezny M.,48,120,950,512,6,2,6,7,6,1,6,4,,,3,1,Completed,1.12,6,1.13,5.5,1.12,6,1.1,8.6,1.13,6,1.15,8.6,1.12,6.28
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Kudla D.,Ilhan M.,136,151,428,384,7,6,6,4,4,6,7,5,,,3,1,Completed,1.5,2.5,1.52,2.45,1.53,2.38,1.5,2.79,1.53,2.5,1.59,2.8,1.5,2.56
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Janowicz J.,Devvarman S.,25,125,1510,462,4,6,6,3,6,3,3,6,6,3,3,2,Completed,1.12,6,1.13,5.5,1.12,5.5,1.13,7.04,1.17,5,1.17,7.04,1.13,6.01
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Kyrgios N.,Robert S.,144,78,400,687,7,6,7,6,6,7,6,2,,,3,1,Completed,1.28,3.5,1.33,3.2,1.29,3.5,1.31,3.83,1.25,3.75,1.38,3.83,1.32,3.34
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Lajovic D.,Garcia-Lopez G.,84,34,650,1163,7,6,6,2,3,6,3,6,6,3,3,2,Completed,3.75,1.25,3.5,1.28,3.5,1.29,3.85,1.31,3.5,1.29,4,1.33,3.62,1.28
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Lu Y.H.,Nedovyesov A.,47,102,958,560,6,4,4,6,6,4,1,6,6,1,3,2,Completed,1.18,4.5,1.18,4.5,1.2,4.33,1.18,5.65,1.2,4.5,1.24,5.65,1.19,4.57
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Nishikori K.,De Schepper K.,12,73,2690,711,6,4,7,6,7,5,,,,,3,0,Completed,1.11,6.5,1.13,5.5,1.11,6,1.13,7.18,1.14,5.5,1.15,7.18,1.12,6.13
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Giraldo S.,Gimeno-Traver D.,35,96,1118,587,6,1,7,5,6,0,,,,,3,0,Completed,1.18,4.5,1.22,4,1.2,4.33,1.24,4.63,1.2,4.5,1.25,4.8,1.21,4.24
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Kubot L.,Struff J.L.,72,66,713,766,7,6,6,4,6,4,,,,,3,0,Completed,2.2,1.61,2.1,1.7,2.2,1.62,2.44,1.63,2.2,1.67,2.44,1.75,2.23,1.64
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Wawrinka S.,Sousa J.,3,41,5420,1030,6,3,6,4,6,3,,,,,3,0,Completed,1.18,4.5,1.22,4,1.2,4.5,1.24,4.54,1.22,4,1.27,5,1.21,4.27
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Tsonga J.W.,Melzer J.,17,49,1775,940,6,1,3,6,3,6,6,2,6,4,3,2,Completed,1.2,4.33,1.25,3.75,1.22,4.33,1.26,4.34,1.22,4,1.3,4.34,1.25,3.92
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Gasquet R.,Duckworth J.,14,161,2415,346,6,7,6,3,3,6,6,0,6,1,3,2,Completed,1.11,6.5,1.12,5.75,1.11,6,1.17,6.02,1.13,6,1.17,7,1.13,5.92
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Federer R.,Lorenzi P.,4,83,4945,653,6,1,6,1,6,3,,,,,3,0,Completed,1.002,34,1.01,13,1.01,26,1.01,41,1.01,17,1.01,51.5,1.01,22.88
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Dancevic F.,Karlovic I.,107,32,544,1181,6,4,7,6,7,6,,,,,3,0,Completed,3.4,1.3,3.1,1.35,3.25,1.33,3.44,1.36,3.25,1.33,3.44,1.4,3.19,1.35
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Rosol L.,Paire B.,52,71,865,715,6,3,3,6,7,6,6,4,,,3,1,Completed,1.53,2.37,1.62,2.25,1.67,2.1,1.65,2.4,1.67,2.2,1.67,2.45,1.61,2.3
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Lopez F.,Sugita Y.,26,145,1455,399,7,6,7,6,7,6,,,,,3,0,Completed,1.07,9,1.07,8,1.08,7,1.07,11.25,1.1,7,1.1,11.25,1.06,8.81
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Querrey S.,Klahn B.,67,75,755,707,6,7,6,4,6,1,7,5,,,3,1,Completed,1.12,6,1.2,4.3,1.12,5.5,1.24,4.56,1.14,5.5,1.24,6.03,1.17,5.02
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Nadal R.,Klizan M.,1,51,12500,865,4,6,6,3,6,3,6,3,,,3,1,Completed,1.1,7,1.11,6,1.11,6.5,1.09,9.16,1.11,6.5,1.12,9.16,1.1,6.93
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Raonic M.,Ebden M.,9,85,3245,632,6,2,6,4,6,4,,,,,3,0,Completed,1.11,6.5,1.11,6,1.11,6.5,1.15,6.52,1.1,7,1.15,7,1.12,6.12
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Kukushkin M.,Sela D.,63,101,787,561,6,4,6,4,6,4,,,,,3,0,Completed,2.1,1.66,2.1,1.7,2.1,1.67,2.3,1.69,2.2,1.67,2.3,1.83,2.12,1.7
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Pavic A.,Falla A.,163,55,345,853,6,4,6,3,7,5,,,,,3,0,Completed,3.5,1.28,3.4,1.3,3,1.36,3.56,1.34,3.5,1.29,3.6,1.36,3.39,1.31
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Sock J.,Herbert P.H.,77,130,698,447,6,7,6,2,7,6,6,4,,,3,1,Completed,1.57,2.25,1.7,2.1,1.67,2.1,1.74,2.22,1.67,2.2,1.74,2.25,1.68,2.15
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Muller G.,Benneteau J.,103,46,555,970,6,4,7,6,7,6,,,,,3,0,Completed,2,1.72,2,1.8,2,1.73,2.06,1.85,1.91,1.91,2.1,1.91,2.03,1.77
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Bolelli S.,Ito T.,132,129,445,448,7,5,7,6,3,6,7,6,,,3,1,Completed,1.44,2.62,1.5,2.5,1.53,2.38,1.58,2.54,1.53,2.5,1.59,2.65,1.51,2.53
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Isner J.,Smethurst D.,11,234,2690,205,7,5,6,3,6,4,,,,,3,0,Completed,1.04,13,1.04,10,1.04,11,1.05,13,1.03,12,1.06,13.25,1.04,10.91
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Monfils G.,Jaziri M.,21,121,1635,510,7,6,7,5,6,4,,,,,3,0,Completed,1.08,8,1.1,6.5,1.08,7,1.09,9.16,1.11,6.5,1.12,9.85,1.09,7.44
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Istomin D.,Tursunov D.,45,31,985,1200,7,5,6,4,3,6,6,2,,,3,1,Completed,1.44,2.62,1.45,2.7,1.4,2.75,1.54,2.66,1.36,3,1.54,3,1.44,2.74
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Nieminen J.,Delbonis F.,62,37,790,1099,6,3,7,6,7,5,,,,,3,0,Completed,1.18,4.5,1.18,4.5,1.22,4,1.24,4.65,1.2,4.5,1.24,5.25,1.2,4.42
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Vesely J.,Estrella Burgos V.,68,91,741,600,5,1,,,,,,,,,0,0,Retired,1.2,4.33,1.2,4.3,1.22,4,1.2,5.24,1.22,4,1.23,5.24,1.2,4.44
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Reister J.,Russell M.,110,94,535,593,6,4,6,4,6,7,4,6,7,5,3,2,Completed,1.4,2.75,1.45,2.7,1.44,2.62,1.52,2.74,1.44,2.75,1.52,2.95,1.45,2.7
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Mannarino A.,Riba P.,81,82,664,662,6,2,6,3,6,4,,,,,3,0,Completed,1.08,8,1.1,6.5,1.08,7,1.09,9.16,1.08,7.5,1.1,9.76,1.08,7.7
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Kohlschreiber P.,Sijsling I.,28,59,1440,818,6,4,6,4,6,2,,,,,3,0,Completed,1.25,3.75,1.28,3.5,1.25,3.75,1.31,3.83,1.25,3.75,1.31,4,1.27,3.71
-37,London,Wimbledon,24/06/14,Grand Slam,Outdoor,Grass,1st Round,5,Robredo T.,Lacko L.,22,88,1630,629,7,6,1,6,6,2,6,4,,,3,1,Completed,1.53,2.37,1.55,2.4,1.57,2.25,1.55,2.63,1.57,2.38,1.61,2.63,1.55,2.42
-37,London,Wimbledon,25/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Anderson K.,Roger-Vasselin E.,18,50,1745,885,7,6,1,6,6,3,6,4,,,3,1,Completed,1.36,3,1.42,2.8,1.4,2.75,1.4,3.22,1.4,2.75,1.44,3.22,1.4,2.9
-37,London,Wimbledon,25/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Chardy J.,Matosevic M.,42,58,1015,827,6,7,7,6,7,6,4,6,7,5,3,2,Completed,2.1,1.66,2.15,1.68,2.1,1.67,2.11,1.81,2,1.8,2.15,1.83,2.07,1.74
-37,London,Wimbledon,25/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Stakhovsky S.,Gulbis E.,90,10,610,2725,6,4,6,3,7,6,,,,,3,0,Completed,3.5,1.28,3.4,1.3,3.5,1.29,3.49,1.36,3.5,1.29,3.56,1.38,3.35,1.32
-37,London,Wimbledon,25/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Murray A.,Rola B.,5,92,4680,596,6,1,6,1,6,0,,,,,3,0,Completed,1.01,26,1.01,13,1.01,26,1.01,41,1.01,17,1.02,49,1.01,22.05
-37,London,Wimbledon,25/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Dolgopolov O.,Becker B.,19,65,1680,783,6,7,7,6,6,3,6,4,,,3,1,Completed,1.4,2.75,1.42,2.8,1.44,2.62,1.47,2.92,1.53,2.5,1.53,3.05,1.44,2.77
-37,London,Wimbledon,25/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Mayer L.,Baghdatis M.,64,119,784,515,7,6,4,6,6,1,6,4,,,3,1,Completed,2.75,1.4,2.7,1.45,2.75,1.44,2.8,1.5,3.25,1.33,3.25,1.52,2.68,1.46
-37,London,Wimbledon,25/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Fognini F.,Puetz T.,15,251,2155,191,2,6,6,4,7,6,6,3,,,3,1,Completed,1.28,3.5,1.28,3.5,1.29,3.5,1.37,3.35,1.29,3.5,1.37,3.6,1.3,3.43
-37,London,Wimbledon,25/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Dimitrov G.,Saville L.,13,236,2595,204,6,3,6,2,6,4,,,,,3,0,Completed,1.02,17,1.03,11,1.02,15,1.03,19,1.03,12,1.04,22.9,1.03,13.21
-37,London,Wimbledon,25/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Bautista R.,Hernych J.,23,285,1580,165,7,5,4,6,6,2,6,2,,,3,1,Completed,1.18,4.5,1.22,4,1.17,4.5,1.23,4.77,1.17,5,1.26,5,1.21,4.32
-37,London,Wimbledon,25/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Kuznetsov An.,Ferrer D.,118,7,519,4190,6,7,6,0,3,6,6,3,6,2,3,2,Completed,8,1.08,7.5,1.08,8.5,1.07,8.6,1.1,8,1.07,10,1.11,7.74,1.08
-37,London,Wimbledon,25/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Cilic M.,Haider-Maurer A.,29,95,1350,589,3,6,6,1,6,4,6,4,,,3,1,Completed,1.06,10,1.06,8.5,1.06,8,1.06,11.75,1.08,7.5,1.08,11.75,1.06,9.02
-37,London,Wimbledon,25/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Berdych T.,Tomic B.,6,86,4680,631,4,6,7,6,7,6,6,1,,,3,1,Completed,1.22,4,1.25,3.75,1.22,4.33,1.29,3.97,1.22,4,1.29,4.33,1.25,3.85
-37,London,Wimbledon,25/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Djokovic N.,Stepanek R.,2,38,12330,1085,6,4,6,3,6,7,7,6,,,3,1,Completed,1.03,15,1.03,11,1.02,15,1.03,17.5,1.03,12,1.04,19,1.03,13.13
-37,London,Wimbledon,25/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Wang J.,Youzhny M.,147,16,397,1790,7,6,6,2,6,7,6,3,,,3,1,Completed,4.33,1.2,4.3,1.2,4.33,1.2,4.22,1.27,4.5,1.2,4.5,1.27,4.27,1.21
-37,London,Wimbledon,25/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Simon G.,Haase R.,44,53,1005,865,7,6,6,4,6,4,,,,,3,0,Completed,1.53,2.37,1.62,2.25,1.57,2.25,1.69,2.3,1.67,2.2,1.69,2.55,1.61,2.29
-37,London,Wimbledon,26/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Bolelli S.,Kohlschreiber P.,132,28,445,1440,4,6,6,4,6,3,2,6,7,5,3,2,Completed,6,1.12,5.5,1.13,5,1.14,5.63,1.18,6,1.13,7.5,1.18,5.68,1.13
-37,London,Wimbledon,26/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Nishikori K.,Kudla D.,12,136,2690,428,6,3,6,2,6,1,,,,,3,0,Completed,1.07,9,1.08,7.5,1.08,7,1.08,10.25,1.07,8,1.1,10.25,1.07,8.14
-37,London,Wimbledon,26/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Vesely J.,Monfils G.,68,21,741,1635,7,6,6,3,6,7,6,7,6,4,3,2,Completed,3.75,1.25,3.75,1.25,3.4,1.3,3.64,1.33,3.25,1.33,3.8,1.33,3.52,1.29
-37,London,Wimbledon,26/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Kukushkin M.,Dancevic F.,63,107,787,544,6,3,6,3,6,2,,,,,3,0,Completed,2.25,1.57,2.25,1.62,2.2,1.62,2.18,1.77,2.38,1.57,2.4,1.77,2.21,1.65
-37,London,Wimbledon,26/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Kyrgios N.,Gasquet R.,144,14,400,2415,3,6,6,7,6,4,7,5,10,8,3,2,Completed,3.75,1.25,4.3,1.2,4,1.25,4.38,1.26,3.75,1.25,4.5,1.3,3.95,1.24
-37,London,Wimbledon,26/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Kubot L.,Lajovic D.,72,84,713,650,6,7,7,6,6,3,7,6,,,3,1,Completed,1.36,3,1.48,2.6,1.44,2.62,1.47,2.89,1.44,2.75,1.5,3,1.46,2.7
-37,London,Wimbledon,26/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Raonic M.,Sock J.,9,77,3245,698,6,3,6,4,6,4,,,,,3,0,Completed,1.16,5,1.17,4.75,1.22,4.33,1.18,5.62,1.2,4.5,1.23,5.62,1.18,4.71
-37,London,Wimbledon,26/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Nadal R.,Rosol L.,1,52,12500,865,4,6,7,6,6,4,6,4,,,3,1,Completed,1.07,9,1.08,7.5,1.08,8,1.09,9.16,1.1,7,1.1,9.4,1.08,7.77
-37,London,Wimbledon,26/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Robredo T.,Mannarino A.,22,81,1630,664,6,4,6,1,7,6,,,,,3,0,Completed,1.66,2.1,1.75,2.05,1.67,2.1,1.79,2.14,1.73,2.1,1.83,2.2,1.73,2.08
-37,London,Wimbledon,26/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Wawrinka S.,Lu Y.H.,3,47,5420,958,7,6,6,3,3,6,7,5,,,3,1,Completed,1.11,6.5,1.13,5.5,1.14,5.5,1.15,6.34,1.14,5.5,1.15,6.75,1.12,5.98
-37,London,Wimbledon,26/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Istomin D.,Reister J.,45,110,985,535,7,6,6,4,6,4,,,,,3,0,Completed,1.14,5,1.16,5,1.2,4.33,1.19,5.4,1.17,5,1.2,5.4,1.17,4.84
-37,London,Wimbledon,26/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Tsonga J.W.,Querrey S.,17,67,1775,755,4,6,7,6,6,7,6,3,14,12,3,2,Completed,1.28,3.5,1.33,3.2,1.3,3.5,1.38,3.35,1.33,3.25,1.4,3.5,1.34,3.18
-37,London,Wimbledon,26/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Isner J.,Nieminen J.,11,62,2690,790,7,6,7,6,7,5,,,,,3,0,Completed,1.28,3.5,1.33,3.2,1.3,3.5,1.35,3.51,1.29,3.5,1.37,3.51,1.32,3.33
-37,London,Wimbledon,26/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Federer R.,Muller G.,4,103,4945,555,6,3,7,5,6,3,,,,,3,0,Completed,1.06,10,1.04,10,1.05,10,1.07,10.75,1.06,9,1.08,12,1.06,9.58
-37,London,Wimbledon,27/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Lopez F.,Pavic A.,26,163,1455,345,6,4,7,6,7,5,,,,,3,0,Completed,1.12,6,1.15,5.25,1.17,4.5,1.14,6.7,1.17,5,1.17,6.7,1.14,5.53
-37,London,Wimbledon,27/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Giraldo S.,Granollers M.,35,224,1118,216,4,6,7,6,1,6,6,1,7,5,3,2,Completed,1.83,1.83,1.85,1.9,1.83,1.83,1.99,1.92,1.91,1.91,2,1.98,1.89,1.89
-37,London,Wimbledon,27/06/14,Grand Slam,Outdoor,Grass,2nd Round,5,Janowicz J.,Hewitt L.,25,48,1510,950,7,5,6,4,6,7,4,6,6,3,3,2,Completed,2.2,1.61,2.25,1.62,2.2,1.67,2.2,1.75,2.2,1.67,2.37,1.77,2.21,1.66
-37,London,Wimbledon,27/06/14,Grand Slam,Outdoor,Grass,3rd Round,5,Anderson K.,Fognini F.,18,15,1745,2155,4,6,6,4,2,6,6,2,6,1,3,2,Completed,1.28,3.5,1.3,3.4,1.3,3.5,1.33,3.73,1.29,3.5,1.34,3.8,1.3,3.44
-37,London,Wimbledon,27/06/14,Grand Slam,Outdoor,Grass,3rd Round,5,Djokovic N.,Simon G.,2,44,12330,1005,6,4,6,2,6,4,,,,,3,0,Completed,1.01,21,1.03,11,1.03,12,1.03,21,1.03,12,1.05,21,1.03,14.46
-37,London,Wimbledon,27/06/14,Grand Slam,Outdoor,Grass,3rd Round,5,Tsonga J.W.,Wang J.,17,147,1775,397,6,2,6,2,7,5,,,,,3,0,Completed,1.14,5.5,1.15,5.25,1.12,6,1.2,5.3,1.17,5,1.2,6,1.16,5.16
-37,London,Wimbledon,27/06/14,Grand Slam,Outdoor,Grass,3rd Round,5,Mayer L.,Kuznetsov An.,64,118,784,519,6,4,7,6,6,3,,,,,3,0,Completed,1.83,1.83,2,1.8,2,1.8,1.99,1.93,2,1.8,2.1,1.93,1.96,1.82
-37,London,Wimbledon,27/06/14,Grand Slam,Outdoor,Grass,3rd Round,5,Chardy J.,Stakhovsky S.,42,90,1015,610,6,3,6,7,6,3,6,0,,,3,1,Completed,2.1,1.66,2,1.8,2.1,1.73,2.1,1.84,2.1,1.73,2.2,1.84,2.1,1.73
-37,London,Wimbledon,27/06/14,Grand Slam,Outdoor,Grass,3rd Round,5,Dimitrov G.,Dolgopolov O.,13,19,2595,1680,6,7,6,4,2,6,6,4,6,1,3,2,Completed,1.3,3.4,1.33,3.2,1.3,3.5,1.37,3.36,1.29,3.5,1.38,3.6,1.32,3.36
-37,London,Wimbledon,27/06/14,Grand Slam,Outdoor,Grass,3rd Round,5,Murray A.,Bautista R.,5,23,4680,1580,6,2,6,3,6,2,,,,,3,0,Completed,1.05,11,1.06,8.5,1.04,11,1.06,12.5,1.06,8.5,1.07,14.15,1.05,9.67
-37,London,Wimbledon,27/06/14,Grand Slam,Outdoor,Grass,3rd Round,5,Cilic M.,Berdych T.,29,6,1350,4680,7,6,6,4,7,6,,,,,3,0,Completed,2.25,1.57,2.4,1.55,2.25,1.62,2.46,1.63,2.2,1.67,2.55,1.71,2.26,1.63
-37,London,Wimbledon,28/06/14,Grand Slam,Outdoor,Grass,3rd Round,5,Kyrgios N.,Vesely J.,144,68,400,741,3,6,6,3,7,5,6,2,,,3,1,Completed,1.8,2,1.8,2,1.8,2,1.8,2.14,1.8,2,1.87,2.15,1.79,2
-37,London,Wimbledon,28/06/14,Grand Slam,Outdoor,Grass,3rd Round,5,Raonic M.,Kubot L.,9,72,3245,713,7,6,7,6,6,2,,,,,3,0,Completed,1.1,7,1.11,6,1.12,6,1.12,7.94,1.11,6.5,1.13,8,1.11,6.84
-37,London,Wimbledon,28/06/14,Grand Slam,Outdoor,Grass,3rd Round,5,Nadal R.,Kukushkin M.,1,63,12500,787,6,7,6,1,6,1,6,1,,,3,1,Completed,,,1.04,10,1.05,10,1.04,15.75,1.03,12,1.05,17.05,1.04,11.89
-37,London,Wimbledon,28/06/14,Grand Slam,Outdoor,Grass,3rd Round,5,Federer R.,Giraldo S.,4,35,4945,1118,6,3,6,1,6,3,,,,,3,0,Completed,1.02,17,1.02,12,1.02,15,1.03,19,1.03,12,1.03,23.5,1.02,14.3
-37,London,Wimbledon,28/06/14,Grand Slam,Outdoor,Grass,3rd Round,5,Robredo T.,Janowicz J.,22,25,1630,1510,6,2,6,4,6,7,4,6,6,3,3,2,Completed,1.9,1.9,2,1.8,2,1.8,1.95,1.97,2,1.8,2.05,1.97,1.95,1.83
-37,London,Wimbledon,30/06/14,Grand Slam,Outdoor,Grass,3rd Round,5,Nishikori K.,Bolelli S.,12,132,2690,445,3,6,6,3,4,6,7,6,6,4,3,2,Completed,1.07,9,1.09,7,1.08,8,1.09,9.6,1.08,7.5,1.1,9.6,1.08,7.85
-37,London,Wimbledon,30/06/14,Grand Slam,Outdoor,Grass,3rd Round,5,Lopez F.,Isner J.,26,11,1455,2690,6,7,7,6,7,6,7,5,,,3,1,Completed,1.72,2.1,1.7,2.1,1.73,2.1,1.79,2.17,1.73,2.2,1.79,2.25,1.72,2.11
-37,London,Wimbledon,30/06/14,Grand Slam,Outdoor,Grass,3rd Round,3,Wawrinka S.,Istomin D.,3,45,5420,985,6,3,6,3,6,4,,,,,3,0,Completed,1.4,3,1.4,2.9,1.4,3,1.45,3.02,1.44,2.88,1.45,3.32,1.39,2.93
-37,London,Wimbledon,30/06/14,Grand Slam,Outdoor,Grass,4th Round,5,Cilic M.,Chardy J.,29,42,1350,1015,7,6,6,4,6,4,,,,,3,0,Completed,1.3,3.5,1.33,3.2,1.3,3.5,1.34,3.67,1.3,3.6,1.34,3.7,1.31,3.46
-37,London,Wimbledon,30/06/14,Grand Slam,Outdoor,Grass,4th Round,5,Dimitrov G.,Mayer L.,13,64,2595,784,6,4,7,6,6,2,,,,,3,0,Completed,1.1,6.5,1.1,6.5,1.08,8,1.15,6.8,1.14,6,1.15,10.65,1.11,6.75
-37,London,Wimbledon,30/06/14,Grand Slam,Outdoor,Grass,4th Round,5,Murray A.,Anderson K.,5,18,4680,1745,6,4,6,3,7,6,,,,,3,0,Completed,1.05,11,1.05,9,1.07,8.5,1.06,13,1.05,11,1.07,14.85,1.05,10.38
-37,London,Wimbledon,30/06/14,Grand Slam,Outdoor,Grass,4th Round,5,Djokovic N.,Tsonga J.W.,2,17,12330,1775,6,3,6,4,7,6,,,,,3,0,Completed,1.08,8,1.1,6.5,1.11,6.5,1.14,6.92,1.13,6.5,1.14,8.5,1.09,7.03
-37,London,Wimbledon,01/07/14,Grand Slam,Outdoor,Grass,4th Round,5,Wawrinka S.,Lopez F.,3,26,5420,1455,7,6,7,6,6,3,,,,,3,0,Completed,1.66,2.2,1.62,2.25,1.62,2.25,1.65,2.43,1.67,2.25,1.67,2.43,1.63,2.28
-37,London,Wimbledon,01/07/14,Grand Slam,Outdoor,Grass,4th Round,5,Federer R.,Robredo T.,4,22,4945,1630,6,1,6,4,6,4,,,,,3,0,Completed,1.04,13,1.04,10,1.06,9,1.05,14.8,1.05,11,1.06,16,1.04,11.09
-37,London,Wimbledon,01/07/14,Grand Slam,Outdoor,Grass,4th Round,5,Raonic M.,Nishikori K.,9,12,3245,2690,4,6,6,1,7,6,6,3,,,3,1,Completed,1.8,2,1.85,1.9,1.8,2,1.99,1.93,1.8,2,1.99,2.1,1.83,1.96
-37,London,Wimbledon,01/07/14,Grand Slam,Outdoor,Grass,4th Round,5,Kyrgios N.,Nadal R.,144,1,400,12500,7,6,5,7,7,6,6,3,,,3,1,Completed,10,1.06,8.5,1.06,10,1.05,10.1,1.09,10,1.06,10.4,1.09,8.83,1.06
-37,London,Wimbledon,02/07/14,Grand Slam,Outdoor,Grass,Quarterfinals,5,Dimitrov G.,Murray A.,13,5,2595,4680,6,1,7,6,6,2,,,,,3,0,Completed,4,1.25,3.75,1.25,3.75,1.29,4.5,1.25,4,1.25,4.5,1.3,3.94,1.25
-37,London,Wimbledon,02/07/14,Grand Slam,Outdoor,Grass,Quarterfinals,5,Djokovic N.,Cilic M.,2,29,12330,1350,6,1,3,6,6,7,6,2,6,2,3,2,Completed,1.08,8,1.1,6.5,1.08,8,1.1,9.05,1.11,7,1.12,9.65,1.09,7.7
-37,London,Wimbledon,02/07/14,Grand Slam,Outdoor,Grass,Quarterfinals,5,Federer R.,Wawrinka S.,4,3,4945,5420,3,6,7,6,6,4,6,4,,,3,1,Completed,1.28,3.75,1.3,3.4,1.33,3.4,1.3,4,1.33,3.4,1.35,4,1.3,3.58
-37,London,Wimbledon,02/07/14,Grand Slam,Outdoor,Grass,Quarterfinals,5,Raonic M.,Kyrgios N.,9,144,3245,400,6,7,6,2,6,4,7,6,,,3,1,Completed,1.36,3.2,1.35,3.1,1.4,3,1.36,3.5,1.36,3.25,1.4,3.5,1.37,3.11
-37,London,Wimbledon,04/07/14,Grand Slam,Outdoor,Grass,Semifinals,5,Djokovic N.,Dimitrov G.,2,13,12330,2595,6,4,3,6,7,6,7,6,,,3,1,Completed,1.25,4,1.22,4,1.25,4,1.29,4.22,1.25,4.33,1.32,4.45,1.25,3.98
-37,London,Wimbledon,04/07/14,Grand Slam,Outdoor,Grass,Semifinals,5,Federer R.,Raonic M.,4,9,4945,3245,6,4,6,4,6,4,,,,,3,0,Completed,1.4,3,1.35,3.1,1.36,3.25,1.43,3.16,1.4,3,1.47,3.4,1.38,3.06
-37,London,Wimbledon,06/07/14,Grand Slam,Outdoor,Grass,The Final,5,Djokovic N.,Federer R.,2,4,12330,4945,6,7,6,4,7,6,5,7,6,4,3,2,Completed,1.61,2.4,1.6,2.3,1.57,2.38,1.61,2.53,1.62,2.4,1.75,2.53,1.63,2.31
+"winner","winner_seeding","winner_flag","loser","loser_seeding","loser_flag","score","round","year","winner_country","loser_country","winner_type","loser_type"
+"Jimmy Wang",,"TPE","Alejandro Gonzalez",,"COL","63 63 62","Round of 128",2014,"Chinese Taipei","Colombia","qualifier",
+"Jiri Vesely",,"CZE","Victor Estrella Burgos",,"DOM","51 (RET)","Round of 128",2014,"Czech Republic","Dominican Republic","wildcard",
+"Bernard Tomic",,"AUS","Evgeny Donskoy",,"RUS","64 63 62","Round of 128",2014,"Australia","Russia",,
+"Radek Stepanek",,"CZE","Pablo Cuevas",,"URU","62 64 64","Round of 128",2014,"Czech Republic","Uruguay",,
+"Sergiy Stakhovsky",,"UKR","Carlos Berlocq",,"ARG","63 63 63","Round of 128",2014,"Ukraine","Argentina",,
+"Jack Sock",,"USA","Pierre-Hugues Herbert",,"FRA","675 62 765 64","Round of 128",2014,"United States","France",,"qualifier"
+"Gilles Simon",,"FRA","Konstantin Kravchuk",,"RUS","62 764 75","Round of 128",2014,"France","Russia",,"qualifier"
+"Luke Saville",,"AUS","Dominic Thiem",,"AUT","75 64 36 64","Round of 128",2014,"Australia","Austria","qualifier",
+"Lukas Rosol",,"CZE","Benoit Paire",,"FRA","63 36 765 64","Round of 128",2014,"Czech Republic","France",,
+"Blaz Rola",,"SLO","Pablo Andujar",,"ESP","63 61 64","Round of 128",2014,"Slovenia","Spain",,
+"Edouard Roger-Vasselin",,"FRA","Filippo Volandri",,"ITA","761 62 64","Round of 128",2014,"France","Italy",,
+"Julian Reister",,"GER","Michael Russell",,"USA","64 64 675 46 75","Round of 128",2014,"Germany","United States",,
+"Sam Querrey",,"USA","Bradley Klahn",,"USA","675 64 61 75","Round of 128",2014,"United States","United States",,
+"Tim Puetz",,"GER","Teymuraz Gabashvili",,"RUS","26 64 62 62","Round of 128",2014,"Germany","Russia","qualifier",
+"Ante Pavic",,"CRO","Alejandro Falla",,"COL","64 63 75","Round of 128",2014,"Croatia","Colombia","qualifier",
+"Jarkko Nieminen",,"FIN","Federico Delbonis",,"ARG","63 763 75","Round of 128",2014,"Finland","Argentina",,
+"Gilles Muller",,"LUX","Julien Benneteau",,"FRA","64 766 765","Round of 128",2014,"Luxembourg","France","qualifier",
+"Adrian Mannarino",,"FRA","Pere Riba",,"ESP","62 63 64","Round of 128",2014,"France","Spain",,
+"Yen-Hsun Lu",,"TPE","Aleksandr Nedovyesov",,"KAZ","64 46 64 16 61","Round of 128",2014,"Chinese Taipei","Kazakhstan",,
+"Nick Kyrgios",,"AUS","Stephane Robert",,"FRA","762 761 676 62","Round of 128",2014,"Australia","France","wildcard",
+"Andrey Kuznetsov",,"RUS","Daniel Evans",,"GBR","61 75 36 765","Round of 128",2014,"Russia","Great Britain",,"wildcard"
+"Mikhail Kukushkin",,"KAZ","Dudi Sela",,"ISR","64 64 64","Round of 128",2014,"Kazakhstan","Israel",,
+"Denis Kudla",,"USA","Marsel Ilhan",,"TUR","763 64 46 75","Round of 128",2014,"United States","Turkey","qualifier","qualifier"
+"Lukasz Kubot",,"POL","Jan-Lennard Struff",,"GER","766 64 64","Round of 128",2014,"Poland","Germany",,
+"Lleyton Hewitt",,"AUS","Michal Przysiezny",,"POL","62 6714 61 64","Round of 128",2014,"Australia","Poland",,
+"Jan Hernych",,"CZE","Tobias Kamke",,"GER","63 675 63 57 64","Round of 128",2014,"Czech Republic","Germany","qualifier",
+"Andreas Haider-Maurer",,"AUT","Kyle Edmund",,"GBR","63 764 62","Round of 128",2014,"Austria","Great Britain",,"wildcard"
+"Santiago Giraldo",,"COL","Daniel Gimeno-Traver",,"ESP","61 75 60","Round of 128",2014,"Colombia","Spain",,
+"Jeremy Chardy",,"FRA","Daniel Cox",,"GBR","62 763 676 63","Round of 128",2014,"France","Great Britain",,"wildcard"
+"Simone Bolelli",,"ITA","Tatsuma Ito",,"JPN","75 763 36 765","Round of 128",2014,"Italy","Japan","lucky loser","qualifier"
+"Benjamin Becker",,"GER","Donald Young",,"USA","64 63 64","Round of 128",2014,"Germany","United States",,
+"Marcos Baghdatis",,"CYP","Dustin Brown",,"GER","64 75 26 764","Round of 128",2014,"Cyprus","Germany","wildcard",
+"Denis Istomin",,"UZB","Dmitry Tursunov",32,"RUS","75 64 36 62","Round of 128",2014,"Uzbekistan","Russia",,
+"Robin Haase",,"NED","Vasek Pospisil",31,"CAN","766 46 75 63","Round of 128",2014,"Netherlands","Canada",,
+"Marcel Granollers",30,"ESP","Nicolas Mahut",,"FRA","64 766 677 64","Round of 128",2014,"Spain","France",,
+"Frank Dancevic",,"CAN","Ivo Karlovic",29,"CRO","64 765 764","Round of 128",2014,"Canada","Croatia","lucky loser",
+"Dusan Lajovic",,"SRB","Guillermo Garcia-Lopez",28,"ESP","765 62 36 36 63","Round of 128",2014,"Serbia","Spain",,
+"Roberto Bautista Agut",27,"ESP","Steve Johnson",,"USA","63 673 64 75","Round of 128",2014,"Spain","United States",,
+"Marin Cilic",26,"CRO","Paul-Henri Mathieu",,"FRA","64 672 62 61","Round of 128",2014,"Croatia","France",,
+"Leonardo Mayer",,"ARG","Andreas Seppi",25,"ITA","63 26 46 765 64","Round of 128",2014,"Argentina","Italy",,
+"Gael Monfils",24,"FRA","Malek Jaziri",,"TUN","765 75 64","Round of 128",2014,"France","Tunisia",,"lucky loser"
+"Tommy Robredo",23,"ESP","Lukas Lacko",,"SVK","765 16 62 64","Round of 128",2014,"Spain","Slovakia",,
+"Philipp Kohlschreiber",22,"GER","Igor Sijsling",,"NED","64 64 62","Round of 128",2014,"Germany","Netherlands",,
+"Alexandr Dolgopolov",21,"UKR","Sam Groth",,"AUS","75 762 765","Round of 128",2014,"Ukraine","Australia",,"qualifier"
+"Kevin Anderson",20,"RSA","Aljaz Bedene",,"GBR","63 75 62","Round of 128",2014,"South Africa","Great Britain",,"lucky loser"
+"Feliciano Lopez",19,"ESP","Yuichi Sugita",,"JPN","766 766 767","Round of 128",2014,"Spain","Japan",,"qualifier"
+"Marinko Matosevic",,"AUS","Fernando Verdasco",18,"ESP","64 46 64 62","Round of 128",2014,"Australia","Spain",,
+"Mikhail Youzhny",17,"RUS","James Ward",,"GBR","62 62 61","Round of 128",2014,"Russia","Great Britain",,"wildcard"
+"Fabio Fognini",16,"ITA","Alex Kuznetsov",,"USA","26 16 64 61 97","Round of 128",2014,"Italy","United States",,"qualifier"
+"Jerzy Janowicz",15,"POL","Somdev Devvarman",,"IND","46 63 63 36 63","Round of 128",2014,"Poland","India",,
+"Jo-Wilfried Tsonga",14,"FRA","Jurgen Melzer",,"AUT","61 36 36 62 64","Round of 128",2014,"France","Austria",,
+"Richard Gasquet",13,"FRA","James Duckworth",,"AUS","673 63 36 60 61","Round of 128",2014,"France","Australia",,"qualifier"
+"Ernests Gulbis",12,"LAT","Jurgen Zopp",,"EST","767 75 7610","Round of 128",2014,"Latvia","Estonia",,
+"Grigor Dimitrov",11,"BUL","Ryan Harrison",,"USA","761 63 62","Round of 128",2014,"Bulgaria","United States",,"qualifier"
+"Kei Nishikori",10,"JPN","Kenny De Schepper",,"FRA","64 765 75","Round of 128",2014,"Japan","France",,
+"John Isner",9,"USA","Daniel Smethurst",,"GBR","75 63 64","Round of 128",2014,"United States","Great Britain",,"wildcard"
+"Milos Raonic",8,"CAN","Matthew Ebden",,"AUS","62 64 64","Round of 128",2014,"Canada","Australia",,
+"David Ferrer",7,"ESP","Pablo Carreno Busta",,"ESP","60 673 61 61","Round of 128",2014,"Spain","Spain",,
+"Tomas Berdych",6,"CZE","Victor Hanescu",,"ROU","675 61 64 63","Round of 128",2014,"Czech Republic","Romania",,
+"Stan Wawrinka",5,"SUI","Joao Sousa",,"POR","63 64 63","Round of 128",2014,"Switzerland","Portugal",,
+"Roger Federer",4,"SUI","Paolo Lorenzi",,"ITA","61 61 63","Round of 128",2014,"Switzerland","Italy",,
+"Andy Murray",3,"GBR","David Goffin",,"BEL","61 64 75","Round of 128",2014,"Great Britain","Belgium",,
+"Rafael Nadal",2,"ESP","Martin Klizan",,"SVK","46 63 63 63","Round of 128",2014,"Spain","Slovakia",,
+"Novak Djokovic",1,"SRB","Andrey Golubev",,"KAZ","60 61 64","Round of 128",2014,"Serbia","Kazakhstan",,
+"Gilles Simon",,"FRA","Robin Haase",,"NED","761 64 64","Round of 64",2014,"France","Netherlands",,
+"Leonardo Mayer",,"ARG","Marcos Baghdatis",,"CYP","764 46 61 64","Round of 64",2014,"Argentina","Cyprus",,"wildcard"
+"Mikhail Kukushkin",,"KAZ","Frank Dancevic",,"CAN","63 63 62","Round of 64",2014,"Kazakhstan","Canada",,"lucky loser"
+"Lukasz Kubot",,"POL","Dusan Lajovic",,"SRB","674 764 63 763","Round of 64",2014,"Poland","Serbia",,
+"Denis Istomin",,"UZB","Julian Reister",,"GER","767 64 64","Round of 64",2014,"Uzbekistan","Germany",,
+"Jeremy Chardy",,"FRA","Marinko Matosevic",,"AUS","675 767 769 46 75","Round of 64",2014,"France","Australia",,
+"Santiago Giraldo",,"COL","Marcel Granollers",30,"ESP","46 762 16 61 75","Round of 64",2014,"Colombia","Spain",,
+"Roberto Bautista Agut",27,"ESP","Jan Hernych",,"CZE","75 46 62 62","Round of 64",2014,"Spain","Czech Republic",,"qualifier"
+"Marin Cilic",26,"CRO","Andreas Haider-Maurer",,"AUT","36 61 64 64","Round of 64",2014,"Croatia","Austria",,
+"Jiri Vesely",,"CZE","Gael Monfils",24,"FRA","763 63 671 673 64","Round of 64",2014,"Czech Republic","France","wildcard",
+"Tommy Robredo",23,"ESP","Adrian Mannarino",,"FRA","64 61 765","Round of 64",2014,"Spain","France",,
+"Simone Bolelli",,"ITA","Philipp Kohlschreiber",22,"GER","46 64 63 26 75","Round of 64",2014,"Italy","Germany","lucky loser",
+"Alexandr Dolgopolov",21,"UKR","Benjamin Becker",,"GER","674 760 63 64","Round of 64",2014,"Ukraine","Germany",,
+"Kevin Anderson",20,"RSA","Edouard Roger-Vasselin",,"FRA","76 16 63 64","Round of 64",2014,"South Africa","France",,
+"Feliciano Lopez",19,"ESP","Ante Pavic",,"CRO","64 764 75","Round of 64",2014,"Spain","Croatia",,"qualifier"
+"Jimmy Wang",,"TPE","Mikhail Youzhny",17,"RUS","761 62 675 63","Round of 64",2014,"Chinese Taipei","Russia","qualifier",
+"Fabio Fognini",16,"ITA","Tim Puetz",,"GER","26 64 766 63","Round of 64",2014,"Italy","Germany",,"qualifier"
+"Jerzy Janowicz",15,"POL","Lleyton Hewitt",,"AUS","75 64 677 46 63","Round of 64",2014,"Poland","Australia",,
+"Jo-Wilfried Tsonga",14,"FRA","Sam Querrey",,"USA","46 762 674 63 1412","Round of 64",2014,"France","United States",,
+"Nick Kyrgios",,"AUS","Richard Gasquet",13,"FRA","36 674 64 75 108","Round of 64",2014,"Australia","France","wildcard",
+"Sergiy Stakhovsky",,"UKR","Ernests Gulbis",12,"LAT","64 63 765","Round of 64",2014,"Ukraine","Latvia",,
+"Grigor Dimitrov",11,"BUL","Luke Saville",,"AUS","63 62 64","Round of 64",2014,"Bulgaria","Australia",,"qualifier"
+"Kei Nishikori",10,"JPN","Denis Kudla",,"USA","63 62 61","Round of 64",2014,"Japan","United States",,"qualifier"
+"John Isner",9,"USA","Jarkko Nieminen",,"FIN","7617 763 75","Round of 64",2014,"United States","Finland",,
+"Milos Raonic",8,"CAN","Jack Sock",,"USA","63 64 64","Round of 64",2014,"Canada","United States",,
+"Andrey Kuznetsov",,"RUS","David Ferrer",7,"ESP","675 60 36 63 62","Round of 64",2014,"Russia","Spain",,
+"Tomas Berdych",6,"CZE","Bernard Tomic",,"AUS","46 765 763 61","Round of 64",2014,"Czech Republic","Australia",,
+"Stan Wawrinka",5,"SUI","Yen-Hsun Lu",,"TPE","766 63 36 75","Round of 64",2014,"Switzerland","Chinese Taipei",,
+"Roger Federer",4,"SUI","Gilles Muller",,"LUX","63 75 63","Round of 64",2014,"Switzerland","Luxembourg",,"qualifier"
+"Andy Murray",3,"GBR","Blaz Rola",,"SLO","61 61 60","Round of 64",2014,"Great Britain","Slovenia",,
+"Rafael Nadal",2,"ESP","Lukas Rosol",,"CZE","46 766 64 64","Round of 64",2014,"Spain","Czech Republic",,
+"Novak Djokovic",1,"SRB","Radek Stepanek",,"CZE","64 63 675 765","Round of 64",2014,"Serbia","Czech Republic",,
+"Leonardo Mayer",,"ARG","Andrey Kuznetsov",,"RUS","64 761 63","Round of 32",2014,"Argentina","Russia",,
+"Nick Kyrgios",,"AUS","Jiri Vesely",,"CZE","36 63 75 62","Round of 32",2014,"Australia","Czech Republic","wildcard","wildcard"
+"Jeremy Chardy",,"FRA","Sergiy Stakhovsky",,"UKR","63 674 63 60","Round of 32",2014,"France","Ukraine",,
+"Kevin Anderson",20,"RSA","Fabio Fognini",16,"ITA","46 64 26 62 61","Round of 32",2014,"South Africa","Italy",,
+"Tommy Robredo",23,"ESP","Jerzy Janowicz",15,"POL","62 64 675 46 63","Round of 32",2014,"Spain","Poland",,
+"Jo-Wilfried Tsonga",14,"FRA","Jimmy Wang",,"TPE","62 62 75","Round of 32",2014,"France","Chinese Taipei",,"qualifier"
+"Grigor Dimitrov",11,"BUL","Alexandr Dolgopolov",21,"UKR","673 64 26 64 61","Round of 32",2014,"Bulgaria","Ukraine",,
+"Kei Nishikori",10,"JPN","Simone Bolelli",,"ITA","36 63 46 764 64","Round of 32",2014,"Japan","Italy",,"lucky loser"
+"Feliciano Lopez",19,"ESP","John Isner",9,"USA","678 766 763 75","Round of 32",2014,"Spain","United States",,
+"Milos Raonic",8,"CAN","Lukasz Kubot",,"POL","762 764 62","Round of 32",2014,"Canada","Poland",,
+"Marin Cilic",26,"CRO","Tomas Berdych",6,"CZE","765 64 766","Round of 32",2014,"Croatia","Czech Republic",,
+"Stan Wawrinka",5,"SUI","Denis Istomin",,"UZB","63 63 64","Round of 32",2014,"Switzerland","Uzbekistan",,
+"Roger Federer",4,"SUI","Santiago Giraldo",,"COL","63 61 63","Round of 32",2014,"Switzerland","Colombia",,
+"Andy Murray",3,"GBR","Roberto Bautista Agut",27,"ESP","62 63 62","Round of 32",2014,"Great Britain","Spain",,
+"Rafael Nadal",2,"ESP","Mikhail Kukushkin",,"KAZ","674 61 61 61","Round of 32",2014,"Spain","Kazakhstan",,
+"Novak Djokovic",1,"SRB","Gilles Simon",,"FRA","64 62 64","Round of 32",2014,"Serbia","France",,
+"Marin Cilic",26,"CRO","Jeremy Chardy",,"FRA","768 64 64","Round of 16",2014,"Croatia","France",,
+"Grigor Dimitrov",11,"BUL","Leonardo Mayer",,"ARG","64 766 62","Round of 16",2014,"Bulgaria","Argentina",,
+"Milos Raonic",8,"CAN","Kei Nishikori",10,"JPN","46 61 764 63","Round of 16",2014,"Canada","Japan",,
+"Stan Wawrinka",5,"SUI","Feliciano Lopez",19,"ESP","765 767 63","Round of 16",2014,"Switzerland","Spain",,
+"Roger Federer",4,"SUI","Tommy Robredo",23,"ESP","61 64 64","Round of 16",2014,"Switzerland","Spain",,
+"Andy Murray",3,"GBR","Kevin Anderson",20,"RSA","64 63 766","Round of 16",2014,"Great Britain","South Africa",,
+"Nick Kyrgios",,"AUS","Rafael Nadal",2,"ESP","765 57 765 63","Round of 16",2014,"Australia","Spain","wildcard",
+"Novak Djokovic",1,"SRB","Jo-Wilfried Tsonga",14,"FRA","63 64 765","Round of 16",2014,"Serbia","France",,
+"Milos Raonic",8,"CAN","Nick Kyrgios",,"AUS","674 62 64 764","Quarter-Finals",2014,"Canada","Australia",,"wildcard"
+"Roger Federer",4,"SUI","Stan Wawrinka",5,"SUI","36 765 64 64","Quarter-Finals",2014,"Switzerland","Switzerland",,
+"Grigor Dimitrov",11,"BUL","Andy Murray",3,"GBR","61 764 62","Quarter-Finals",2014,"Bulgaria","Great Britain",,
+"Novak Djokovic",1,"SRB","Marin Cilic",26,"CRO","61 36 674 62 62","Quarter-Finals",2014,"Serbia","Croatia",,
+"Roger Federer",4,"SUI","Milos Raonic",8,"CAN","64 64 64","Semi-Finals",2014,"Switzerland","Canada",,
+"Novak Djokovic",1,"SRB","Grigor Dimitrov",11,"BUL","64 36 762 767","Semi-Finals",2014,"Serbia","Bulgaria",,
+"Novak Djokovic",1,"SRB","Roger Federer",4,"SUI","677 64 764 57 64","Finals",2014,"Serbia","Switzerland",,
+"Grega Zemlja",,"SLO","Michael Russell",,"USA","673 64 64 61","Round of 128",2013,"Slovenia","United States",,
+"Jimmy Wang",,"TPE","Wayne Odesnik",,"USA","765 46 62 36 75","Round of 128",2013,"Chinese Taipei","United States","qualifier","qualifier"
+"Fernando Verdasco",,"ESP","Xavier Malisse",,"BEL","675 61 64 63","Round of 128",2013,"Spain","Belgium",,
+"Jan-Lennard Struff",,"GER","Blaz Kavcic",,"SLO","64 61 63","Round of 128",2013,"Germany","Slovenia","qualifier",
+"Radek Stepanek",,"CZE","Matt Reid",,"AUS","62 62 64","Round of 128",2013,"Czech Republic","Australia",,"qualifier"
+"Sergiy Stakhovsky",,"UKR","Rogerio Dutra Silva",,"BRA","64 60 64","Round of 128",2013,"Ukraine","Brazil",,
+"Go Soeda",,"JPN","Andreas Haider-Maurer",,"AUT","766 75 61","Round of 128",2013,"Japan","Austria","qualifier",
+"Igor Sijsling",,"NED","Alex Kuznetsov",,"USA","63 64 64","Round of 128",2013,"Netherlands","United States",,"qualifier"
+"Guillaume Rufin",,"FRA","Marinko Matosevic",,"AUS","61 46 64 63","Round of 128",2013,"France","Australia",,
+"Stephane Robert",,"FRA","Alejandro Falla",,"COL","63 765 75","Round of 128",2013,"France","Colombia","qualifier",
+"Bobby Reynolds",,"USA","Steve Johnson",,"USA","16 764 63 674 64","Round of 128",2013,"United States","United States","qualifier","wildcard"
+"Julian Reister",,"GER","Lukas Rosol",,"CZE","63 46 765 674 64","Round of 128",2013,"Germany","Czech Republic","qualifier",
+"Rajeev Ram",,"USA","Lukas Lacko",,"SVK","75 64 672 62","Round of 128",2013,"United States","Slovakia",,
+"Michal Przysiezny",,"POL","Philipp Petzschner",,"GER","63 766 60","Round of 128",2013,"Poland","Germany","qualifier",
+"Vasek Pospisil",,"CAN","Marc Gicquel",,"FRA","63 62 763","Round of 128",2013,"Canada","France",,"qualifier"
+"Leonardo Mayer",,"ARG","Aljaz Bedene",,"GBR","62 63 64","Round of 128",2013,"Argentina","Great Britain",,
+"Paul-Henri Mathieu",,"FRA","Ricardas Berankis",,"LTU","764 75 673 64","Round of 128",2013,"France","Lithuania",,
+"Adrian Mannarino",,"FRA","Pablo Andujar",,"ESP","61 62 63","Round of 128",2013,"France","Spain",,
+"Nicolas Mahut",,"FRA","Jan Hajek",,"CZE","62 64 63","Round of 128",2013,"France","Czech Republic","wildcard",
+"Yen-Hsun Lu",,"TPE","James Ward",,"GBR","674 64 7611 764","Round of 128",2013,"Chinese Taipei","Great Britain",,"wildcard"
+"Michael Llodra",,"FRA","Jarkko Nieminen",,"FIN","763 64 63","Round of 128",2013,"France","Finland",,
+"Jesse Levine",,"CAN","Guido Pella",,"ARG","64 62 46 36 43 (RET)","Round of 128",2013,"Canada","Argentina",,
+"Andrey Kuznetsov",,"RUS","Albert Montanes",,"ESP","63 64 36 63","Round of 128",2013,"Russia","Spain",,
+"Denis Kudla",,"USA","James Duckworth",,"AUS","64 62 36 46 61","Round of 128",2013,"United States","Australia","qualifier","qualifier"
+"Lukasz Kubot",,"POL","Igor Andreev",,"RUS","61 75 62","Round of 128",2013,"Poland","Russia",,
+"Ernests Gulbis",,"LAT","Edouard Roger-Vasselin",,"FRA","761 64 75","Round of 128",2013,"Latvia","France",,
+"Santiago Giraldo",,"COL","Horacio Zeballos",,"ARG","36 764 676 61 63","Round of 128",2013,"Colombia","Argentina",,
+"Kenny De Schepper",,"FRA","Paolo Lorenzi",,"ITA","766 64 62","Round of 128",2013,"France","Italy",,
+"Dustin Brown",,"GER","Guillermo Garcia-Lopez",,"ESP","63 63 63","Round of 128",2013,"Germany","Spain","qualifier",
+"Daniel Brands",,"GER","Daniel Gimeno-Traver",,"ESP","765 674 675 61 64","Round of 128",2013,"Germany","Spain",,
+"James Blake",,"USA","Thiemo de Bakker",,"NED","61 63 62","Round of 128",2013,"United States","Netherlands",,
+"Roberto Bautista Agut",,"ESP","Teymuraz Gabashvili",,"RUS","63 64 763","Round of 128",2013,"Spain","Russia",,"qualifier"
+"Tommy Robredo",32,"ESP","Alex Bogomolov Jr.",,"RUS","62 62 64","Round of 128",2013,"Spain","Russia",,
+"Julien Benneteau",31,"FRA","Tobias Kamke",,"GER","64 675 64 62","Round of 128",2013,"France","Germany",,
+"Jurgen Melzer",,"AUT","Fabio Fognini",30,"ITA","675 75 63 62","Round of 128",2013,"Austria","Italy",,
+"Grigor Dimitrov",29,"BUL","Simone Bolelli",,"ITA","61 64 63","Round of 128",2013,"Bulgaria","Italy",,
+"Jeremy Chardy",28,"FRA","Ryan Harrison",,"USA","764 46 75 62","Round of 128",2013,"France","United States",,
+"Kevin Anderson",27,"RSA","Olivier Rochus",,"BEL","64 62 61","Round of 128",2013,"South Africa","Belgium",,"lucky loser"
+"Alexandr Dolgopolov",26,"UKR","Gastao Elias",,"POR","61 762 62","Round of 128",2013,"Ukraine","Portugal",,
+"Benoit Paire",25,"FRA","Adrian Ungur",,"ROU","64 46 63 61","Round of 128",2013,"France","Romania",,
+"Jerzy Janowicz",24,"POL","Kyle Edmund",,"GBR","62 62 64","Round of 128",2013,"Poland","Great Britain",,"wildcard"
+"Andreas Seppi",23,"ITA","Denis Istomin",,"UZB","766 763 57 36 63","Round of 128",2013,"Italy","Uzbekistan",,
+"Juan Monaco",22,"ARG","Bastian Knittel",,"GER","64 62 63","Round of 128",2013,"Argentina","Germany",,"qualifier"
+"Bernard Tomic",,"AUS","Sam Querrey",21,"USA","766 763 36 26 63","Round of 128",2013,"Australia","United States",,
+"Mikhail Youzhny",20,"RUS","Robin Haase",,"NED","64 75 75","Round of 128",2013,"Russia","Netherlands",,
+"Feliciano Lopez",,"ESP","Gilles Simon",19,"FRA","62 64 7611","Round of 128",2013,"Spain","France",,
+"John Isner",18,"USA","Evgeny Donskoy",,"RUS","61 765 763","Round of 128",2013,"United States","Russia",,
+"Milos Raonic",17,"CAN","Carlos Berlocq",,"ARG","64 63 63","Round of 128",2013,"Canada","Argentina",,
+"Ivan Dodig",,"CRO","Philipp Kohlschreiber",16,"GER","46 676 763 63 21 (RET)","Round of 128",2013,"Croatia","Germany",,
+"Nicolas Almagro",15,"ESP","Jurgen Zopp",,"EST","64 762 75","Round of 128",2013,"Spain","Estonia",,
+"Viktor Troicki",,"SRB","Janko Tipsarevic",14,"SRB","63 64 765","Round of 128",2013,"Serbia","Serbia",,
+"Tommy Haas",13,"GER","Dmitry Tursunov",,"RUS","63 75 75","Round of 128",2013,"Germany","Russia",,
+"Kei Nishikori",12,"JPN","Matthew Ebden",,"AUS","62 64 63","Round of 128",2013,"Japan","Australia",,"wildcard"
+"Lleyton Hewitt",,"AUS","Stan Wawrinka",11,"SUI","64 75 63","Round of 128",2013,"Australia","Switzerland",,
+"Marin Cilic",10,"CRO","Marcos Baghdatis",,"CYP","63 64 64","Round of 128",2013,"Croatia","Cyprus",,
+"Richard Gasquet",9,"FRA","Marcel Granollers",,"ESP","672 64 75 64","Round of 128",2013,"France","Spain",,
+"Juan Martin Del Potro",8,"ARG","Albert Ramos-Vinolas",,"ESP","62 75 61","Round of 128",2013,"Argentina","Spain",,
+"Tomas Berdych",7,"CZE","Martin Klizan",,"SVK","63 64 64","Round of 128",2013,"Czech Republic","Slovakia",,
+"Jo-Wilfried Tsonga",6,"FRA","David Goffin",,"BEL","764 64 63","Round of 128",2013,"France","Belgium",,
+"Steve Darcis",,"BEL","Rafael Nadal",5,"ESP","764 768 64","Round of 128",2013,"Belgium","Spain",,
+"David Ferrer",4,"ESP","Martin Alund",,"ARG","61 46 75 62","Round of 128",2013,"Spain","Argentina",,
+"Roger Federer",3,"SUI","Victor Hanescu",,"ROU","63 62 60","Round of 128",2013,"Switzerland","Romania",,
+"Andy Murray",2,"GBR","Benjamin Becker",,"GER","64 63 62","Round of 128",2013,"Great Britain","Germany",,
+"Novak Djokovic",1,"SRB","Florian Mayer",,"GER","63 75 64","Round of 128",2013,"Serbia","Germany",,
+"Viktor Troicki",,"SRB","Andrey Kuznetsov",,"RUS","64 63 64","Round of 64",2013,"Serbia","Russia",,
+"Bernard Tomic",,"AUS","James Blake",,"USA","63 64 75","Round of 64",2013,"Australia","United States",,
+"Jurgen Melzer",,"AUT","Julian Reister",,"GER","36 762 765 62","Round of 64",2013,"Austria","Germany",,"qualifier"
+"Feliciano Lopez",,"ESP","Paul-Henri Mathieu",,"FRA","63 51 (RET)","Round of 64",2013,"Spain","France",,
+"Lukasz Kubot",,"POL","Steve Darcis",,"BEL","(W/O)","Round of 64",2013,"Poland","Belgium",,
+"Ivan Dodig",,"CRO","Denis Kudla",,"USA","61 764 75","Round of 64",2013,"Croatia","United States",,"qualifier"
+"Dustin Brown",,"GER","Lleyton Hewitt",,"AUS","64 64 673 62","Round of 64",2013,"Germany","Australia","qualifier",
+"Tommy Robredo",32,"ESP","Nicolas Mahut",,"FRA","763 61 765","Round of 64",2013,"Spain","France",,"wildcard"
+"Fernando Verdasco",,"ESP","Julien Benneteau",31,"FRA","761 764 64","Round of 64",2013,"Spain","France",,
+"Grega Zemlja",,"SLO","Grigor Dimitrov",29,"BUL","36 764 36 64 119","Round of 64",2013,"Slovenia","Bulgaria",,
+"Jeremy Chardy",28,"FRA","Jan-Lennard Struff",,"GER","62 57 766 764","Round of 64",2013,"France","Germany",,"qualifier"
+"Kevin Anderson",27,"RSA","Michal Przysiezny",,"POL","64 762 64","Round of 64",2013,"South Africa","Poland",,"qualifier"
+"Alexandr Dolgopolov",26,"UKR","Santiago Giraldo",,"COL","64 75 63","Round of 64",2013,"Ukraine","Colombia",,
+"Benoit Paire",25,"FRA","Stephane Robert",,"FRA","64 75 64","Round of 64",2013,"France","France",,"qualifier"
+"Jerzy Janowicz",24,"POL","Radek Stepanek",,"CZE","62 53 (RET)","Round of 64",2013,"Poland","Czech Republic",,
+"Andreas Seppi",23,"ITA","Michael Llodra",,"FRA","75 (RET)","Round of 64",2013,"Italy","France",,
+"Juan Monaco",22,"ARG","Rajeev Ram",,"USA","57 62 64 62","Round of 64",2013,"Argentina","United States",,
+"Mikhail Youzhny",20,"RUS","Vasek Pospisil",,"CAN","62 673 767 36 64","Round of 64",2013,"Russia","Canada",,
+"Adrian Mannarino",,"FRA","John Isner",18,"USA","11 (RET)","Round of 64",2013,"France","United States",,
+"Igor Sijsling",,"NED","Milos Raonic",17,"CAN","75 64 764","Round of 64",2013,"Netherlands","Canada",,
+"Nicolas Almagro",15,"ESP","Guillaume Rufin",,"FRA","75 676 63 64","Round of 64",2013,"Spain","France",,
+"Tommy Haas",13,"GER","Jimmy Wang",,"TPE","63 62 75","Round of 64",2013,"Germany","Chinese Taipei",,"qualifier"
+"Kei Nishikori",12,"JPN","Leonardo Mayer",,"ARG","765 64 62","Round of 64",2013,"Japan","Argentina",,
+"Kenny De Schepper",,"FRA","Marin Cilic",10,"CRO","(W/O)","Round of 64",2013,"France","Croatia",,
+"Richard Gasquet",9,"FRA","Go Soeda",,"JPN","60 63 675 63","Round of 64",2013,"France","Japan",,"qualifier"
+"Juan Martin Del Potro",8,"ARG","Jesse Levine",,"CAN","62 767 63","Round of 64",2013,"Argentina","Canada",,
+"Tomas Berdych",7,"CZE","Daniel Brands",,"GER","766 64 62","Round of 64",2013,"Czech Republic","Germany",,
+"Ernests Gulbis",,"LAT","Jo-Wilfried Tsonga",6,"FRA","36 63 63 (RET)","Round of 64",2013,"Latvia","France",,
+"David Ferrer",4,"ESP","Roberto Bautista Agut",,"ESP","63 36 764 75","Round of 64",2013,"Spain","Spain",,
+"Sergiy Stakhovsky",,"UKR","Roger Federer",3,"SUI","675 765 75 765","Round of 64",2013,"Ukraine","Switzerland",,
+"Andy Murray",2,"GBR","Yen-Hsun Lu",,"TPE","63 63 75","Round of 64",2013,"Great Britain","Chinese Taipei",,
+"Novak Djokovic",1,"SRB","Bobby Reynolds",,"USA","762 63 61","Round of 64",2013,"Serbia","United States",,"qualifier"
+"Fernando Verdasco",,"ESP","Ernests Gulbis",,"LAT","62 64 64","Round of 32",2013,"Spain","Latvia",,
+"Jurgen Melzer",,"AUT","Sergiy Stakhovsky",,"UKR","62 26 75 63","Round of 32",2013,"Austria","Ukraine",,
+"Adrian Mannarino",,"FRA","Dustin Brown",,"GER","64 62 75","Round of 32",2013,"France","Germany",,"qualifier"
+"Ivan Dodig",,"CRO","Igor Sijsling",,"NED","60 61 10 (RET)","Round of 32",2013,"Croatia","Netherlands",,
+"Lukasz Kubot",,"POL","Benoit Paire",25,"FRA","61 63 64","Round of 32",2013,"Poland","France",,
+"Kenny De Schepper",,"FRA","Juan Monaco",22,"ARG","64 768 64","Round of 32",2013,"France","Argentina",,
+"Mikhail Youzhny",20,"RUS","Viktor Troicki",,"SRB","63 64 75","Round of 32",2013,"Russia","Serbia",,
+"Jerzy Janowicz",24,"POL","Nicolas Almagro",15,"ESP","766 63 64","Round of 32",2013,"Poland","Spain",,
+"Tommy Haas",13,"GER","Feliciano Lopez",,"ESP","46 62 75 64","Round of 32",2013,"Germany","Spain",,
+"Andreas Seppi",23,"ITA","Kei Nishikori",12,"JPN","36 62 674 61 64","Round of 32",2013,"Italy","Japan",,
+"Bernard Tomic",,"AUS","Richard Gasquet",9,"FRA","767 57 75 765","Round of 32",2013,"Australia","France",,
+"Juan Martin Del Potro",8,"ARG","Grega Zemlja",,"SLO","75 763 60","Round of 32",2013,"Argentina","Slovenia",,
+"Tomas Berdych",7,"CZE","Kevin Anderson",27,"RSA","36 63 64 75","Round of 32",2013,"Czech Republic","South Africa",,
+"David Ferrer",4,"ESP","Alexandr Dolgopolov",26,"UKR","676 762 26 61 62","Round of 32",2013,"Spain","Ukraine",,
+"Andy Murray",2,"GBR","Tommy Robredo",32,"ESP","62 64 75","Round of 32",2013,"Great Britain","Spain",,
+"Novak Djokovic",1,"SRB","Jeremy Chardy",28,"FRA","63 62 62","Round of 32",2013,"Serbia","France",,
+"Fernando Verdasco",,"ESP","Kenny De Schepper",,"FRA","64 64 64","Round of 16",2013,"Spain","France",,
+"Lukasz Kubot",,"POL","Adrian Mannarino",,"FRA","46 63 36 63 64","Round of 16",2013,"Poland","France",,
+"Jerzy Janowicz",24,"POL","Jurgen Melzer",,"AUT","36 761 64 46 64","Round of 16",2013,"Poland","Austria",,
+"Juan Martin Del Potro",8,"ARG","Andreas Seppi",23,"ITA","64 762 63","Round of 16",2013,"Argentina","Italy",,
+"Tomas Berdych",7,"CZE","Bernard Tomic",,"AUS","764 675 64 64","Round of 16",2013,"Czech Republic","Australia",,
+"David Ferrer",4,"ESP","Ivan Dodig",,"CRO","673 766 61 61","Round of 16",2013,"Spain","Croatia",,
+"Andy Murray",2,"GBR","Mikhail Youzhny",20,"RUS","64 765 61","Round of 16",2013,"Great Britain","Russia",,
+"Novak Djokovic",1,"SRB","Tommy Haas",13,"GER","61 64 764","Round of 16",2013,"Serbia","Germany",,
+"Jerzy Janowicz",24,"POL","Lukasz Kubot",,"POL","75 64 64","Quarter-Finals",2013,"Poland","Poland",,
+"Juan Martin Del Potro",8,"ARG","David Ferrer",4,"ESP","62 64 765","Quarter-Finals",2013,"Argentina","Spain",,
+"Andy Murray",2,"GBR","Fernando Verdasco",,"ESP","46 36 61 64 75","Quarter-Finals",2013,"Great Britain","Spain",,
+"Novak Djokovic",1,"SRB","Tomas Berdych",7,"CZE","765 64 63","Quarter-Finals",2013,"Serbia","Czech Republic",,
+"Andy Murray",2,"GBR","Jerzy Janowicz",24,"POL","672 64 64 63","Semi-Finals",2013,"Great Britain","Poland",,
+"Novak Djokovic",1,"SRB","Juan Martin Del Potro",8,"ARG","75 46 762 676 63","Semi-Finals",2013,"Serbia","Argentina",,
+"Andy Murray",2,"GBR","Novak Djokovic",1,"SRB","64 75 64","Finals",2013,"Great Britain","Serbia",,
+"Grega Zemlja",,"SLO","Josh Goodall",,"GBR","64 36 763 64","Round of 128",2012,"Slovenia","Great Britain","wildcard","wildcard"
+"James Ward",,"GBR","Pablo Andujar",,"ESP","46 60 36 63 63","Round of 128",2012,"Great Britain","Spain","wildcard",
+"Ryan Sweeting",,"USA","Potito Starace",,"ITA","62 20 (RET)","Round of 128",2012,"United States","Italy","qualifier",
+"Go Soeda",,"JPN","Igor Kunitsyn",,"RUS","63 62 61","Round of 128",2012,"Japan","Russia",,
+"Florent Serra",,"FRA","Andrey Kuznetsov",,"RUS","36 763 64 46 64","Round of 128",2012,"France","Russia","qualifier","qualifier"
+"Michael Russell",,"USA","Adrian Menendez-Maceiras",,"ESP","63 61 767","Round of 128",2012,"United States","Spain","qualifier","qualifier"
+"Guillaume Rufin",,"FRA","Steve Darcis",,"BEL","64 36 57 64 64","Round of 128",2012,"France","Belgium","qualifier",
+"Lukas Rosol",,"CZE","Ivan Dodig",,"CRO","64 36 76 75","Round of 128",2012,"Czech Republic","Croatia",,
+"Sam Querrey",,"USA","Vasek Pospisil",,"CAN","75 675 63 64","Round of 128",2012,"United States","Canada",,
+"Bjorn Phau",,"GER","Wayne Odesnik",,"USA","63 36 673 63 64","Round of 128",2012,"Germany","United States",,"lucky loser"
+"Philipp Petzschner",,"GER","Blaz Kavcic",,"SLO","64 64 62","Round of 128",2012,"Germany","Slovenia",,
+"Benoit Paire",,"FRA","Matthew Ebden",,"AUS","61 63 671 63","Round of 128",2012,"France","Australia",,
+"Xavier Malisse",,"BEL","Marinko Matosevic",,"AUS","62 62 75","Round of 128",2012,"Belgium","Australia",,
+"Nicolas Mahut",,"FRA","Paolo Lorenzi",,"ITA","63 57 673 75 62","Round of 128",2012,"France","Italy",,
+"Jesse Levine",,"CAN","Karol Beck",,"SVK","64 676 63 62","Round of 128",2012,"Canada","Slovakia","qualifier",
+"Lukas Lacko",,"SVK","Adrian Ungur",,"ROU","764 61 63","Round of 128",2012,"Slovakia","Romania",,
+"Lukasz Kubot",,"POL","Tatsuma Ito",,"JPN","766 63 63","Round of 128",2012,"Poland","Japan",,
+"Martin Klizan",,"SVK","Juan Ignacio Chela",,"ARG","75 36 766 16 119","Round of 128",2012,"Slovakia","Argentina",,
+"Ivo Karlovic",,"CRO","Dudi Sela",,"ISR","64 64 765","Round of 128",2012,"Croatia","Israel",,
+"Malek Jaziri",,"TUN","Jurgen Zopp",,"EST","46 46 63 64 97","Round of 128",2012,"Tunisia","Estonia",,"qualifier"
+"Jerzy Janowicz",,"POL","Simone Bolelli",,"ITA","36 63 63 63","Round of 128",2012,"Poland","Italy","qualifier","qualifier"
+"Ryan Harrison",,"USA","Yen-Hsun Lu",,"TPE","46 63 64 62","Round of 128",2012,"United States","Chinese Taipei",,
+"Guillermo Garcia-Lopez",,"ESP","Edouard Roger-Vasselin",,"FRA","672 63 764 57 108","Round of 128",2012,"Spain","France",,
+"Fabio Fognini",,"ITA","Michael Llodra",,"FRA","36 63 64 75","Round of 128",2012,"Italy","France",,
+"Kenny De Schepper",,"FRA","Matthias Bachinger",,"GER","64 62 62","Round of 128",2012,"France","Germany","qualifier",
+"Jeremy Chardy",,"FRA","Filippo Volandri",,"ITA","60 61 10 (RET)","Round of 128",2012,"France","Italy",,
+"Inigo Cervantes",,"ESP","Flavio Cipolla",,"ITA","26 674 63 62 61","Round of 128",2012,"Spain","Italy","qualifier",
+"Ruben Bemelmans",,"BEL","Carlos Berlocq",,"ARG","75 674 63 762","Round of 128",2012,"Belgium","Argentina","qualifier",
+"Benjamin Becker",,"GER","James Blake",,"USA","674 75 60 64","Round of 128",2012,"Germany","United States",,
+"Brian Baker",,"USA","Rui Machado",,"POR","762 64 60","Round of 128",2012,"United States","Portugal","qualifier",
+"Marcos Baghdatis",,"CYP","Albert Montanes",,"ESP","62 64 64","Round of 128",2012,"Cyprus","Spain",,
+"Igor Andreev",,"RUS","Oliver Golding",,"GBR","16 764 767 75","Round of 128",2012,"Russia","Great Britain",,"wildcard"
+"Grigor Dimitrov",,"BUL","Kevin Anderson",32,"RSA","75 763 674 63","Round of 128",2012,"Bulgaria","South Africa",,
+"Florian Mayer",31,"GER","Dmitry Tursunov",,"RUS","763 62 63","Round of 128",2012,"Germany","Russia",,
+"Andy Roddick",30,"USA","Jamie Baker",,"GBR","761 64 75","Round of 128",2012,"United States","Great Britain",,"wildcard"
+"Julien Benneteau",29,"FRA","Gilles Muller",,"LUX","62 75 764","Round of 128",2012,"France","Luxembourg",,
+"Radek Stepanek",28,"CZE","Sergiy Stakhovsky",,"UKR","61 10 (RET)","Round of 128",2012,"Czech Republic","Ukraine",,
+"Philipp Kohlschreiber",27,"GER","Tommy Haas",,"GER","36 768 675 761 62","Round of 128",2012,"Germany","Germany",,"wildcard"
+"Mikhail Youzhny",26,"RUS","Donald Young",,"USA","46 63 62 63","Round of 128",2012,"Russia","United States",,
+"Jurgen Melzer",,"AUT","Stan Wawrinka",25,"SUI","36 762 26 64 86","Round of 128",2012,"Austria","Switzerland",,
+"Viktor Troicki",,"SRB","Marcel Granollers",24,"ESP","75 765 36 26 86","Round of 128",2012,"Serbia","Spain",,
+"Denis Istomin",,"UZB","Andreas Seppi",23,"ITA","672 64 36 63 86","Round of 128",2012,"Uzbekistan","Italy",,
+"Alexandr Dolgopolov",22,"UKR","Alex Bogomolov Jr.",,"RUS","63 64 75","Round of 128",2012,"Ukraine","Russia",,
+"Milos Raonic",21,"CAN","Santiago Giraldo",,"COL","64 64 64","Round of 128",2012,"Canada","Colombia",,
+"David Goffin",,"BEL","Bernard Tomic",20,"AUS","36 63 64 64","Round of 128",2012,"Belgium","Australia","wildcard",
+"Kei Nishikori",19,"JPN","Mikhail Kukushkin",,"KAZ","75 63 64","Round of 128",2012,"Japan","Kazakhstan",,
+"Richard Gasquet",18,"FRA","Tobias Kamke",,"GER","62 62 62","Round of 128",2012,"France","Germany",,
+"Fernando Verdasco",17,"ESP","Jimmy Wang",,"TPE","763 64 75","Round of 128",2012,"Spain","Chinese Taipei",,"qualifier"
+"Marin Cilic",16,"CRO","Cedrik-Marcel Stebe",,"GER","64 36 63 62","Round of 128",2012,"Croatia","Germany",,
+"Juan Monaco",15,"ARG","Leonardo Mayer",,"ARG","64 765 765","Round of 128",2012,"Argentina","Argentina",,
+"Jarkko Nieminen",,"FIN","Feliciano Lopez",14,"ESP","764 36 765 64","Round of 128",2012,"Finland","Spain",,
+"Gilles Simon",13,"FRA","Paul-Henri Mathieu",,"FRA","63 54 (RET)","Round of 128",2012,"France","France",,
+"Nicolas Almagro",12,"ESP","Olivier Rochus",,"BEL","674 36 764 62 64","Round of 128",2012,"Spain","Belgium",,
+"Alejandro Falla",,"COL","John Isner",11,"USA","64 677 36 767 75","Round of 128",2012,"Colombia","United States",,
+"Mardy Fish",10,"USA","Ruben Ramirez Hidalgo",,"ESP","763 75 761","Round of 128",2012,"United States","Spain",,
+"Juan Martin Del Potro",9,"ARG","Robin Haase",,"NED","64 36 763 75","Round of 128",2012,"Argentina","Netherlands",,
+"Janko Tipsarevic",8,"SRB","David Nalbandian",,"ARG","64 764 62","Round of 128",2012,"Serbia","Argentina",,
+"David Ferrer",7,"ESP","Dustin Brown",,"GER","765 64 64","Round of 128",2012,"Spain","Germany",,"qualifier"
+"Ernests Gulbis",,"LAT","Tomas Berdych",6,"CZE","765 764 764","Round of 128",2012,"Latvia","Czech Republic",,
+"Jo-Wilfried Tsonga",5,"FRA","Lleyton Hewitt",,"AUS","63 64 64","Round of 128",2012,"France","Australia",,"wildcard"
+"Andy Murray",4,"GBR","Nikolay Davydenko",,"RUS","61 61 64","Round of 128",2012,"Great Britain","Russia",,
+"Roger Federer",3,"SUI","Albert Ramos-Vinolas",,"ESP","61 61 61","Round of 128",2012,"Switzerland","Spain",,
+"Rafael Nadal",2,"ESP","Thomaz Bellucci",,"BRA","760 62 63","Round of 128",2012,"Spain","Brazil",,
+"Novak Djokovic",1,"SRB","Juan Carlos Ferrero",,"ESP","63 63 61","Round of 128",2012,"Serbia","Spain",,
+"Viktor Troicki",,"SRB","Martin Klizan",,"SVK","64 46 57 763 64","Round of 64",2012,"Serbia","Slovakia",,
+"Lukas Lacko",,"SVK","Jurgen Melzer",,"AUT","64 674 36 63 64","Round of 64",2012,"Slovakia","Austria",,
+"Jerzy Janowicz",,"POL","Ernests Gulbis",,"LAT","26 64 36 762 97","Round of 64",2012,"Poland","Latvia","qualifier",
+"Denis Istomin",,"UZB","Igor Andreev",,"RUS","63 763 46 62","Round of 64",2012,"Uzbekistan","Russia",,
+"David Goffin",,"BEL","Jesse Levine",,"CAN","46 64 61 63","Round of 64",2012,"Belgium","Canada","wildcard","qualifier"
+"Alejandro Falla",,"COL","Nicolas Mahut",,"FRA","64 63 46 46 75","Round of 64",2012,"Colombia","France",,
+"Brian Baker",,"USA","Jarkko Nieminen",,"FIN","60 62 64","Round of 64",2012,"United States","Finland","qualifier",
+"Marcos Baghdatis",,"CYP","Grigor Dimitrov",,"BUL","75 41 (RET)","Round of 64",2012,"Cyprus","Bulgaria",,
+"Florian Mayer",31,"GER","Philipp Petzschner",,"GER","36 36 64 62 64","Round of 64",2012,"Germany","Germany",,
+"Andy Roddick",30,"USA","Bjorn Phau",,"GER","63 761 63","Round of 64",2012,"United States","Germany",,
+"Julien Benneteau",29,"FRA","Michael Russell",,"USA","764 26 64 75","Round of 64",2012,"France","United States",,"qualifier"
+"Radek Stepanek",28,"CZE","Benjamin Becker",,"GER","62 764 63","Round of 64",2012,"Czech Republic","Germany",,
+"Philipp Kohlschreiber",27,"GER","Malek Jaziri",,"TUN","61 762 61","Round of 64",2012,"Germany","Tunisia",,
+"Mikhail Youzhny",26,"RUS","Inigo Cervantes",,"ESP","61 63 64","Round of 64",2012,"Russia","Spain",,"qualifier"
+"Benoit Paire",,"FRA","Alexandr Dolgopolov",22,"UKR","762 64 64","Round of 64",2012,"France","Ukraine",,
+"Sam Querrey",,"USA","Milos Raonic",21,"CAN","673 767 768 64","Round of 64",2012,"United States","Canada",,
+"Kei Nishikori",19,"JPN","Florent Serra",,"FRA","63 75 62","Round of 64",2012,"Japan","France",,"qualifier"
+"Richard Gasquet",18,"FRA","Ruben Bemelmans",,"BEL","63 64 64","Round of 64",2012,"France","Belgium",,"qualifier"
+"Fernando Verdasco",17,"ESP","Grega Zemlja",,"SLO","764 764 36 63","Round of 64",2012,"Spain","Slovenia",,"wildcard"
+"Marin Cilic",16,"CRO","Lukasz Kubot",,"POL","764 62 61","Round of 64",2012,"Croatia","Poland",,
+"Juan Monaco",15,"ARG","Jeremy Chardy",,"FRA","62 36 63 763","Round of 64",2012,"Argentina","France",,
+"Xavier Malisse",,"BEL","Gilles Simon",13,"FRA","64 64 765","Round of 64",2012,"Belgium","France",,
+"Nicolas Almagro",12,"ESP","Guillaume Rufin",,"FRA","62 57 62 64","Round of 64",2012,"Spain","France",,"qualifier"
+"Mardy Fish",10,"USA","James Ward",,"GBR","63 57 64 673 63","Round of 64",2012,"United States","Great Britain",,"wildcard"
+"Juan Martin Del Potro",9,"ARG","Go Soeda",,"JPN","62 63 16 64","Round of 64",2012,"Argentina","Japan",,
+"Janko Tipsarevic",8,"SRB","Ryan Sweeting",,"USA","57 75 64 62","Round of 64",2012,"Serbia","United States",,"qualifier"
+"David Ferrer",7,"ESP","Kenny De Schepper",,"FRA","761 62 64","Round of 64",2012,"Spain","France",,"qualifier"
+"Jo-Wilfried Tsonga",5,"FRA","Guillermo Garcia-Lopez",,"ESP","673 64 61 63","Round of 64",2012,"France","Spain",,
+"Andy Murray",4,"GBR","Ivo Karlovic",,"CRO","75 675 62 764","Round of 64",2012,"Great Britain","Croatia",,
+"Roger Federer",3,"SUI","Fabio Fognini",,"ITA","61 63 62","Round of 64",2012,"Switzerland","Italy",,
+"Lukas Rosol",,"CZE","Rafael Nadal",2,"ESP","679 64 64 26 64","Round of 64",2012,"Czech Republic","Spain",,
+"Novak Djokovic",1,"SRB","Ryan Harrison",,"USA","64 64 64","Round of 64",2012,"Serbia","United States",,
+"Denis Istomin",,"UZB","Alejandro Falla",,"COL","63 64 36 765","Round of 32",2012,"Uzbekistan","Colombia",,
+"Brian Baker",,"USA","Benoit Paire",,"FRA","64 46 61 63","Round of 32",2012,"United States","France","qualifier",
+"Florian Mayer",31,"GER","Jerzy Janowicz",,"POL","765 36 26 63 75","Round of 32",2012,"Germany","Poland",,"qualifier"
+"Philipp Kohlschreiber",27,"GER","Lukas Rosol",,"CZE","62 63 766","Round of 32",2012,"Germany","Czech Republic",,
+"Xavier Malisse",,"BEL","Fernando Verdasco",17,"ESP","16 765 61 46 63","Round of 32",2012,"Belgium","Spain",,
+"Marin Cilic",16,"CRO","Sam Querrey",,"USA","766 64 672 673 1715","Round of 32",2012,"Croatia","United States",,
+"Viktor Troicki",,"SRB","Juan Monaco",15,"ARG","75 75 63","Round of 32",2012,"Serbia","Argentina",,
+"Richard Gasquet",18,"FRA","Nicolas Almagro",12,"ESP","63 64 64","Round of 32",2012,"France","Spain",,
+"Mardy Fish",10,"USA","David Goffin",,"BEL","63 766 766","Round of 32",2012,"United States","Belgium",,"wildcard"
+"Juan Martin Del Potro",9,"ARG","Kei Nishikori",19,"JPN","63 763 61","Round of 32",2012,"Argentina","Japan",,
+"Mikhail Youzhny",26,"RUS","Janko Tipsarevic",8,"SRB","63 64 36 63","Round of 32",2012,"Russia","Serbia",,
+"David Ferrer",7,"ESP","Andy Roddick",30,"USA","26 768 64 63","Round of 32",2012,"Spain","United States",,
+"Jo-Wilfried Tsonga",5,"FRA","Lukas Lacko",,"SVK","64 63 63","Round of 32",2012,"France","Slovakia",,
+"Andy Murray",4,"GBR","Marcos Baghdatis",,"CYP","75 36 75 61","Round of 32",2012,"Great Britain","Cyprus",,
+"Roger Federer",3,"SUI","Julien Benneteau",29,"FRA","46 673 62 766 61","Round of 32",2012,"Switzerland","France",,
+"Novak Djokovic",1,"SRB","Radek Stepanek",28,"CZE","46 62 62 62","Round of 32",2012,"Serbia","Czech Republic",,
+"Philipp Kohlschreiber",27,"GER","Brian Baker",,"USA","61 764 63","Round of 16",2012,"Germany","United States",,"qualifier"
+"Mikhail Youzhny",26,"RUS","Denis Istomin",,"UZB","63 57 64 675 75","Round of 16",2012,"Russia","Uzbekistan",,
+"Florian Mayer",31,"GER","Richard Gasquet",18,"FRA","63 61 36 62","Round of 16",2012,"Germany","France",,
+"David Ferrer",7,"ESP","Juan Martin Del Potro",9,"ARG","63 62 63","Round of 16",2012,"Spain","Argentina",,
+"Jo-Wilfried Tsonga",5,"FRA","Mardy Fish",10,"USA","46 764 64 64","Round of 16",2012,"France","United States",,
+"Andy Murray",4,"GBR","Marin Cilic",16,"CRO","75 62 63","Round of 16",2012,"Great Britain","Croatia",,
+"Roger Federer",3,"SUI","Xavier Malisse",,"BEL","761 61 46 63","Round of 16",2012,"Switzerland","Belgium",,
+"Novak Djokovic",1,"SRB","Viktor Troicki",,"SRB","63 61 63","Round of 16",2012,"Serbia","Serbia",,
+"Jo-Wilfried Tsonga",5,"FRA","Philipp Kohlschreiber",27,"GER","765 46 763 62","Quarter-Finals",2012,"France","Germany",,
+"Andy Murray",4,"GBR","David Ferrer",7,"ESP","675 766 64 764","Quarter-Finals",2012,"Great Britain","Spain",,
+"Roger Federer",3,"SUI","Mikhail Youzhny",26,"RUS","61 62 62","Quarter-Finals",2012,"Switzerland","Russia",,
+"Novak Djokovic",1,"SRB","Florian Mayer",31,"GER","64 61 64","Quarter-Finals",2012,"Serbia","Germany",,
+"Andy Murray",4,"GBR","Jo-Wilfried Tsonga",5,"FRA","63 64 36 75","Semi-Finals",2012,"Great Britain","France",,
+"Roger Federer",3,"SUI","Novak Djokovic",1,"SRB","63 36 64 63","Semi-Finals",2012,"Switzerland","Serbia",,
+"Roger Federer",3,"SUI","Andy Murray",4,"GBR","46 75 63 64","Finals",2012,"Switzerland","Great Britain",,
+"Grega Zemlja",,"SLO","Lukas Lacko",,"SVK","64 36 768 64","Round of 128",2011,"Slovenia","Slovakia","lucky loser","qualifier"
+"Dmitry Tursunov",,"RUS","Ernests Gulbis",,"LAT","63 36 7612 761","Round of 128",2011,"Russia","Latvia",,
+"Ryan Sweeting",,"USA","Pablo Andujar",,"ESP","36 46 61 761 61","Round of 128",2011,"United States","Spain",,
+"Sergiy Stakhovsky",,"UKR","Daniel Cox",,"GBR","62 64 64","Round of 128",2011,"Ukraine","Great Britain",,"wildcard"
+"Andreas Seppi",,"ITA","Albert Montanes",,"ESP","64 64 75","Round of 128",2011,"Italy","Spain",,
+"Dudi Sela",,"ISR","Frederico Gil",,"POR","64 61 64","Round of 128",2011,"Israel","Portugal","wildcard",
+"Olivier Rochus",,"BEL","Kenny De Schepper",,"FRA","676 36 63 61 64","Round of 128",2011,"Belgium","France",,"qualifier"
+"Gilles Muller",,"LUX","Tommy Haas",,"GER","765 763 36 63","Round of 128",2011,"Luxembourg","Germany","wildcard",
+"Ricardo Mello",,"BRA","Frank Dancevic",,"CAN","36 36 64 766 62","Round of 128",2011,"Brazil","Canada",,"qualifier"
+"Adrian Mannarino",,"FRA","Conor Niland",,"IRL","46 64 767 46 64","Round of 128",2011,"France","Ireland",,"qualifier"
+"Xavier Malisse",,"BEL","Mischa Zverev",,"GER","62 63 62","Round of 128",2011,"Belgium","Germany",,
+"Yen-Hsun Lu",,"TPE","Tommy Robredo",,"ESP","64 64 61","Round of 128",2011,"Chinese Taipei","Spain",,
+"Feliciano Lopez",,"ESP","Michael Berrer",,"GER","64 75 63","Round of 128",2011,"Spain","Germany",,
+"Igor Kunitsyn",,"RUS","Igor Sijsling",,"NED","63 64 62","Round of 128",2011,"Russia","Netherlands",,"qualifier"
+"Lukasz Kubot",,"POL","Arnaud Clement",,"FRA","64 62 36 57 64","Round of 128",2011,"Poland","France","qualifier","wildcard"
+"Tobias Kamke",,"GER","Blaz Kavcic",,"SLO","63 764 57 61","Round of 128",2011,"Germany","Slovenia",,
+"Denis Istomin",,"UZB","Philipp Kohlschreiber",,"GER","46 63 63 63","Round of 128",2011,"Uzbekistan","Germany",,
+"John Isner",,"USA","Nicolas Mahut",,"FRA","764 62 766","Round of 128",2011,"United States","France",,
+"Lleyton Hewitt",,"AUS","Kei Nishikori",,"JPN","61 764 677 63","Round of 128",2011,"Australia","Japan",,
+"Ryan Harrison",,"USA","Ivan Dodig",,"CRO","765 60 75","Round of 128",2011,"United States","Croatia","lucky loser",
+"Victor Hanescu",,"ROU","Jaroslav Pospisil",,"CZE","64 63 62","Round of 128",2011,"Romania","Czech Republic",,
+"Andreas Haider-Maurer",,"AUT","Florent Serra",,"FRA","765 63 63","Round of 128",2011,"Austria","France",,
+"Robin Haase",,"NED","Pere Riba",,"ESP","64 64 64","Round of 128",2011,"Netherlands","Spain",,
+"Grigor Dimitrov",,"BUL","Cedrik-Marcel Stebe",,"GER","75 75 765","Round of 128",2011,"Bulgaria","Germany",,"qualifier"
+"Somdev Devvarman",,"IND","Denis Gremelmayr",,"GER","64 42 (RET)","Round of 128",2011,"India","Germany",,
+"Rik De Voest",,"RSA","Ruben Ramirez Hidalgo",,"ESP","62 63 62","Round of 128",2011,"South Africa","Spain","qualifier",
+"Simone Bolelli",,"ITA","Martin Fischer",,"AUT","75 64 64","Round of 128",2011,"Italy","Austria","lucky loser","qualifier"
+"Alex Bogomolov Jr.",,"RUS","Donald Young",,"USA","75 46 63 61","Round of 128",2011,"Russia","United States",,
+"Julien Benneteau",,"FRA","Ruben Bemelmans",,"BEL","64 62 36 46 61","Round of 128",2011,"France","Belgium",,"qualifier"
+"Karol Beck",,"SVK","Carlos Berlocq",,"ARG","46 766 46 62 64","Round of 128",2011,"Slovakia","Argentina","qualifier",
+"Igor Andreev",,"RUS","Teymuraz Gabashvili",,"RUS","64 765 674 46 63","Round of 128",2011,"Russia","Russia",,
+"Kevin Anderson",,"RSA","Illya Marchenko",,"UKR","675 767 64 46 61","Round of 128",2011,"South Africa","Ukraine",,
+"Marcos Baghdatis",32,"CYP","James Blake",,"USA","64 62 675 46 64","Round of 128",2011,"Cyprus","United States",,
+"Milos Raonic",31,"CAN","Marc Gicquel",,"FRA","63 763 63","Round of 128",2011,"Canada","France",,"lucky loser"
+"Rainer Schuettler",,"GER","Thomaz Bellucci",30,"BRA","763 64 62","Round of 128",2011,"Germany","Brazil",,
+"Bernard Tomic",,"AUS","Nikolay Davydenko",29,"RUS","75 63 75","Round of 128",2011,"Australia","Russia","qualifier",
+"David Nalbandian",28,"ARG","Julian Reister",,"GER","75 62 63","Round of 128",2011,"Argentina","Germany",,
+"Ivan Ljubicic",,"CRO","Marin Cilic",27,"CRO","762 36 63 64","Round of 128",2011,"Croatia","Croatia",,
+"Guillermo Garcia-Lopez",26,"ESP","Andrey Golubev",,"KAZ","63 63 (RET)","Round of 128",2011,"Spain","Kazakhstan",,
+"Juan Ignacio Chela",25,"ARG","Marinko Matosevic",,"AUS","64 64 676 62","Round of 128",2011,"Argentina","Australia",,"qualifier"
+"Juan Martin Del Potro",24,"ARG","Flavio Cipolla",,"ITA","61 64 63","Round of 128",2011,"Argentina","Italy",,"qualifier"
+"Ivo Karlovic",,"CRO","Janko Tipsarevic",23,"SRB","75 31 (RET)","Round of 128",2011,"Croatia","Serbia",,
+"Fernando Gonzalez",,"CHI","Alexandr Dolgopolov",22,"UKR","63 676 763 64","Round of 128",2011,"Chile","Ukraine",,
+"Fernando Verdasco",21,"ESP","Radek Stepanek",,"CZE","26 46 63 766 97","Round of 128",2011,"Spain","Czech Republic",,
+"Florian Mayer",20,"GER","Daniel Evans",,"GBR","765 761 36 64","Round of 128",2011,"Germany","Great Britain",,"wildcard"
+"Michael Llodra",19,"FRA","James Ward",,"GBR","63 764 63","Round of 128",2011,"France","Great Britain",,"wildcard"
+"Mikhail Youzhny",18,"RUS","Juan Monaco",,"ARG","46 62 62 46 64","Round of 128",2011,"Russia","Argentina",,
+"Richard Gasquet",17,"FRA","Santiago Giraldo",,"COL","75 63 763","Round of 128",2011,"France","Colombia",,
+"Nicolas Almagro",16,"ESP","Jarkko Nieminen",,"FIN","675 63 64 64","Round of 128",2011,"Spain","Finland",,
+"Gilles Simon",15,"FRA","Edouard Roger-Vasselin",,"FRA","46 64 63 763","Round of 128",2011,"France","France",,"qualifier"
+"Stan Wawrinka",14,"SUI","Potito Starace",,"ITA","63 64 64","Round of 128",2011,"Switzerland","Italy",,
+"Viktor Troicki",13,"SRB","Maximo Gonzalez",,"ARG","36 60 763 63","Round of 128",2011,"Serbia","Argentina",,
+"Jo-Wilfried Tsonga",12,"FRA","Go Soeda",,"JPN","63 764 62","Round of 128",2011,"France","Japan",,"lucky loser"
+"Jurgen Melzer",11,"AUT","Alejandro Falla",,"COL","36 765 62 62","Round of 128",2011,"Austria","Colombia",,"wildcard"
+"Mardy Fish",10,"USA","Marcel Granollers",,"ESP","763 765 64","Round of 128",2011,"United States","Spain",,
+"Gael Monfils",9,"FRA","Matthias Bachinger",,"GER","64 763 63","Round of 128",2011,"France","Germany",,
+"Andy Roddick",8,"USA","Andreas Beck",,"GER","64 766 63","Round of 128",2011,"United States","Germany",,"qualifier"
+"David Ferrer",7,"ESP","Benoit Paire",,"FRA","64 64 64","Round of 128",2011,"Spain","France",,
+"Tomas Berdych",6,"CZE","Filippo Volandri",,"ITA","62 62 61","Round of 128",2011,"Czech Republic","Italy",,
+"Robin Soderling",5,"SWE","Philipp Petzschner",,"GER","64 64 26 765","Round of 128",2011,"Sweden","Germany",,
+"Andy Murray",4,"GBR","Daniel Gimeno-Traver",,"ESP","46 63 60 60","Round of 128",2011,"Great Britain","Spain",,
+"Roger Federer",3,"SUI","Mikhail Kukushkin",,"KAZ","762 64 62","Round of 128",2011,"Switzerland","Kazakhstan",,
+"Novak Djokovic",2,"SRB","Jeremy Chardy",,"FRA","64 61 61","Round of 128",2011,"Serbia","France",,
+"Rafael Nadal",1,"ESP","Michael Russell",,"USA","64 62 62","Round of 128",2011,"Spain","United States",,
+"Bernard Tomic",,"AUS","Igor Andreev",,"RUS","46 57 63 64 61","Round of 64",2011,"Australia","Russia","qualifier",
+"Feliciano Lopez",,"ESP","Rainer Schuettler",,"GER","763 673 62 62","Round of 64",2011,"Spain","Germany",,
+"Ivan Ljubicic",,"CRO","Sergiy Stakhovsky",,"UKR","64 64 62","Round of 64",2011,"Croatia","Ukraine",,
+"Lukasz Kubot",,"POL","Ivo Karlovic",,"CRO","762 63 63","Round of 64",2011,"Poland","Croatia","qualifier",
+"Fernando Gonzalez",,"CHI","Rik De Voest",,"RSA","64 64 64","Round of 64",2011,"Chile","South Africa",,"qualifier"
+"Marcos Baghdatis",32,"CYP","Andreas Seppi",,"ITA","64 764 75","Round of 64",2011,"Cyprus","Italy",,
+"Gilles Muller",,"LUX","Milos Raonic",31,"CAN","23 (RET)","Round of 64",2011,"Luxembourg","Canada","wildcard",
+"David Nalbandian",28,"ARG","Andreas Haider-Maurer",,"AUT","63 36 64 64","Round of 64",2011,"Argentina","Austria",,
+"Karol Beck",,"SVK","Guillermo Garcia-Lopez",26,"ESP","765 64 36 64","Round of 64",2011,"Slovakia","Spain","qualifier",
+"Alex Bogomolov Jr.",,"RUS","Juan Ignacio Chela",25,"ARG","60 63 64","Round of 64",2011,"Russia","Argentina",,
+"Juan Martin Del Potro",24,"ARG","Olivier Rochus",,"BEL","677 61 60 64","Round of 64",2011,"Argentina","Belgium",,
+"Robin Haase",,"NED","Fernando Verdasco",21,"ESP","63 64 46 62","Round of 64",2011,"Netherlands","Spain",,
+"Xavier Malisse",,"BEL","Florian Mayer",20,"GER","16 63 62 62","Round of 64",2011,"Belgium","Germany",,
+"Michael Llodra",19,"FRA","Ricardo Mello",,"BRA","62 46 62 63","Round of 64",2011,"France","Brazil",,
+"Mikhail Youzhny",18,"RUS","Somdev Devvarman",,"IND","62 64 64","Round of 64",2011,"Russia","India",,
+"Richard Gasquet",17,"FRA","Igor Kunitsyn",,"RUS","61 64 64","Round of 64",2011,"France","Russia",,
+"Nicolas Almagro",16,"ESP","John Isner",,"USA","763 765 675 63","Round of 64",2011,"Spain","United States",,
+"Gilles Simon",15,"FRA","Dudi Sela",,"ISR","763 64 75","Round of 64",2011,"France","Israel",,"wildcard"
+"Simone Bolelli",,"ITA","Stan Wawrinka",14,"SUI","765 63 764","Round of 64",2011,"Italy","Switzerland","lucky loser",
+"Yen-Hsun Lu",,"TPE","Viktor Troicki",13,"SRB","765 64 64","Round of 64",2011,"Chinese Taipei","Serbia",,
+"Jo-Wilfried Tsonga",12,"FRA","Grigor Dimitrov",,"BUL","674 64 64 768","Round of 64",2011,"France","Bulgaria",,
+"Jurgen Melzer",11,"AUT","Dmitry Tursunov",,"RUS","63 26 765 761","Round of 64",2011,"Austria","Russia",,
+"Mardy Fish",10,"USA","Denis Istomin",,"UZB","766 64 64","Round of 64",2011,"United States","Uzbekistan",,
+"Gael Monfils",9,"FRA","Grega Zemlja",,"SLO","46 63 63 767","Round of 64",2011,"France","Slovenia",,"lucky loser"
+"Andy Roddick",8,"USA","Victor Hanescu",,"ROU","64 63 64","Round of 64",2011,"United States","Romania",,
+"David Ferrer",7,"ESP","Ryan Harrison",,"USA","676 61 46 63 62","Round of 64",2011,"Spain","United States",,"lucky loser"
+"Tomas Berdych",6,"CZE","Julien Benneteau",,"FRA","61 64 62","Round of 64",2011,"Czech Republic","France",,
+"Robin Soderling",5,"SWE","Lleyton Hewitt",,"AUS","675 36 75 64 64","Round of 64",2011,"Sweden","Australia",,
+"Andy Murray",4,"GBR","Tobias Kamke",,"GER","63 63 75","Round of 64",2011,"Great Britain","Germany",,
+"Roger Federer",3,"SUI","Adrian Mannarino",,"FRA","62 63 62","Round of 64",2011,"Switzerland","France",,
+"Novak Djokovic",2,"SRB","Kevin Anderson",,"RSA","63 64 62","Round of 64",2011,"Serbia","South Africa",,
+"Rafael Nadal",1,"ESP","Ryan Sweeting",,"USA","63 62 64","Round of 64",2011,"Spain","United States",,
+"Michael Llodra",19,"FRA","Yen-Hsun Lu",,"TPE","63 63 61","Round of 32",2011,"France","Chinese Taipei",,
+"Richard Gasquet",17,"FRA","Simone Bolelli",,"ITA","63 62 64","Round of 32",2011,"France","Italy",,"lucky loser"
+"Mikhail Youzhny",18,"RUS","Nicolas Almagro",16,"ESP","46 63 763 63","Round of 32",2011,"Russia","Spain",,
+"Juan Martin Del Potro",24,"ARG","Gilles Simon",15,"FRA","768 765 75","Round of 32",2011,"Argentina","France",,
+"Jo-Wilfried Tsonga",12,"FRA","Fernando Gonzalez",,"CHI","63 64 63","Round of 32",2011,"France","Chile",,
+"Xavier Malisse",,"BEL","Jurgen Melzer",11,"AUT","765 63 60","Round of 32",2011,"Belgium","Austria",,
+"Mardy Fish",10,"USA","Robin Haase",,"NED","63 675 62 11 (RET)","Round of 32",2011,"United States","Netherlands",,
+"Lukasz Kubot",,"POL","Gael Monfils",9,"FRA","63 36 63 63","Round of 32",2011,"Poland","France","qualifier",
+"Feliciano Lopez",,"ESP","Andy Roddick",8,"USA","762 762 64","Round of 32",2011,"Spain","United States",,
+"David Ferrer",7,"ESP","Karol Beck",,"SVK","64 63 63","Round of 32",2011,"Spain","Slovakia",,"qualifier"
+"Tomas Berdych",6,"CZE","Alex Bogomolov Jr.",,"RUS","62 64 63","Round of 32",2011,"Czech Republic","Russia",,
+"Bernard Tomic",,"AUS","Robin Soderling",5,"SWE","61 64 75","Round of 32",2011,"Australia","Sweden","qualifier",
+"Andy Murray",4,"GBR","Ivan Ljubicic",,"CRO","64 46 61 764","Round of 32",2011,"Great Britain","Croatia",,
+"Roger Federer",3,"SUI","David Nalbandian",28,"ARG","64 62 64","Round of 32",2011,"Switzerland","Argentina",,
+"Novak Djokovic",2,"SRB","Marcos Baghdatis",32,"CYP","64 46 63 64","Round of 32",2011,"Serbia","Cyprus",,
+"Rafael Nadal",1,"ESP","Gilles Muller",,"LUX","766 765 60","Round of 32",2011,"Spain","Luxembourg",,"wildcard"
+"Bernard Tomic",,"AUS","Xavier Malisse",,"BEL","61 75 64","Round of 16",2011,"Australia","Belgium","qualifier",
+"Feliciano Lopez",,"ESP","Lukasz Kubot",,"POL","36 675 767 75 75","Round of 16",2011,"Spain","Poland",,"qualifier"
+"Jo-Wilfried Tsonga",12,"FRA","David Ferrer",7,"ESP","63 64 761","Round of 16",2011,"France","Spain",,
+"Mardy Fish",10,"USA","Tomas Berdych",6,"CZE","765 64 64","Round of 16",2011,"United States","Czech Republic",,
+"Andy Murray",4,"GBR","Richard Gasquet",17,"FRA","763 63 62","Round of 16",2011,"Great Britain","France",,
+"Roger Federer",3,"SUI","Mikhail Youzhny",18,"RUS","675 63 63 63","Round of 16",2011,"Switzerland","Russia",,
+"Novak Djokovic",2,"SRB","Michael Llodra",19,"FRA","63 63 63","Round of 16",2011,"Serbia","France",,
+"Rafael Nadal",1,"ESP","Juan Martin Del Potro",24,"ARG","766 36 764 64","Round of 16",2011,"Spain","Argentina",,
+"Andy Murray",4,"GBR","Feliciano Lopez",,"ESP","63 64 64","Quarter-Finals",2011,"Great Britain","Spain",,
+"Jo-Wilfried Tsonga",12,"FRA","Roger Federer",3,"SUI","36 673 64 64 64","Quarter-Finals",2011,"France","Switzerland",,
+"Novak Djokovic",2,"SRB","Bernard Tomic",,"AUS","62 36 63 75","Quarter-Finals",2011,"Serbia","Australia",,"qualifier"
+"Rafael Nadal",1,"ESP","Mardy Fish",10,"USA","63 63 57 64","Quarter-Finals",2011,"Spain","United States",,
+"Novak Djokovic",2,"SRB","Jo-Wilfried Tsonga",12,"FRA","764 62 679 63","Semi-Finals",2011,"Serbia","France",,
+"Rafael Nadal",1,"ESP","Andy Murray",4,"GBR","57 62 62 64","Semi-Finals",2011,"Spain","Great Britain",,
+"Novak Djokovic",2,"SRB","Rafael Nadal",1,"ESP","64 61 16 63","Finals",2011,"Serbia","Spain",,
+"Viktor Troicki",,"SRB","Igor Kunitsyn",,"RUS","63 64 61","Round of 128",2010,"Serbia","Russia",,
+"Florent Serra",,"FRA","Simon Greul",,"GER","762 63 62","Round of 128",2010,"France","Germany",,
+"Rainer Schuettler",,"GER","Dmitry Tursunov",,"RUS","62 62 63","Round of 128",2010,"Germany","Russia",,
+"Michael Russell",,"USA","Pere Riba",,"ESP","63 761 26 761","Round of 128",2010,"United States","Spain",,
+"Julian Reister",,"GER","Rik De Voest",,"RSA","64 75 36 62","Round of 128",2010,"Germany","South Africa","lucky loser","qualifier"
+"Jarkko Nieminen",,"FIN","Stefan Koubek",,"AUT","64 763 57 62","Round of 128",2010,"Finland","Austria",,"lucky loser"
+"Paul-Henri Mathieu",,"FRA","Marc Gicquel",,"FRA","61 75 36 61","Round of 128",2010,"France","France",,
+"Illya Marchenko",,"UKR","Michael Berrer",,"GER","63 75 (RET)","Round of 128",2010,"Ukraine","Germany",,
+"Yen-Hsun Lu",,"TPE","Horacio Zeballos",,"ARG","75 64 63","Round of 128",2010,"Chinese Taipei","Argentina",,
+"Michael Llodra",,"FRA","Jesse Witten",,"USA","64 64 675 63","Round of 128",2010,"France","United States",,"qualifier"
+"Lukasz Kubot",,"POL","Blaz Kavcic",,"SLO","46 62 62 63","Round of 128",2010,"Poland","Slovenia",,
+"Evgeny Korolev",,"KAZ","Eduardo Schwank",,"ARG","61 768 46 62","Round of 128",2010,"Kazakhstan","Argentina",,
+"Tobias Kamke",,"GER","Guillermo Garcia-Lopez",,"ESP","57 26 75 64 64","Round of 128",2010,"Germany","Spain","qualifier",
+"Marsel Ilhan",,"TUR","Marcos Daniel",,"BRA","674 46 62 63 61","Round of 128",2010,"Turkey","Brazil","qualifier",
+"Robin Haase",,"NED","James Blake",,"USA","62 64 64","Round of 128",2010,"Netherlands","United States",,
+"Marcel Granollers",,"ESP","Frederico Gil",,"POR","63 60 64","Round of 128",2010,"Spain","Portugal",,
+"Teymuraz Gabashvili",,"RUS","Ramon Delgado",,"PAR","26 64 64 62","Round of 128",2010,"Russia","Paraguay","wildcard","lucky loser"
+"Mardy Fish",,"USA","Bernard Tomic",,"AUS","63 768 62","Round of 128",2010,"United States","Australia",,"qualifier"
+"Martin Fischer",,"AUT","Go Soeda",,"JPN","64 63 61","Round of 128",2010,"Austria","Japan","qualifier","lucky loser"
+"Brendan Evans",,"USA","Jesse Huta Galung",,"NED","63 7612 63","Round of 128",2010,"United States","Netherlands","qualifier","qualifier"
+"Alexandr Dolgopolov",,"UKR","Marco Chiudinelli",,"SUI","64 63 63","Round of 128",2010,"Ukraine","Switzerland",,
+"Ivan Dodig",,"CRO","Oscar Hernandez",,"ESP","61 63 63","Round of 128",2010,"Croatia","Spain","qualifier",
+"Taylor Dent",,"USA","Juan Ignacio Chela",,"ARG","63 672 763 75","Round of 128",2010,"United States","Argentina","qualifier",
+"Thiemo de Bakker",,"NED","Santiago Giraldo",,"COL","674 64 63 57 1614","Round of 128",2010,"Netherlands","Colombia",,
+"Arnaud Clement",,"FRA","Janko Tipsarevic",,"SRB","63 36 64 75","Round of 128",2010,"France","Serbia",,
+"Jeremy Chardy",,"FRA","Daniel Gimeno-Traver",,"ESP","63 63 61","Round of 128",2010,"France","Spain",,
+"Daniel Brands",,"GER","Igor Andreev",,"RUS","765 764 75","Round of 128",2010,"Germany","Russia",,
+"Ilija Bozoljac",,"SRB","Nicolas Massu",,"CHI","763 36 63 767","Round of 128",2010,"Serbia","Chile","qualifier",
+"Ricardas Berankis",,"LTU","Carsten Ball",,"AUS","62 60 36 765","Round of 128",2010,"Lithuania","Australia","qualifier","qualifier"
+"Benjamin Becker",,"GER","Ryan Sweeting",,"USA","57 62 62 64","Round of 128",2010,"Germany","United States",,"lucky loser"
+"Andreas Beck",,"GER","Jamie Baker",,"GBR","764 63 64","Round of 128",2010,"Germany","Great Britain",,"wildcard"
+"Karol Beck",,"SVK","Santiago Ventura",,"ESP","63 61 46 62","Round of 128",2010,"Slovakia","Spain",,"lucky loser"
+"Philipp Petzschner",33,"GER","Stephane Robert",,"FRA","64 766 46 26 64","Round of 128",2010,"Germany","France",,
+"Julien Benneteau",32,"FRA","Kristof Vliegen",,"BEL","26 676 61 62 75","Round of 128",2010,"France","Belgium",,
+"Victor Hanescu",31,"ROU","Andrey Kuznetsov",,"RUS","674 763 63 16 75","Round of 128",2010,"Romania","Russia",,"wildcard"
+"Peter Luczak",,"AUS","Tommy Robredo",30,"ESP","26 763 62 75","Round of 128",2010,"Australia","Spain",,
+"Philipp Kohlschreiber",29,"GER","Potito Starace",,"ITA","63 36 63 60","Round of 128",2010,"Germany","Italy",,
+"Albert Montanes",28,"ESP","Paolo Lorenzi",,"ITA","63 765 62","Round of 128",2010,"Spain","Italy",,
+"Gilles Simon",26,"FRA","Guillermo Alcaide",,"ESP","63 64 76","Round of 128",2010,"France","Spain",,"qualifier"
+"Thomaz Bellucci",25,"BRA","Ricardo Mello",,"BRA","64 64 64","Round of 128",2010,"Brazil","Brazil",,
+"Lukas Lacko",,"SVK","Marcos Baghdatis",24,"CYP","63 26 63 61","Round of 128",2010,"Slovakia","Cyprus",,
+"John Isner",23,"USA","Nicolas Mahut",,"FRA","64 36 677 763 7068","Round of 128",2010,"United States","France",,"qualifier"
+"Feliciano Lopez",22,"ESP","Jesse Levine",,"CAN","762 36 62 63","Round of 128",2010,"Spain","Canada",,"lucky loser"
+"Gael Monfils",21,"FRA","Leonardo Mayer",,"ARG","61 769 62","Round of 128",2010,"France","Argentina",,
+"Denis Istomin",,"UZB","Stan Wawrinka",20,"SUI","675 61 26 764 63","Round of 128",2010,"Uzbekistan","Switzerland",,
+"Andreas Seppi",,"ITA","Nicolas Almagro",19,"ESP","764 767 62","Round of 128",2010,"Italy","Spain",,
+"Sam Querrey",18,"USA","Sergiy Stakhovsky",,"UKR","764 63 21 (RET)","Round of 128",2010,"United States","Ukraine",,
+"Michal Przysiezny",,"POL","Ivan Ljubicic",17,"CRO","75 765 63","Round of 128",2010,"Poland","Croatia",,
+"Jurgen Melzer",16,"AUT","Dustin Brown",,"GER","63 46 62 63","Round of 128",2010,"Austria","Germany",,
+"Lleyton Hewitt",15,"AUS","Maximo Gonzalez",,"ARG","57 60 62 62","Round of 128",2010,"Australia","Argentina",,
+"Xavier Malisse",,"BEL","Juan Carlos Ferrero",14,"ESP","62 676 765 46 61","Round of 128",2010,"Belgium","Spain",,
+"Mikhail Youzhny",13,"RUS","Dudi Sela",,"ISR","63 64 46 762","Round of 128",2010,"Russia","Israel",,
+"Tomas Berdych",12,"CZE","Andrey Golubev",,"KAZ","765 62 62","Round of 128",2010,"Czech Republic","Kazakhstan",,
+"Florian Mayer",,"GER","Marin Cilic",11,"CRO","62 64 761","Round of 128",2010,"Germany","Croatia",,
+"Jo-Wilfried Tsonga",10,"FRA","Robert Kendrick",,"USA","762 766 36 64","Round of 128",2010,"France","United States",,"qualifier"
+"David Ferrer",9,"ESP","Nicolas Kiefer",,"GER","64 62 63","Round of 128",2010,"Spain","Germany",,"wildcard"
+"Fabio Fognini",,"ITA","Fernando Verdasco",8,"ESP","769 62 676 64","Round of 128",2010,"Italy","Spain",,
+"Nikolay Davydenko",7,"RUS","Kevin Anderson",,"RSA","36 673 763 75 97","Round of 128",2010,"Russia","South Africa",,
+"Robin Soderling",6,"SWE","Robby Ginepri",,"USA","62 62 63","Round of 128",2010,"Sweden","United States",,
+"Andy Roddick",5,"USA","Rajeev Ram",,"USA","63 62 62","Round of 128",2010,"United States","United States",,
+"Andy Murray",4,"GBR","Jan Hajek",,"CZE","75 61 62","Round of 128",2010,"Great Britain","Czech Republic",,
+"Novak Djokovic",3,"SRB","Olivier Rochus",,"BEL","46 62 36 64 62","Round of 128",2010,"Serbia","Belgium",,
+"Rafael Nadal",2,"ESP","Kei Nishikori",,"JPN","62 64 64","Round of 128",2010,"Spain","Japan",,"wildcard"
+"Roger Federer",1,"SUI","Alejandro Falla",,"COL","57 46 64 761 60","Round of 128",2010,"Switzerland","Colombia",,
+"Florian Mayer",,"GER","Mardy Fish",,"USA","672 63 64 64","Round of 64",2010,"Germany","United States",,
+"Xavier Malisse",,"BEL","Julian Reister",,"GER","677 64 61 64","Round of 64",2010,"Belgium","Germany",,"lucky loser"
+"Yen-Hsun Lu",,"TPE","Michal Przysiezny",,"POL","64 767 63","Round of 64",2010,"Chinese Taipei","Poland",,
+"Tobias Kamke",,"GER","Andreas Seppi",,"ITA","36 62 63 64","Round of 64",2010,"Germany","Italy","qualifier",
+"Denis Istomin",,"UZB","Rainer Schuettler",,"GER","63 765 46 46 61","Round of 64",2010,"Uzbekistan","Germany",,
+"Fabio Fognini",,"ITA","Michael Russell",,"USA","36 57 75 766 63","Round of 64",2010,"Italy","United States",,
+"Arnaud Clement",,"FRA","Peter Luczak",,"AUS","674 63 63 64","Round of 64",2010,"France","Australia",,
+"Jeremy Chardy",,"FRA","Lukas Lacko",,"SVK","63 764 46 675 86","Round of 64",2010,"France","Slovakia",,
+"Philipp Petzschner",33,"GER","Lukasz Kubot",,"POL","64 36 46 63 62","Round of 64",2010,"Germany","Poland",,
+"Julien Benneteau",32,"FRA","Andreas Beck",,"GER","36 62 46 765 63","Round of 64",2010,"France","Germany",,
+"Victor Hanescu",31,"ROU","Marsel Ilhan",,"TUR","64 64 36 63","Round of 64",2010,"Romania","Turkey",,"qualifier"
+"Philipp Kohlschreiber",29,"GER","Teymuraz Gabashvili",,"RUS","766 57 26 765 97","Round of 64",2010,"Germany","Russia",,"wildcard"
+"Albert Montanes",28,"ESP","Brendan Evans",,"USA","36 63 675 61 64","Round of 64",2010,"Spain","United States",,"qualifier"
+"Gilles Simon",26,"FRA","Illya Marchenko",,"UKR","(W/O)","Round of 64",2010,"France","Ukraine",,
+"Thomaz Bellucci",25,"BRA","Martin Fischer",,"AUT","6711 764 761 62","Round of 64",2010,"Brazil","Austria",,"qualifier"
+"Thiemo de Bakker",,"NED","John Isner",23,"USA","60 63 62","Round of 64",2010,"Netherlands","United States",,
+"Feliciano Lopez",22,"ESP","Ricardas Berankis",,"LTU","75 46 63 64","Round of 64",2010,"Spain","Lithuania",,"qualifier"
+"Gael Monfils",21,"FRA","Karol Beck",,"SVK","64 64 674 64","Round of 64",2010,"France","Slovakia",,
+"Sam Querrey",18,"USA","Ivan Dodig",,"CRO","62 57 63 7610","Round of 64",2010,"United States","Croatia",,"qualifier"
+"Jurgen Melzer",16,"AUT","Viktor Troicki",,"SRB","675 46 63 766 63","Round of 64",2010,"Austria","Serbia",,
+"Lleyton Hewitt",15,"AUS","Evgeny Korolev",,"KAZ","64 64 30 (RET)","Round of 64",2010,"Australia","Kazakhstan",,
+"Paul-Henri Mathieu",,"FRA","Mikhail Youzhny",13,"RUS","64 26 26 63 64","Round of 64",2010,"France","Russia",,
+"Tomas Berdych",12,"CZE","Benjamin Becker",,"GER","75 63 64","Round of 64",2010,"Czech Republic","Germany",,
+"Jo-Wilfried Tsonga",10,"FRA","Alexandr Dolgopolov",,"UKR","64 64 675 57 108","Round of 64",2010,"France","Ukraine",,
+"David Ferrer",9,"ESP","Florent Serra",,"FRA","64 75 676 63","Round of 64",2010,"Spain","France",,
+"Daniel Brands",,"GER","Nikolay Davydenko",7,"RUS","16 765 768 61","Round of 64",2010,"Germany","Russia",,
+"Robin Soderling",6,"SWE","Marcel Granollers",,"ESP","75 61 64","Round of 64",2010,"Sweden","Spain",,
+"Andy Roddick",5,"USA","Michael Llodra",,"FRA","46 64 61 762","Round of 64",2010,"United States","France",,
+"Andy Murray",4,"GBR","Jarkko Nieminen",,"FIN","63 64 62","Round of 64",2010,"Great Britain","Finland",,
+"Novak Djokovic",3,"SRB","Taylor Dent",,"USA","765 61 64","Round of 64",2010,"Serbia","United States",,"qualifier"
+"Rafael Nadal",2,"ESP","Robin Haase",,"NED","57 62 36 60 63","Round of 64",2010,"Spain","Netherlands",,
+"Roger Federer",1,"SUI","Ilija Bozoljac",,"SRB","63 674 64 765","Round of 64",2010,"Switzerland","Serbia",,"qualifier"
+"Paul-Henri Mathieu",,"FRA","Thiemo de Bakker",,"NED","765 766 678 64","Round of 32",2010,"France","Netherlands",,
+"Yen-Hsun Lu",,"TPE","Florian Mayer",,"GER","64 64 21 (RET)","Round of 32",2010,"Chinese Taipei","Germany",,
+"Julien Benneteau",32,"FRA","Fabio Fognini",,"ITA","64 61 46 63","Round of 32",2010,"France","Italy",,
+"Daniel Brands",,"GER","Victor Hanescu",31,"ROU","677 673 767 63 30 (RET)","Round of 32",2010,"Germany","Romania",,
+"Sam Querrey",18,"USA","Xavier Malisse",,"BEL","674 64 62 57 97","Round of 32",2010,"United States","Belgium",,
+"Jurgen Melzer",16,"AUT","Feliciano Lopez",22,"ESP","46 63 62 64","Round of 32",2010,"Austria","Spain",,
+"Lleyton Hewitt",15,"AUS","Gael Monfils",21,"FRA","63 769 64","Round of 32",2010,"Australia","France",,
+"Tomas Berdych",12,"CZE","Denis Istomin",,"UZB","671 765 678 63 64","Round of 32",2010,"Czech Republic","Uzbekistan",,
+"Jo-Wilfried Tsonga",10,"FRA","Tobias Kamke",,"GER","61 64 761","Round of 32",2010,"France","Germany",,"qualifier"
+"David Ferrer",9,"ESP","Jeremy Chardy",,"FRA","75 63 46 36 75","Round of 32",2010,"Spain","France",,
+"Robin Soderling",6,"SWE","Thomaz Bellucci",25,"BRA","64 62 75","Round of 32",2010,"Sweden","Brazil",,
+"Andy Roddick",5,"USA","Philipp Kohlschreiber",29,"GER","75 675 63 63","Round of 32",2010,"United States","Germany",,
+"Andy Murray",4,"GBR","Gilles Simon",26,"FRA","61 64 64","Round of 32",2010,"Great Britain","France",,
+"Novak Djokovic",3,"SRB","Albert Montanes",28,"ESP","61 64 64","Round of 32",2010,"Serbia","Spain",,
+"Rafael Nadal",2,"ESP","Philipp Petzschner",33,"GER","64 46 675 62 63","Round of 32",2010,"Spain","Germany",,
+"Roger Federer",1,"SUI","Arnaud Clement",,"FRA","62 64 62","Round of 32",2010,"Switzerland","France",,
+"Tomas Berdych",12,"CZE","Daniel Brands",,"GER","46 761 75 63","Round of 16",2010,"Czech Republic","Germany",,
+"Jo-Wilfried Tsonga",10,"FRA","Julien Benneteau",32,"FRA","61 64 36 61","Round of 16",2010,"France","France",,
+"Robin Soderling",6,"SWE","David Ferrer",9,"ESP","62 57 62 36 75","Round of 16",2010,"Sweden","Spain",,
+"Yen-Hsun Lu",,"TPE","Andy Roddick",5,"USA","46 763 764 675 97","Round of 16",2010,"Chinese Taipei","United States",,
+"Andy Murray",4,"GBR","Sam Querrey",18,"USA","75 63 64","Round of 16",2010,"Great Britain","United States",,
+"Novak Djokovic",3,"SRB","Lleyton Hewitt",15,"AUS","75 64 36 64","Round of 16",2010,"Serbia","Australia",,
+"Rafael Nadal",2,"ESP","Paul-Henri Mathieu",,"FRA","64 62 62","Round of 16",2010,"Spain","France",,
+"Roger Federer",1,"SUI","Jurgen Melzer",16,"AUT","63 62 63","Round of 16",2010,"Switzerland","Austria",,
+"Andy Murray",4,"GBR","Jo-Wilfried Tsonga",10,"FRA","675 765 62 62","Quarter-Finals",2010,"Great Britain","France",,
+"Novak Djokovic",3,"SRB","Yen-Hsun Lu",,"TPE","63 62 62","Quarter-Finals",2010,"Serbia","Chinese Taipei",,
+"Rafael Nadal",2,"ESP","Robin Soderling",6,"SWE","36 63 764 61","Quarter-Finals",2010,"Spain","Sweden",,
+"Tomas Berdych",12,"CZE","Roger Federer",1,"SUI","64 36 61 64","Quarter-Finals",2010,"Czech Republic","Switzerland",,
+"Tomas Berdych",12,"CZE","Novak Djokovic",3,"SRB","63 769 63","Semi-Finals",2010,"Czech Republic","Serbia",,
+"Rafael Nadal",2,"ESP","Andy Murray",4,"GBR","64 766 64","Semi-Finals",2010,"Spain","Great Britain",,
+"Rafael Nadal",2,"ESP","Tomas Berdych",12,"CZE","63 75 64","Finals",2010,"Spain","Czech Republic",,
+"Kristof Vliegen",,"BEL","Nicolas Mahut",,"FRA","63 766 57 57 64","Round of 128",2009,"Belgium","France",,"wildcard"
+"Martin Vassallo Arguello",,"ARG","Pablo Andujar",,"ESP","46 63 62 62","Round of 128",2009,"Argentina","Spain",,
+"Janko Tipsarevic",,"SRB","Jan Hernych",,"CZE","64 64 764","Round of 128",2009,"Serbia","Czech Republic",,
+"Potito Starace",,"ITA","Jose Acasuso",,"ARG","76 63 (RET)","Round of 128",2009,"Italy","Argentina",,
+"Vincent Spadea",,"USA","Paul Capdeville",,"CHI","60 64 75","Round of 128",2009,"United States","Chile",,
+"Dudi Sela",,"ISR","Santiago Gonzalez",,"MEX","64 46 762 63","Round of 128",2009,"Israel","Mexico",,"qualifier"
+"Sam Querrey",,"USA","Danai Udomchoke",,"THA","63 64 64","Round of 128",2009,"United States","Thailand",,"lucky loser"
+"Philipp Petzschner",,"GER","Rajeev Ram",,"USA","26 61 763 61","Round of 128",2009,"Germany","United States",,"qualifier"
+"Ivo Minar",,"CZE","Maximo Gonzalez",,"ARG","64 36 75 60","Round of 128",2009,"Czech Republic","Argentina",,
+"Leonardo Mayer",,"ARG","Oscar Hernandez",,"ESP","60 60 63","Round of 128",2009,"Argentina","Spain",,
+"Paul-Henri Mathieu",,"FRA","Frederico Gil",,"POR","61 26 64 62","Round of 128",2009,"France","Portugal",,
+"Michael Llodra",,"FRA","Josh Goodall",,"GBR","46 765 64 36 64","Round of 128",2009,"France","Great Britain",,"wildcard"
+"Igor Kunitsyn",,"RUS","Grigor Dimitrov",,"BUL","36 60 30 (RET)","Round of 128",2009,"Russia","Bulgaria",,"wildcard"
+"Stefan Koubek",,"AUT","Edouard Roger-Vasselin",,"FRA","75 63 46 36 63","Round of 128",2009,"Austria","France",,"qualifier"
+"Lleyton Hewitt",,"AUS","Robby Ginepri",,"USA","64 61 61","Round of 128",2009,"Australia","United States",,
+"Ernests Gulbis",,"LAT","Riccardo Ghedin",,"ITA","62 64 64","Round of 128",2009,"Latvia","Italy",,"qualifier"
+"Simon Greul",,"GER","Michael Yani",,"USA","64 62 75","Round of 128",2009,"Germany","United States","qualifier","qualifier"
+"Marcel Granollers",,"ESP","Andreas Beck",,"GER","62 64 674 62","Round of 128",2009,"Spain","Germany",,
+"Daniel Gimeno-Traver",,"ESP","Taylor Dent",,"USA","75 766 46 673 64","Round of 128",2009,"Spain","United States",,"qualifier"
+"Marc Gicquel",,"FRA","Adrian Mannarino",,"FRA","62 62 64","Round of 128",2009,"France","France",,"qualifier"
+"Guillermo Garcia-Lopez",,"ESP","Agustin Calleri",,"ARG","62 63 62","Round of 128",2009,"Spain","Argentina",,
+"Fabio Fognini",,"ITA","Denis Istomin",,"UZB","16 673 64 31 (RET)","Round of 128",2009,"Italy","Uzbekistan",,
+"Juan Carlos Ferrero",,"ESP","Mikhail Youzhny",,"RUS","63 763 63","Round of 128",2009,"Spain","Russia","wildcard",
+"Nicolas Devilder",,"FRA","Nicolas Lapentti",,"ECU","36 64 63 46 75","Round of 128",2009,"France","Ecuador",,
+"Steve Darcis",,"BEL","Frank Dancevic",,"CAN","64 764 63","Round of 128",2009,"Belgium","Canada",,
+"Pablo Cuevas",,"URU","Christophe Rochus",,"BEL","36 46 64 61 119","Round of 128",2009,"Uruguay","Belgium","lucky loser",
+"Victor Crivoi",,"ROU","Bjorn Phau",,"GER","46 61 763 26 63","Round of 128",2009,"Romania","Germany",,
+"Guillermo Canas",,"ARG","Diego Junqueira",,"ARG","61 62 62","Round of 128",2009,"Argentina","Argentina",,
+"Simone Bolelli",,"ITA","Daniel Koellerer",,"AUT","673 26 75 64 64","Round of 128",2009,"Italy","Austria",,
+"Benjamin Becker",,"GER","Roko Karanusic",,"CRO","64 64 61","Round of 128",2009,"Germany","Croatia",,"qualifier"
+"Thiago Alves",,"BRA","Andrei Pavel",,"ROU","63 26 61 26 61","Round of 128",2009,"Brazil","Romania","lucky loser",
+"Nicolas Almagro",,"ESP","Juan Monaco",,"ARG","673 677 765 64 86","Round of 128",2009,"Spain","Argentina",,
+"Fabrice Santoro",,"FRA","Nicolas Kiefer",33,"GER","64 62 62","Round of 128",2009,"France","Germany",,
+"Albert Montanes",32,"ESP","Grega Zemlja",,"SLO","64 64 64","Round of 128",2009,"Spain","Slovenia",,"qualifier"
+"Victor Hanescu",31,"ROU","Ivan Navarro",,"ESP","63 675 64 675 1210","Round of 128",2009,"Romania","Spain",,
+"Viktor Troicki",30,"SRB","Brian Dabul",,"ARG","64 64 63","Round of 128",2009,"Serbia","Argentina",,
+"Igor Andreev",29,"RUS","Evgeny Korolev",,"KAZ","46 762 64 764","Round of 128",2009,"Russia","Kazakhstan",,
+"Mardy Fish",28,"USA","Sergio Roitman",,"ARG","63 62 41 (RET)","Round of 128",2009,"United States","Argentina",,
+"Philipp Kohlschreiber",27,"GER","Florent Serra",,"FRA","763 61 64","Round of 128",2009,"Germany","France",,
+"Jurgen Melzer",26,"AUT","Wayne Odesnik",,"USA","61 64 62","Round of 128",2009,"Austria","United States",,
+"Mischa Zverev",,"GER","Dmitry Tursunov",25,"RUS","64 62 30 (RET)","Round of 128",2009,"Germany","Russia",,
+"Tommy Haas",24,"GER","Alexander Peya",,"AUT","675 76 63 64","Round of 128",2009,"Germany","Austria",,"qualifier"
+"Radek Stepanek",23,"CZE","Alejandro Falla",,"COL","64 64 61","Round of 128",2009,"Czech Republic","Colombia",,"qualifier"
+"Ivo Karlovic",22,"CRO","Lukas Lacko",,"SVK","63 764 63","Round of 128",2009,"Croatia","Slovakia",,"qualifier"
+"Karol Beck",,"SVK","Feliciano Lopez",21,"ESP","16 75 63 46 108","Round of 128",2009,"Slovakia","Spain","lucky loser",
+"Tomas Berdych",20,"CZE","Alex Bogdanovic",,"GBR","63 64 64","Round of 128",2009,"Czech Republic","Great Britain",,"wildcard"
+"Stan Wawrinka",19,"SUI","Eduardo Schwank",,"ARG","75 64 61","Round of 128",2009,"Switzerland","Argentina",,
+"Rainer Schuettler",18,"GER","Xavier Malisse",,"BEL","679 64 763 61","Round of 128",2009,"Germany","Belgium",,"qualifier"
+"Andreas Seppi",,"ITA","James Blake",17,"USA","75 64 765","Round of 128",2009,"Italy","United States",,
+"David Ferrer",16,"ESP","Kevin Kim",,"USA","75 63 46 62","Round of 128",2009,"Spain","United States",,
+"Tommy Robredo",15,"ESP","Luka Gregorc",,"SLO","764 64 57 763","Round of 128",2009,"Spain","Slovenia",,"qualifier"
+"Jesse Levine",,"CAN","Marat Safin",14,"RUS","62 36 764 64","Round of 128",2009,"Canada","Russia","qualifier",
+"Robin Soderling",13,"SWE","Gilles Muller",,"LUX","674 75 61 62","Round of 128",2009,"Sweden","Luxembourg",,
+"Nikolay Davydenko",12,"RUS","Daniel Evans",,"GBR","62 63 63","Round of 128",2009,"Russia","Great Britain",,"wildcard"
+"Marin Cilic",11,"CRO","Alberto Martin",,"ESP","63 64 64","Round of 128",2009,"Croatia","Spain",,
+"Fernando Gonzalez",10,"CHI","Teymuraz Gabashvili",,"RUS","75 75 63","Round of 128",2009,"Chile","Russia",,
+"Jo-Wilfried Tsonga",9,"FRA","Andrey Golubev",,"KAZ","63 57 764 765","Round of 128",2009,"France","Kazakhstan",,
+"Gilles Simon",8,"FRA","Bobby Reynolds",,"USA","64 63 63","Round of 128",2009,"France","United States",,
+"Fernando Verdasco",7,"ESP","James Ward",,"GBR","61 63 64","Round of 128",2009,"Spain","Great Britain",,"wildcard"
+"Andy Roddick",6,"USA","Jeremy Chardy",,"FRA","63 763 46 63","Round of 128",2009,"United States","France",,
+"Juan Martin Del Potro",5,"ARG","Arnaud Clement",,"FRA","63 61 62","Round of 128",2009,"Argentina","France",,
+"Novak Djokovic",4,"SRB","Julien Benneteau",,"FRA","678 761 62 64","Round of 128",2009,"Serbia","France",,
+"Andy Murray",3,"GBR","Robert Kendrick",,"USA","75 673 63 64","Round of 128",2009,"Great Britain","United States",,
+"Roger Federer",2,"SUI","Yen-Hsun Lu",,"TPE","75 63 62","Round of 128",2009,"Switzerland","Chinese Taipei",,
+"Andreas Seppi",,"ITA","Marc Gicquel",,"FRA","75 64 673 57 64","Round of 64",2009,"Italy","France",,
+"Philipp Petzschner",,"GER","Mischa Zverev",,"GER","46 7613 36 765 60","Round of 64",2009,"Germany","Germany",,
+"Jesse Levine",,"CAN","Pablo Cuevas",,"URU","62 61 46 46 63","Round of 64",2009,"Canada","Uruguay","qualifier","lucky loser"
+"Juan Carlos Ferrero",,"ESP","Fabrice Santoro",,"FRA","671 63 64 63","Round of 64",2009,"Spain","France","wildcard",
+"Nicolas Almagro",,"ESP","Karol Beck",,"SVK","64 762 36 36 75","Round of 64",2009,"Spain","Slovakia",,"lucky loser"
+"Albert Montanes",32,"ESP","Guillermo Canas",,"ARG","64 63 46 63","Round of 64",2009,"Spain","Argentina",,
+"Victor Hanescu",31,"ROU","Nicolas Devilder",,"FRA","62 63 61","Round of 64",2009,"Romania","France",,
+"Viktor Troicki",30,"SRB","Daniel Gimeno-Traver",,"ESP","675 60 16 63 75","Round of 64",2009,"Serbia","Spain",,
+"Igor Andreev",29,"RUS","Vincent Spadea",,"USA","63 75 62","Round of 64",2009,"Russia","United States",,
+"Mardy Fish",28,"USA","Janko Tipsarevic",,"SRB","64 36 61 64","Round of 64",2009,"United States","Serbia",,
+"Philipp Kohlschreiber",27,"GER","Ivo Minar",,"CZE","64 36 46 62 86","Round of 64",2009,"Germany","Czech Republic",,
+"Jurgen Melzer",26,"AUT","Benjamin Becker",,"GER","766 63 761","Round of 64",2009,"Austria","Germany",,
+"Tommy Haas",24,"GER","Michael Llodra",,"FRA","43 (RET)","Round of 64",2009,"Germany","France",,
+"Radek Stepanek",23,"CZE","Potito Starace",,"ITA","64 46 62 46 63","Round of 64",2009,"Czech Republic","Italy",,
+"Ivo Karlovic",22,"CRO","Steve Darcis",,"BEL","75 63 64","Round of 64",2009,"Croatia","Belgium",,
+"Tomas Berdych",20,"CZE","Paul-Henri Mathieu",,"FRA","62 64 64","Round of 64",2009,"Czech Republic","France",,
+"Stan Wawrinka",19,"SUI","Martin Vassallo Arguello",,"ARG","63 62 62","Round of 64",2009,"Switzerland","Argentina",,
+"Dudi Sela",,"ISR","Rainer Schuettler",18,"GER","763 63 62","Round of 64",2009,"Israel","Germany",,
+"David Ferrer",16,"ESP","Fabio Fognini",,"ITA","62 62 63","Round of 64",2009,"Spain","Italy",,
+"Tommy Robredo",15,"ESP","Stefan Koubek",,"AUT","36 46 64 765 61","Round of 64",2009,"Spain","Austria",,
+"Robin Soderling",13,"SWE","Marcel Granollers",,"ESP","46 767 64 75","Round of 64",2009,"Sweden","Spain",,
+"Nikolay Davydenko",12,"RUS","Victor Crivoi",,"ROU","64 64 62","Round of 64",2009,"Russia","Romania",,
+"Marin Cilic",11,"CRO","Sam Querrey",,"USA","46 763 63 674 64","Round of 64",2009,"Croatia","United States",,
+"Fernando Gonzalez",10,"CHI","Leonardo Mayer",,"ARG","674 64 64 64","Round of 64",2009,"Chile","Argentina",,
+"Jo-Wilfried Tsonga",9,"FRA","Simone Bolelli",,"ITA","(W/O)","Round of 64",2009,"France","Italy",,
+"Gilles Simon",8,"FRA","Thiago Alves",,"BRA","57 63 64 64","Round of 64",2009,"France","Brazil",,"lucky loser"
+"Fernando Verdasco",7,"ESP","Kristof Vliegen",,"BEL","763 673 764 64","Round of 64",2009,"Spain","Belgium",,
+"Andy Roddick",6,"USA","Igor Kunitsyn",,"RUS","64 62 36 62","Round of 64",2009,"United States","Russia",,
+"Lleyton Hewitt",,"AUS","Juan Martin Del Potro",5,"ARG","63 75 75","Round of 64",2009,"Australia","Argentina",,
+"Novak Djokovic",4,"SRB","Simon Greul",,"GER","75 61 64","Round of 64",2009,"Serbia","Germany",,"qualifier"
+"Andy Murray",3,"GBR","Ernests Gulbis",,"LAT","62 75 63","Round of 64",2009,"Great Britain","Latvia",,
+"Roger Federer",2,"SUI","Guillermo Garcia-Lopez",,"ESP","62 62 64","Round of 64",2009,"Switzerland","Spain",,
+"Lleyton Hewitt",,"AUS","Philipp Petzschner",,"GER","75 763 63","Round of 32",2009,"Australia","Germany",,
+"Igor Andreev",29,"RUS","Andreas Seppi",,"ITA","61 765 46 765","Round of 32",2009,"Russia","Italy",,
+"Stan Wawrinka",19,"SUI","Jesse Levine",,"CAN","57 75 63 63","Round of 32",2009,"Switzerland","Canada",,"qualifier"
+"Radek Stepanek",23,"CZE","David Ferrer",16,"ESP","75 75 36 46 64","Round of 32",2009,"Czech Republic","Spain",,
+"Dudi Sela",,"ISR","Tommy Robredo",15,"ESP","768 75 26 75","Round of 32",2009,"Israel","Spain",,
+"Robin Soderling",13,"SWE","Nicolas Almagro",,"ESP","767 64 64","Round of 32",2009,"Sweden","Spain",,
+"Tomas Berdych",20,"CZE","Nikolay Davydenko",12,"RUS","62 63 62","Round of 32",2009,"Czech Republic","Russia",,
+"Tommy Haas",24,"GER","Marin Cilic",11,"CRO","75 75 16 673 108","Round of 32",2009,"Germany","Croatia",,
+"Juan Carlos Ferrero",,"ESP","Fernando Gonzalez",10,"CHI","46 75 64 46 64","Round of 32",2009,"Spain","Chile","wildcard",
+"Ivo Karlovic",22,"CRO","Jo-Wilfried Tsonga",9,"FRA","765 675 75 765","Round of 32",2009,"Croatia","France",,
+"Gilles Simon",8,"FRA","Victor Hanescu",31,"ROU","62 75 62","Round of 32",2009,"France","Romania",,
+"Fernando Verdasco",7,"ESP","Albert Montanes",32,"ESP","46 61 64 762","Round of 32",2009,"Spain","Spain",,
+"Andy Roddick",6,"USA","Jurgen Melzer",26,"AUT","762 762 46 63","Round of 32",2009,"United States","Austria",,
+"Novak Djokovic",4,"SRB","Mardy Fish",28,"USA","64 64 64","Round of 32",2009,"Serbia","United States",,
+"Andy Murray",3,"GBR","Viktor Troicki",30,"SRB","62 63 64","Round of 32",2009,"Great Britain","Serbia",,
+"Roger Federer",2,"SUI","Philipp Kohlschreiber",27,"GER","63 62 675 61","Round of 32",2009,"Switzerland","Germany",,
+"Tommy Haas",24,"GER","Igor Andreev",29,"RUS","768 64 64","Round of 16",2009,"Germany","Russia",,
+"Lleyton Hewitt",,"AUS","Radek Stepanek",23,"CZE","46 26 61 62 62","Round of 16",2009,"Australia","Czech Republic",,
+"Juan Carlos Ferrero",,"ESP","Gilles Simon",8,"FRA","764 63 62","Round of 16",2009,"Spain","France","wildcard",
+"Ivo Karlovic",22,"CRO","Fernando Verdasco",7,"ESP","765 674 63 769","Round of 16",2009,"Croatia","Spain",,
+"Andy Roddick",6,"USA","Tomas Berdych",20,"CZE","764 64 63","Round of 16",2009,"United States","Czech Republic",,
+"Novak Djokovic",4,"SRB","Dudi Sela",,"ISR","62 64 61","Round of 16",2009,"Serbia","Israel",,
+"Andy Murray",3,"GBR","Stan Wawrinka",19,"SUI","26 63 63 57 63","Round of 16",2009,"Great Britain","Switzerland",,
+"Roger Federer",2,"SUI","Robin Soderling",13,"SWE","64 765 765","Round of 16",2009,"Switzerland","Sweden",,
+"Andy Roddick",6,"USA","Lleyton Hewitt",,"AUS","63 6710 761 46 64","Quarter-Finals",2009,"United States","Australia",,
+"Tommy Haas",24,"GER","Novak Djokovic",4,"SRB","75 766 46 63","Quarter-Finals",2009,"Germany","Serbia",,
+"Andy Murray",3,"GBR","Juan Carlos Ferrero",,"ESP","75 63 62","Quarter-Finals",2009,"Great Britain","Spain",,"wildcard"
+"Roger Federer",2,"SUI","Ivo Karlovic",22,"CRO","63 75 763","Quarter-Finals",2009,"Switzerland","Croatia",,
+"Andy Roddick",6,"USA","Andy Murray",3,"GBR","64 46 767 765","Semi-Finals",2009,"United States","Great Britain",,
+"Roger Federer",2,"SUI","Tommy Haas",24,"GER","763 75 63","Semi-Finals",2009,"Switzerland","Germany",,
+"Roger Federer",2,"SUI","Andy Roddick",6,"USA","57 766 765 36 1614","Finals",2009,"Switzerland","United States",,
+"Mischa Zverev",,"GER","Alexander Peya",,"AUT","63 64 64","Round of 128",2008,"Germany","Austria",,"qualifier"
+"Martin Vassallo Arguello",,"ARG","Ivo Minar",,"CZE","64 26 26 62 62","Round of 128",2008,"Argentina","Czech Republic",,
+"Viktor Troicki",,"SRB","Nicolas Lapentti",,"ECU","63 40 (RET)","Round of 128",2008,"Serbia","Ecuador",,
+"Janko Tipsarevic",,"SRB","Thierry Ascione",,"FRA","764 64 62","Round of 128",2008,"Serbia","France",,
+"Robin Soderling",,"SWE","Kevin Kim",,"USA","75 06 63 64","Round of 128",2008,"Sweden","United States",,"qualifier"
+"Florent Serra",,"FRA","Yen-Hsun Lu",,"TPE","64 64 673 63","Round of 128",2008,"France","Chinese Taipei",,
+"Rainer Schuettler",,"GER","Santiago Ventura",,"ESP","63 62 64","Round of 128",2008,"Germany","Spain",,
+"Marat Safin",,"RUS","Fabio Fognini",,"ITA","61 62 763","Round of 128",2008,"Russia","Italy",,
+"Olivier Rochus",,"BEL","Dudi Sela",,"ISR","64 75 64","Round of 128",2008,"Belgium","Israel",,
+"Bobby Reynolds",,"USA","Filippo Volandri",,"ITA","62 62 (RET)","Round of 128",2008,"United States","Italy",,
+"Philipp Petzschner",,"GER","Hyung-Taik Lee",,"KOR","674 61 64 (RET)","Round of 128",2008,"Germany","South Korea","qualifier",
+"Albert Montanes",,"ESP","Carlos Berlocq",,"ARG","63 762 64","Round of 128",2008,"Spain","Argentina",,
+"Xavier Malisse",,"BEL","Denis Gremelmayr",,"GER","63 64 62","Round of 128",2008,"Belgium","Germany","wildcard",
+"Jesse Levine",,"CAN","Donald Young",,"USA","46 62 63 64","Round of 128",2008,"Canada","United States","qualifier",
+"Roko Karanusic",,"CRO","Luis Horna",,"PER","764 63 61","Round of 128",2008,"Croatia","Peru",,
+"Thomas Johansson",,"SWE","Vincent Spadea",,"USA","678 675 63 64 63","Round of 128",2008,"Sweden","United States",,
+"Victor Hanescu",,"ROU","Alejandro Falla",,"COL","63 672 60 64","Round of 128",2008,"Romania","Colombia",,
+"Tommy Haas",,"GER","Guillermo Canas",,"ARG","36 64 64 64","Round of 128",2008,"Germany","Argentina",,
+"Ernests Gulbis",,"LAT","John Isner",,"USA","75 75 673 766","Round of 128",2008,"Latvia","United States",,
+"Sebastien Grosjean",,"FRA","Potito Starace",,"ITA","62 75 61","Round of 128",2008,"France","Italy",,
+"Marc Gicquel",,"FRA","Kei Nishikori",,"JPN","46 75 (RET)","Round of 128",2008,"France","Japan",,
+"Guillermo Garcia-Lopez",,"ESP","Izak Van der Merwe",,"RSA","75 62 62","Round of 128",2008,"Spain","South Africa",,"qualifier"
+"Stefano Galvani",,"ITA","Jamie Baker",,"GBR","64 62 63","Round of 128",2008,"Italy","Great Britain","qualifier","wildcard"
+"Chris Eaton",,"GBR","Boris Pashanski",,"SRB","63 766 64","Round of 128",2008,"Great Britain","Serbia","qualifier",
+"Juan Martin Del Potro",,"ARG","Pavel Snobel",,"CZE","64 62 63","Round of 128",2008,"Argentina","Czech Republic",,"qualifier"
+"Arnaud Clement",,"FRA","Jonas Bjorkman",,"SWE","46 762 64 764","Round of 128",2008,"France","Sweden",,
+"Marin Cilic",,"CRO","Edouard Roger-Vasselin",,"FRA","64 63 764","Round of 128",2008,"Croatia","France",,"qualifier"
+"Jeremy Chardy",,"FRA","Frederico Gil",,"POR","75 671 46 64 63","Round of 128",2008,"France","Portugal","wildcard","qualifier"
+"Agustin Calleri",,"ARG","Kevin Anderson",,"RSA","46 75 75 61","Round of 128",2008,"Argentina","South Africa",,
+"Ilija Bozoljac",,"SRB","Chris Guccione",,"AUS","36 64 64 63","Round of 128",2008,"Serbia","Australia","lucky loser",
+"Simone Bolelli",,"ITA","Alex Bogdanovic",,"GBR","764 46 63 764","Round of 128",2008,"Italy","Great Britain",,"wildcard"
+"Thomaz Bellucci",,"BRA","Igor Kunitsyn",,"RUS","765 765 36 62","Round of 128",2008,"Brazil","Russia",,
+"Igor Andreev",,"RUS","Jiri Vanek",,"CZE","676 762 62 62","Round of 128",2008,"Russia","Czech Republic",,
+"Feliciano Lopez",32,"ESP","Brian Dabul",,"ARG","761 36 63 64","Round of 128",2008,"Spain","Argentina",,
+"Mario Ancic",,"CRO","Michael Llodra",31,"FRA","64 767 20 (RET)","Round of 128",2008,"Croatia","France",,
+"Nicolas Kiefer",30,"GER","Julien Benneteau",,"FRA","61 75 63","Round of 128",2008,"Germany","France",,
+"Dmitry Tursunov",28,"RUS","Nicolas Mahut",,"FRA","64 678 767 36 75","Round of 128",2008,"Russia","France",,
+"Andreas Seppi",27,"ITA","Tobias Kamke",,"GER","57 63 62 64","Round of 128",2008,"Italy","Germany",,"lucky loser"
+"Gilles Simon",26,"FRA","Dawid Olejniczak",,"POL","63 64 62","Round of 128",2008,"France","Poland",,"qualifier"
+"Jarkko Nieminen",25,"FIN","Wayne Odesnik",,"USA","63 (RET)","Round of 128",2008,"Finland","United States",,
+"Lleyton Hewitt",24,"AUS","Robin Haase",,"NED","674 63 63 671 62","Round of 128",2008,"Australia","Netherlands",,
+"Jurgen Melzer",,"AUT","Ivan Ljubicic",23,"CRO","64 767 46 26 63","Round of 128",2008,"Austria","Croatia",,
+"Marcos Baghdatis",22,"CYP","Steve Darcis",,"BEL","63 62 675 63","Round of 128",2008,"Cyprus","Belgium",,
+"Juan Carlos Ferrero",21,"ESP","Sam Querrey",,"USA","26 64 64 64","Round of 128",2008,"Spain","United States",,
+"Simon Stadler",,"GER","Ivo Karlovic",20,"CRO","46 764 63 75","Round of 128",2008,"Germany","Croatia","qualifier",
+"Fernando Verdasco",19,"ESP","Philipp Kohlschreiber",,"GER","64 63 62","Round of 128",2008,"Spain","Germany",,
+"Tomas Berdych",18,"CZE","Evgeny Korolev",,"KAZ","46 61 64 36 75","Round of 128",2008,"Czech Republic","Kazakhstan",,
+"Tommy Robredo",17,"ESP","Kristof Vliegen",,"BEL","61 63 674 64","Round of 128",2008,"Spain","Belgium",,
+"Mikhail Youzhny",16,"RUS","Sergio Roitman",,"ARG","61 64 60","Round of 128",2008,"Russia","Argentina",,
+"Paul-Henri Mathieu",15,"FRA","Oscar Hernandez",,"ESP","36 62 60 62","Round of 128",2008,"France","Spain",,
+"Radek Stepanek",14,"CZE","Jan Hernych",,"CZE","63 75 60","Round of 128",2008,"Czech Republic","Czech Republic",,"qualifier"
+"Fernando Gonzalez",13,"CHI","Robby Ginepri",,"USA","763 75 75","Round of 128",2008,"Chile","United States",,
+"Nicolas Almagro",12,"ESP","Marcel Granollers",,"ESP","46 63 75 62","Round of 128",2008,"Spain","Spain",,
+"Andy Murray",11,"GBR","Fabrice Santoro",,"FRA","63 64 765","Round of 128",2008,"Great Britain","France",,
+"Stan Wawrinka",10,"SUI","Marcos Daniel",,"BRA","63 62 75","Round of 128",2008,"Switzerland","Brazil",,
+"Richard Gasquet",9,"FRA","Mardy Fish",,"USA","63 64 62","Round of 128",2008,"France","United States",,
+"James Blake",8,"USA","Christophe Rochus",,"BEL","36 63 61 64","Round of 128",2008,"United States","Belgium",,"qualifier"
+"Frank Dancevic",,"CAN","David Nalbandian",7,"ARG","64 62 64","Round of 128",2008,"Canada","Argentina",,
+"Andy Roddick",6,"USA","Eduardo Schwank",,"ARG","75 64 76","Round of 128",2008,"United States","Argentina",,
+"David Ferrer",5,"ESP","Sergiy Stakhovsky",,"UKR","766 63 13 (RET)","Round of 128",2008,"Spain","Ukraine",,"qualifier"
+"Benjamin Becker",,"GER","Nikolay Davydenko",4,"RUS","64 64 64","Round of 128",2008,"Germany","Russia",,
+"Novak Djokovic",3,"SRB","Michael Berrer",,"GER","75 26 63 60","Round of 128",2008,"Serbia","Germany",,
+"Rafael Nadal",2,"ESP","Andreas Beck",,"GER","64 64 760","Round of 128",2008,"Spain","Germany",,"qualifier"
+"Roger Federer",1,"SUI","Dominik Hrbaty",,"SVK","63 62 62","Round of 128",2008,"Switzerland","Slovakia",,
+"Simon Stadler",,"GER","Thomaz Bellucci",,"BRA","36 63 61 675 86","Round of 64",2008,"Germany","Brazil","qualifier",
+"Bobby Reynolds",,"USA","Frank Dancevic",,"CAN","46 7610 64 64","Round of 64",2008,"United States","Canada",,
+"Jurgen Melzer",,"AUT","Jesse Levine",,"CAN","46 62 36 64 61","Round of 64",2008,"Austria","Canada",,"qualifier"
+"Marc Gicquel",,"FRA","Ilija Bozoljac",,"SRB","46 57 761 76 63","Round of 64",2008,"France","Serbia",,"lucky loser"
+"Arnaud Clement",,"FRA","Benjamin Becker",,"GER","767 763 63","Round of 64",2008,"France","Germany",,
+"Mario Ancic",,"CRO","Philipp Petzschner",,"GER","61 64 671 46 63","Round of 64",2008,"Croatia","Germany",,"qualifier"
+"Feliciano Lopez",32,"ESP","Roko Karanusic",,"CRO","63 63 64","Round of 64",2008,"Spain","Croatia",,
+"Nicolas Kiefer",30,"GER","Martin Vassallo Arguello",,"ARG","60 63 61","Round of 64",2008,"Germany","Argentina",,
+"Dmitry Tursunov",28,"RUS","Chris Eaton",,"GBR","762 62 64","Round of 64",2008,"Russia","Great Britain",,"qualifier"
+"Andreas Seppi",27,"ITA","Florent Serra",,"FRA","63 674 62 675 64","Round of 64",2008,"Italy","France",,
+"Gilles Simon",26,"FRA","Agustin Calleri",,"ARG","57 62 63 64","Round of 64",2008,"France","Argentina",,
+"Marin Cilic",,"CRO","Jarkko Nieminen",25,"FIN","64 36 63 676 75","Round of 64",2008,"Croatia","Finland",,
+"Lleyton Hewitt",24,"AUS","Albert Montanes",,"ESP","764 60 62","Round of 64",2008,"Australia","Spain",,
+"Marcos Baghdatis",22,"CYP","Thomas Johansson",,"SWE","64 64 64","Round of 64",2008,"Cyprus","Sweden",,
+"Mischa Zverev",,"GER","Juan Carlos Ferrero",21,"ESP","64 64 21 (RET)","Round of 64",2008,"Germany","Spain",,
+"Fernando Verdasco",19,"ESP","Olivier Rochus",,"BEL","764 675 61 61","Round of 64",2008,"Spain","Belgium",,
+"Tomas Berdych",18,"CZE","Victor Hanescu",,"ROU","675 766 61 62","Round of 64",2008,"Czech Republic","Romania",,
+"Tommy Haas",,"GER","Tommy Robredo",17,"ESP","64 64 63","Round of 64",2008,"Germany","Spain",,
+"Mikhail Youzhny",16,"RUS","Stefano Galvani",,"ITA","46 64 63 36 63","Round of 64",2008,"Russia","Italy",,"qualifier"
+"Paul-Henri Mathieu",15,"FRA","Jeremy Chardy",,"FRA","63 75 761","Round of 64",2008,"France","France",,"wildcard"
+"Radek Stepanek",14,"CZE","Viktor Troicki",,"SRB","671 673 63 61 62","Round of 64",2008,"Czech Republic","Serbia",,
+"Simone Bolelli",,"ITA","Fernando Gonzalez",13,"CHI","768 767 36 764","Round of 64",2008,"Italy","Chile",,
+"Guillermo Garcia-Lopez",,"ESP","Nicolas Almagro",12,"ESP","63 36 57 61 62","Round of 64",2008,"Spain","Spain",,
+"Andy Murray",11,"GBR","Xavier Malisse",,"BEL","64 62 62","Round of 64",2008,"Great Britain","Belgium",,"wildcard"
+"Stan Wawrinka",10,"SUI","Juan Martin Del Potro",,"ARG","765 63 75","Round of 64",2008,"Switzerland","Argentina",,
+"Richard Gasquet",9,"FRA","Sebastien Grosjean",,"FRA","62 62 (RET)","Round of 64",2008,"France","France",,
+"Rainer Schuettler",,"GER","James Blake",8,"USA","63 678 46 64 64","Round of 64",2008,"Germany","United States",,
+"Janko Tipsarevic",,"SRB","Andy Roddick",6,"USA","675 75 64 764","Round of 64",2008,"Serbia","United States",,
+"David Ferrer",5,"ESP","Igor Andreev",,"RUS","36 63 64 62","Round of 64",2008,"Spain","Russia",,
+"Marat Safin",,"RUS","Novak Djokovic",3,"SRB","64 763 62","Round of 64",2008,"Russia","Serbia",,
+"Rafael Nadal",2,"ESP","Ernests Gulbis",,"LAT","57 62 762 63","Round of 64",2008,"Spain","Latvia",,
+"Roger Federer",1,"SUI","Robin Soderling",,"SWE","63 64 763","Round of 64",2008,"Switzerland","Sweden",,
+"Rainer Schuettler",,"GER","Guillermo Garcia-Lopez",,"ESP","62 63 64","Round of 32",2008,"Germany","Spain",,
+"Arnaud Clement",,"FRA","Jurgen Melzer",,"AUT","46 63 64 64","Round of 32",2008,"France","Austria",,
+"Feliciano Lopez",32,"ESP","Bobby Reynolds",,"USA","64 75 46 64","Round of 32",2008,"Spain","United States",,
+"Janko Tipsarevic",,"SRB","Dmitry Tursunov",28,"RUS","761 763 63","Round of 32",2008,"Serbia","Russia",,
+"Marat Safin",,"RUS","Andreas Seppi",27,"ITA","765 36 763 64","Round of 32",2008,"Russia","Italy",,
+"Lleyton Hewitt",24,"AUS","Simone Bolelli",,"ITA","61 63 762","Round of 32",2008,"Australia","Italy",,
+"Marcos Baghdatis",22,"CYP","Simon Stadler",,"GER","762 64 62","Round of 32",2008,"Cyprus","Germany",,"qualifier"
+"Fernando Verdasco",19,"ESP","Tomas Berdych",18,"CZE","64 64 60","Round of 32",2008,"Spain","Czech Republic",,
+"Marin Cilic",,"CRO","Paul-Henri Mathieu",15,"FRA","675 63 64 767","Round of 32",2008,"Croatia","France",,
+"Mikhail Youzhny",16,"RUS","Radek Stepanek",14,"CZE","75 675 64 674 63","Round of 32",2008,"Russia","Czech Republic",,
+"Andy Murray",11,"GBR","Tommy Haas",,"GER","64 674 63 62","Round of 32",2008,"Great Britain","Germany",,
+"Stan Wawrinka",10,"SUI","Mischa Zverev",,"GER","75 61 (RET)","Round of 32",2008,"Switzerland","Germany",,
+"Richard Gasquet",9,"FRA","Gilles Simon",26,"FRA","63 63 673 63","Round of 32",2008,"France","France",,
+"Mario Ancic",,"CRO","David Ferrer",5,"ESP","64 64 675 763","Round of 32",2008,"Croatia","Spain",,
+"Rafael Nadal",2,"ESP","Nicolas Kiefer",30,"GER","763 62 63","Round of 32",2008,"Spain","Germany",,
+"Roger Federer",1,"SUI","Marc Gicquel",,"FRA","63 63 61","Round of 32",2008,"Switzerland","France",,
+"Rainer Schuettler",,"GER","Janko Tipsarevic",,"SRB","64 36 64 764","Round of 16",2008,"Germany","Serbia",,
+"Arnaud Clement",,"FRA","Marin Cilic",,"CRO","63 75 62","Round of 16",2008,"France","Croatia",,
+"Feliciano Lopez",32,"ESP","Marcos Baghdatis",22,"CYP","57 62 36 764 86","Round of 16",2008,"Spain","Cyprus",,
+"Mario Ancic",,"CRO","Fernando Verdasco",19,"ESP","36 46 63 64 1311","Round of 16",2008,"Croatia","Spain",,
+"Marat Safin",,"RUS","Stan Wawrinka",10,"SUI","64 63 57 61","Round of 16",2008,"Russia","Switzerland",,
+"Andy Murray",11,"GBR","Richard Gasquet",9,"FRA","57 36 763 62 64","Round of 16",2008,"Great Britain","France",,
+"Rafael Nadal",2,"ESP","Mikhail Youzhny",16,"RUS","63 63 61","Round of 16",2008,"Spain","Russia",,
+"Roger Federer",1,"SUI","Lleyton Hewitt",24,"AUS","767 62 64","Round of 16",2008,"Switzerland","Australia",,
+"Rainer Schuettler",,"GER","Arnaud Clement",,"FRA","63 57 766 677 86","Quarter-Finals",2008,"Germany","France",,
+"Marat Safin",,"RUS","Feliciano Lopez",32,"ESP","36 75 761 63","Quarter-Finals",2008,"Russia","Spain",,
+"Rafael Nadal",2,"ESP","Andy Murray",11,"GBR","63 62 64","Quarter-Finals",2008,"Spain","Great Britain",,
+"Roger Federer",1,"SUI","Mario Ancic",,"CRO","61 75 64","Quarter-Finals",2008,"Switzerland","Croatia",,
+"Rafael Nadal",2,"ESP","Rainer Schuettler",,"GER","61 763 64","Semi-Finals",2008,"Spain","Germany",,
+"Roger Federer",1,"SUI","Marat Safin",,"RUS","63 763 64","Semi-Finals",2008,"Switzerland","Russia",,
+"Rafael Nadal",2,"ESP","Roger Federer",1,"SUI","64 64 675 678 97","Finals",2008,"Spain","Switzerland",,
+"Tomas Zib",,"CZE","Diego Hartfield",,"ARG","46 764 36 63 64","Round of 128",2007,"Czech Republic","Argentina","qualifier",
+"Jimmy Wang",,"TPE","Igor Kunitsyn",,"RUS","63 64 675 678 62","Round of 128",2007,"Chinese Taipei","Russia","qualifier",
+"Fernando Verdasco",,"ESP","Bobby Reynolds",,"USA","64 64 63","Round of 128",2007,"Spain","United States",,"qualifier"
+"Danai Udomchoke",,"THA","Carlos Berlocq",,"ARG","64 75 63","Round of 128",2007,"Thailand","Argentina",,
+"Jo-Wilfried Tsonga",,"FRA","Julien Benneteau",,"FRA","764 75 64","Round of 128",2007,"France","France","wildcard",
+"Janko Tipsarevic",,"SRB","Alexander Peya",,"AUT","46 36 63 64 63","Round of 128",2007,"Serbia","Austria",,
+"Gilles Simon",,"FRA","Marin Cilic",,"CRO","36 75 64 46 63","Round of 128",2007,"France","Croatia",,"wildcard"
+"Fabrice Santoro",,"FRA","Ivo Karlovic",,"CRO","46 764 763 36 64","Round of 128",2007,"France","Croatia",,
+"Edouard Roger-Vasselin",,"FRA","Jamie Baker",,"GBR","762 62 63","Round of 128",2007,"France","Great Britain","qualifier","wildcard"
+"Aisam-Ul-Haq Qureshi",,"PAK","Lee Childs",,"GBR","63 64 766","Round of 128",2007,"Pakistan","Great Britain","qualifier","qualifier"
+"Andrei Pavel",,"ROU","Juan-Pablo Guzman",,"ARG","64 64 61","Round of 128",2007,"Romania","Argentina",,
+"Gilles Muller",,"LUX","Oscar Hernandez",,"ESP","62 676 43 (RET)","Round of 128",2007,"Luxembourg","Spain","qualifier",
+"Gael Monfils",,"FRA","Thomas Johansson",,"SWE","64 765 62","Round of 128",2007,"France","Sweden",,
+"Max Mirnyi",,"BLR","Yen-Hsun Lu",,"TPE","63 64 21 (RET)","Round of 128",2007,"Belarus","Chinese Taipei",,
+"Florian Mayer",,"GER","Sam Warburg",,"USA","64 62 62","Round of 128",2007,"Germany","United States",,"qualifier"
+"Paul-Henri Mathieu",,"FRA","Radek Stepanek",,"CZE","764 62 62","Round of 128",2007,"France","Czech Republic",,
+"Nicolas Mahut",,"FRA","Arnaud Clement",,"FRA","63 36 765 64","Round of 128",2007,"France","France","qualifier",
+"Feliciano Lopez",,"ESP","Josh Goodall",,"GBR","61 64 64","Round of 128",2007,"Spain","Great Britain",,"wildcard"
+"Michael Llodra",,"FRA","Stan Wawrinka",,"SUI","64 64 61","Round of 128",2007,"France","Switzerland",,
+"Hyung-Taik Lee",,"KOR","Martin Vassallo Arguello",,"ARG","64 62 63","Round of 128",2007,"South Korea","Argentina",,
+"Nicolas Lapentti",,"ECU","Kevin Kim",,"USA","26 62 46 63 64","Round of 128",2007,"Ecuador","United States",,"lucky loser"
+"Jan Hernych",,"CZE","Marc Gicquel",,"FRA","06 64 64 64","Round of 128",2007,"Czech Republic","France",,
+"Chris Guccione",,"AUS","Alex Bogdanovic",,"GBR","762 64 64","Round of 128",2007,"Australia","Great Britain",,"wildcard"
+"Sebastien Grosjean",,"FRA","Jonathan Marray",,"GBR","62 760 75","Round of 128",2007,"France","Great Britain",,"wildcard"
+"Alejandro Falla",,"COL","Sam Querrey",,"USA","765 61 64","Round of 128",2007,"Colombia","United States","qualifier",
+"Werner Eschauer",,"AUT","Ruben Ramirez Hidalgo",,"ESP","62 36 64 63","Round of 128",2007,"Austria","Spain",,
+"Nicolas Devilder",,"FRA","Mariano Zabaleta",,"ARG","673 64 75 64","Round of 128",2007,"France","Argentina",,
+"Amer Delic",,"BIH","Lukas Dlouhy",,"CZE","63 64 57 64","Round of 128",2007,"Bosnia and Herzegovina","Czech Republic",,
+"Juan Martin Del Potro",,"ARG","Davide Sanguinetti",,"ITA","36 63 64 64","Round of 128",2007,"Argentina","Italy",,
+"Frank Dancevic",,"CAN","Stefan Koubek",,"AUT","62 64 62","Round of 128",2007,"Canada","Austria","lucky loser",
+"Simone Bolelli",,"ITA","Guillermo Garcia-Lopez",,"ESP","46 765 64 64","Round of 128",2007,"Italy","Spain",,
+"Michael Berrer",,"GER","Albert Montanes",,"ESP","63 63 62","Round of 128",2007,"Germany","Spain",,
+"Wayne Arthurs",,"AUS","Thiemo de Bakker",,"NED","677 677 764 64 64","Round of 128",2007,"Australia","Netherlands","qualifier","wildcard"
+"Kristof Vliegen",,"BEL","Juan Monaco",32,"ARG","64 63 763","Round of 128",2007,"Belgium","Argentina",,
+"Andreas Seppi",,"ITA","Dominik Hrbaty",31,"SVK","768 61 62","Round of 128",2007,"Italy","Slovakia",,
+"Nicolas Kiefer",,"GER","Filippo Volandri",30,"ITA","63 766 61","Round of 128",2007,"Germany","Italy",,
+"Agustin Calleri",29,"ARG","Luis Horna",,"PER","62 764 75","Round of 128",2007,"Argentina","Peru",,
+"Robin Soderling",28,"SWE","Olivier Rochus",,"BEL","63 62 62","Round of 128",2007,"Sweden","Belgium",,
+"Florent Serra",,"FRA","Philipp Kohlschreiber",27,"GER","764 64 64","Round of 128",2007,"France","Germany",,
+"Marat Safin",26,"RUS","Rik De Voest",,"RSA","765 64 75","Round of 128",2007,"Russia","South Africa",,"qualifier"
+"Tim Henman",,"GBR","Carlos Moya",25,"ESP","63 16 57 62 1311","Round of 128",2007,"Great Britain","Spain",,
+"Juan Ignacio Chela",24,"ARG","Benjamin Becker",,"GER","36 46 64 64 108","Round of 128",2007,"Argentina","Germany",,
+"David Nalbandian",23,"ARG","Mischa Zverev",,"GER","63 64 62","Round of 128",2007,"Argentina","Germany",,"qualifier"
+"Guillermo Canas",22,"ARG","Ivan Navarro",,"ESP","763 63 61","Round of 128",2007,"Argentina","Spain",,
+"Dmitry Tursunov",21,"RUS","Nicolas Almagro",,"ESP","762 64 677 63","Round of 128",2007,"Russia","Spain",,
+"Juan Carlos Ferrero",20,"ESP","Jan Hajek",,"CZE","675 46 63 62 75","Round of 128",2007,"Spain","Czech Republic",,
+"Jonas Bjorkman",19,"SWE","Fernando Vicente",,"ESP","63 61 62","Round of 128",2007,"Sweden","Spain",,"qualifier"
+"Jarkko Nieminen",18,"FIN","Michael Russell",,"USA","63 62 75","Round of 128",2007,"Finland","United States",,
+"David Ferrer",17,"ESP","Sergio Roitman",,"ARG","63 63 61","Round of 128",2007,"Spain","Argentina",,
+"Lleyton Hewitt",16,"AUS","Richard Bloomfield",,"GBR","75 63 75","Round of 128",2007,"Australia","Great Britain",,"wildcard"
+"Ivan Ljubicic",15,"CRO","Vincent Spadea",,"USA","64 64 46 764","Round of 128",2007,"Croatia","United States",,
+"Mikhail Youzhny",14,"RUS","Kristian Pless",,"DEN","64 62 64","Round of 128",2007,"Russia","Denmark",,
+"Tommy Haas",13,"GER","Zack Fleishman",,"USA","63 64 62","Round of 128",2007,"Germany","United States",,"qualifier"
+"Richard Gasquet",12,"FRA","Bohdan Ulihrach",,"CZE","63 64 64","Round of 128",2007,"France","Czech Republic",,"qualifier"
+"Tommy Robredo",11,"ESP","Robert Kendrick",,"USA","62 36 63 675 63","Round of 128",2007,"Spain","United States",,
+"Marcos Baghdatis",10,"CYP","Ernests Gulbis",,"LAT","36 64 63 62","Round of 128",2007,"Cyprus","Latvia",,
+"James Blake",9,"USA","Igor Andreev",,"RUS","63 64 64","Round of 128",2007,"United States","Russia",,
+"Tomas Berdych",7,"CZE","Nicolas Massu",,"CHI","765 64 62","Round of 128",2007,"Czech Republic","Chile",,
+"Nikolay Davydenko",6,"RUS","Evgeny Korolev",,"KAZ","7612 64 765","Round of 128",2007,"Russia","Kazakhstan",,
+"Fernando Gonzalez",5,"CHI","Robby Ginepri",,"USA","36 764 62 62","Round of 128",2007,"Chile","United States",,
+"Novak Djokovic",4,"SRB","Potito Starace",,"ITA","60 63 64","Round of 128",2007,"Serbia","Italy",,
+"Andy Roddick",3,"USA","Justin Gimelstob",,"USA","61 75 763","Round of 128",2007,"United States","United States",,
+"Rafael Nadal",2,"ESP","Mardy Fish",,"USA","63 764 63","Round of 128",2007,"Spain","United States",,
+"Roger Federer",1,"SUI","Teymuraz Gabashvili",,"RUS","63 62 64","Round of 128",2007,"Switzerland","Russia",,
+"Fernando Verdasco",,"ESP","Andreas Seppi",,"ITA","63 62 64","Round of 64",2007,"Spain","Italy",,
+"Jo-Wilfried Tsonga",,"FRA","Nicolas Lapentti",,"ECU","64 62 63","Round of 64",2007,"France","Ecuador","wildcard",
+"Janko Tipsarevic",,"SRB","Florent Serra",,"FRA","63 62 673 36 62","Round of 64",2007,"Serbia","France",,
+"Gael Monfils",,"FRA","Kristof Vliegen",,"BEL","75 764 761","Round of 64",2007,"France","Belgium",,
+"Feliciano Lopez",,"ESP","Tim Henman",,"GBR","763 765 36 26 61","Round of 64",2007,"Spain","Great Britain",,
+"Nicolas Kiefer",,"GER","Fabrice Santoro",,"FRA","64 63 64","Round of 64",2007,"Germany","France",,
+"Hyung-Taik Lee",,"KOR","Agustin Calleri",29,"ARG","766 64 673 63","Round of 64",2007,"South Korea","Argentina",,
+"Robin Soderling",28,"SWE","Sebastien Grosjean",,"FRA","63 36 63 62","Round of 64",2007,"Sweden","France",,
+"Marat Safin",26,"RUS","Aisam-Ul-Haq Qureshi",,"PAK","64 62 764","Round of 64",2007,"Russia","Pakistan",,"qualifier"
+"Edouard Roger-Vasselin",,"FRA","Juan Ignacio Chela",24,"ARG","763 64 75","Round of 64",2007,"France","Argentina","qualifier",
+"David Nalbandian",23,"ARG","Frank Dancevic",,"CAN","62 63 57 63","Round of 64",2007,"Argentina","Canada",,"lucky loser"
+"Guillermo Canas",22,"ARG","Max Mirnyi",,"BLR","674 61 764 764","Round of 64",2007,"Argentina","Belarus",,
+"Dmitry Tursunov",21,"RUS","Michael Berrer",,"GER","46 64 64 64","Round of 64",2007,"Russia","Germany",,
+"Juan Carlos Ferrero",20,"ESP","Gilles Muller",,"LUX","64 64 672 768","Round of 64",2007,"Spain","Luxembourg",,"qualifier"
+"Jonas Bjorkman",19,"SWE","Jimmy Wang",,"TPE","60 63 678 64","Round of 64",2007,"Sweden","Chinese Taipei",,"qualifier"
+"Jarkko Nieminen",18,"FIN","Florian Mayer",,"GER","36 63 762 26 63","Round of 64",2007,"Finland","Germany",,
+"Paul-Henri Mathieu",,"FRA","David Ferrer",17,"ESP","63 64 63","Round of 64",2007,"France","Spain",,
+"Lleyton Hewitt",16,"AUS","Simone Bolelli",,"ITA","62 62 61","Round of 64",2007,"Australia","Italy",,
+"Ivan Ljubicic",15,"CRO","Jan Hernych",,"CZE","64 63 64","Round of 64",2007,"Croatia","Czech Republic",,
+"Mikhail Youzhny",14,"RUS","Gilles Simon",,"FRA","64 46 36 75 64","Round of 64",2007,"Russia","France",,
+"Tommy Haas",13,"GER","Tomas Zib",,"CZE","63 765 64","Round of 64",2007,"Germany","Czech Republic",,"qualifier"
+"Richard Gasquet",12,"FRA","Nicolas Mahut",,"FRA","64 63 64","Round of 64",2007,"France","France",,"qualifier"
+"Wayne Arthurs",,"AUS","Tommy Robredo",11,"ESP","63 765 63","Round of 64",2007,"Australia","Spain","qualifier",
+"Marcos Baghdatis",10,"CYP","Nicolas Devilder",,"FRA","60 765 674 62","Round of 64",2007,"Cyprus","France",,
+"James Blake",9,"USA","Andrei Pavel",,"ROU","64 63 63","Round of 64",2007,"United States","Romania",,
+"Tomas Berdych",7,"CZE","Michael Llodra",,"FRA","764 762 36 764","Round of 64",2007,"Czech Republic","France",,
+"Nikolay Davydenko",6,"RUS","Chris Guccione",,"AUS","36 57 765 64 62","Round of 64",2007,"Russia","Australia",,
+"Fernando Gonzalez",5,"CHI","Alejandro Falla",,"COL","46 63 64 761","Round of 64",2007,"Chile","Colombia",,"qualifier"
+"Novak Djokovic",4,"SRB","Amer Delic",,"BIH","63 36 63 764","Round of 64",2007,"Serbia","Bosnia and Herzegovina",,
+"Andy Roddick",3,"USA","Danai Udomchoke",,"THA","63 64 763","Round of 64",2007,"United States","Thailand",,
+"Rafael Nadal",2,"ESP","Werner Eschauer",,"AUT","62 64 61","Round of 64",2007,"Spain","Austria",,
+"Roger Federer",1,"SUI","Juan Martin Del Potro",,"ARG","62 75 61","Round of 64",2007,"Switzerland","Argentina",,
+"Jo-Wilfried Tsonga",,"FRA","Feliciano Lopez",,"ESP","63 764 63","Round of 32",2007,"France","Spain","wildcard",
+"Jonas Bjorkman",19,"SWE","Wayne Arthurs",,"AUS","62 61 64","Round of 32",2007,"Sweden","Australia",,"qualifier"
+"Lleyton Hewitt",16,"AUS","Guillermo Canas",22,"ARG","64 36 63 64","Round of 32",2007,"Australia","Argentina",,
+"Paul-Henri Mathieu",,"FRA","Ivan Ljubicic",15,"CRO","46 75 62 63","Round of 32",2007,"France","Croatia",,
+"Mikhail Youzhny",14,"RUS","Jarkko Nieminen",18,"FIN","75 765 63","Round of 32",2007,"Russia","Finland",,
+"Tommy Haas",13,"GER","Dmitry Tursunov",21,"RUS","16 64 765 64","Round of 32",2007,"Germany","Russia",,
+"Richard Gasquet",12,"FRA","Edouard Roger-Vasselin",,"FRA","63 64 62","Round of 32",2007,"France","France",,"qualifier"
+"Marcos Baghdatis",10,"CYP","David Nalbandian",23,"ARG","62 75 60","Round of 32",2007,"Cyprus","Argentina",,
+"Juan Carlos Ferrero",20,"ESP","James Blake",9,"USA","36 63 63 764","Round of 32",2007,"Spain","United States",,
+"Tomas Berdych",7,"CZE","Hyung-Taik Lee",,"KOR","64 762 763","Round of 32",2007,"Czech Republic","South Korea",,
+"Nikolay Davydenko",6,"RUS","Gael Monfils",,"FRA","63 75 63","Round of 32",2007,"Russia","France",,
+"Janko Tipsarevic",,"SRB","Fernando Gonzalez",5,"CHI","63 36 63 46 86","Round of 32",2007,"Serbia","Chile",,
+"Novak Djokovic",4,"SRB","Nicolas Kiefer",,"GER","764 676 62 765","Round of 32",2007,"Serbia","Germany",,
+"Andy Roddick",3,"USA","Fernando Verdasco",,"ESP","63 64 762","Round of 32",2007,"United States","Spain",,
+"Rafael Nadal",2,"ESP","Robin Soderling",28,"SWE","64 64 677 46 75","Round of 32",2007,"Spain","Sweden",,
+"Roger Federer",1,"SUI","Marat Safin",26,"RUS","61 64 764","Round of 32",2007,"Switzerland","Russia",,
+"Juan Carlos Ferrero",20,"ESP","Janko Tipsarevic",,"SRB","75 63 765","Round of 16",2007,"Spain","Serbia",,
+"Richard Gasquet",12,"FRA","Jo-Wilfried Tsonga",,"FRA","64 63 64","Round of 16",2007,"France","France",,"wildcard"
+"Tomas Berdych",7,"CZE","Jonas Bjorkman",19,"SWE","64 60 676 60","Round of 16",2007,"Czech Republic","Sweden",,
+"Marcos Baghdatis",10,"CYP","Nikolay Davydenko",6,"RUS","765 765 63","Round of 16",2007,"Cyprus","Russia",,
+"Novak Djokovic",4,"SRB","Lleyton Hewitt",16,"AUS","768 762 46 765","Round of 16",2007,"Serbia","Australia",,
+"Andy Roddick",3,"USA","Paul-Henri Mathieu",,"FRA","62 75 766","Round of 16",2007,"United States","France",,
+"Rafael Nadal",2,"ESP","Mikhail Youzhny",14,"RUS","46 36 61 62 62","Round of 16",2007,"Spain","Russia",,
+"Roger Federer",1,"SUI","Tommy Haas",13,"GER","(W/O)","Round of 16",2007,"Switzerland","Germany",,
+"Novak Djokovic",4,"SRB","Marcos Baghdatis",10,"CYP","764 769 673 46 75","Quarter-Finals",2007,"Serbia","Cyprus",,
+"Richard Gasquet",12,"FRA","Andy Roddick",3,"USA","46 46 762 763 86","Quarter-Finals",2007,"France","United States",,
+"Rafael Nadal",2,"ESP","Tomas Berdych",7,"CZE","761 64 62","Quarter-Finals",2007,"Spain","Czech Republic",,
+"Roger Federer",1,"SUI","Juan Carlos Ferrero",20,"ESP","762 36 61 63","Quarter-Finals",2007,"Switzerland","Spain",,
+"Rafael Nadal",2,"ESP","Novak Djokovic",4,"SRB","36 61 41 (RET)","Semi-Finals",2007,"Spain","Serbia",,
+"Roger Federer",1,"SUI","Richard Gasquet",12,"FRA","75 63 64","Semi-Finals",2007,"Switzerland","France",,
+"Roger Federer",1,"SUI","Rafael Nadal",2,"ESP","767 46 763 26 62","Finals",2007,"Switzerland","Spain",,
+"Tomas Zib",,"CZE","Albert Montanes",,"ESP","63 64 767","Round of 128",2006,"Czech Republic","Spain",,
+"Mikhail Youzhny",,"RUS","Potito Starace",,"ITA","60 64 61","Round of 128",2006,"Russia","Italy",,
+"Stan Wawrinka",,"SUI","Ivo Karlovic",,"CRO","765 36 62 678 119","Round of 128",2006,"Switzerland","Croatia",,
+"Jimmy Wang",,"TPE","Oliver Marach",,"AUT","61 762 60","Round of 128",2006,"Chinese Taipei","Austria",,
+"Melle Van Gemerden",,"NED","Josh Goodall",,"GBR","64 75 75","Round of 128",2006,"Netherlands","Great Britain",,"qualifier"
+"Andreas Seppi",,"ITA","Jamie Baker",,"GBR","63 673 64 63","Round of 128",2006,"Italy","Great Britain",,"wildcard"
+"Fabrice Santoro",,"FRA","Wayne Arthurs",,"AUS","763 63 36 61","Round of 128",2006,"France","Australia",,"qualifier"
+"Davide Sanguinetti",,"ITA","Kevin Kim",,"USA","63 7610 61","Round of 128",2006,"Italy","United States",,"qualifier"
+"Marat Safin",,"RUS","Greg Rusedski",,"GBR","64 64 64","Round of 128",2006,"Russia","Great Britain",,
+"Andrei Pavel",,"ROU","Marcel Granollers",,"ESP","764 64 64","Round of 128",2006,"Romania","Spain","wildcard","qualifier"
+"Max Mirnyi",,"BLR","Ruben Ramirez Hidalgo",,"ESP","675 64 63 63","Round of 128",2006,"Belarus","Spain",,
+"Florian Mayer",,"GER","Robin Vik",,"CZE","63 63 63","Round of 128",2006,"Germany","Czech Republic",,
+"Alberto Martin",,"ESP","Alessio Di Mauro",,"ITA","63 64 61","Round of 128",2006,"Spain","Italy",,
+"Xavier Malisse",,"BEL","Benedikt Dorsch",,"GER","62 75 62","Round of 128",2006,"Belgium","Germany",,"qualifier"
+"Nicolas Mahut",,"FRA","Jurgen Melzer",,"AUT","673 75 61 64","Round of 128",2006,"France","Austria",,
+"Martin Lee",,"GBR","Dick Norman",,"BEL","62 762 764","Round of 128",2006,"Great Britain","Belgium","wildcard",
+"Hyung-Taik Lee",,"KOR","Flavio Saretta",,"BRA","7610 63 75","Round of 128",2006,"South Korea","Brazil",,
+"Irakli Labadze",,"GEO","Alexander Peya",,"AUT","64 46 57 63 61","Round of 128",2006,"Georgia","Austria","qualifier","qualifier"
+"Philipp Kohlschreiber",,"GER","Razvan Sabau",,"ROU","63 62 64","Round of 128",2006,"Germany","Romania",,
+"Robert Kendrick",,"USA","Yen-Hsun Lu",,"TPE","765 63 60","Round of 128",2006,"United States","Chinese Taipei","qualifier",
+"Roko Karanusic",,"CRO","Rainer Schuettler",,"GER","767 46 62 61","Round of 128",2006,"Croatia","Germany","qualifier",
+"Tim Henman",,"GBR","Robin Soderling",,"SWE","678 63 62 16 63","Round of 128",2006,"Great Britain","Sweden",,
+"Justin Gimelstob",,"USA","Christophe Rochus",,"BEL","63 64 64","Round of 128",2006,"United States","Belgium",,
+"Guillermo Garcia-Lopez",,"ESP","Ivo Minar",,"CZE","761 46 763 62","Round of 128",2006,"Spain","Czech Republic",,
+"Stefano Galvani",,"ITA","Alexander Waske",,"GER","46 762 64 36 1614","Round of 128",2006,"Italy","Germany","qualifier",
+"Lukas Dlouhy",,"CZE","Florent Serra",,"FRA","46 63 64 75","Round of 128",2006,"Czech Republic","France",,
+"Novak Djokovic",,"SRB","Paul Goldstein",,"USA","63 62 763","Round of 128",2006,"Serbia","United States",,
+"Jamie Delgado",,"GBR","Michael Berrer",,"GER","64 62 36 36 63","Round of 128",2006,"Great Britain","Germany","wildcard","qualifier"
+"Arnaud Clement",,"FRA","Albert Portas",,"ESP","63 62 64","Round of 128",2006,"France","Spain",,
+"Richard Bloomfield",,"GBR","Carlos Berlocq",,"ARG","61 62 62","Round of 128",2006,"Great Britain","Argentina","wildcard",
+"Julien Benneteau",,"FRA","Bjorn Phau",,"GER","57 64 62 766","Round of 128",2006,"France","Germany",,
+"Benjamin Becker",,"GER","Juan Ignacio Chela",,"ARG","63 36 63 64","Round of 128",2006,"Germany","Argentina","qualifier",
+"Mark Philippoussis",,"AUS","Paul-Henri Mathieu",32,"FRA","57 765 63 7612","Round of 128",2006,"Australia","France","wildcard",
+"Andy Murray",,"GBR","Nicolas Massu",31,"CHI","61 64 64","Round of 128",2006,"Great Britain","Chile",,
+"Kristof Vliegen",30,"BEL","Jiri Novak",,"CZE","64 75 62","Round of 128",2006,"Belgium","Czech Republic",,
+"Agustin Calleri",,"ARG","Paradorn Srichaphan",29,"THA","673 75 63 36 63","Round of 128",2006,"Argentina","Thailand",,
+"Fernando Verdasco",28,"ESP","Vincent Spadea",,"USA","36 64 761 63","Round of 128",2006,"Spain","United States",,
+"Dmitry Tursunov",27,"RUS","Danai Udomchoke",,"THA","61 64 62","Round of 128",2006,"Russia","Thailand",,
+"Olivier Rochus",26,"BEL","Gilles Muller",,"LUX","64 75 63","Round of 128",2006,"Belgium","Luxembourg",,
+"Andre Agassi",25,"USA","Boris Pashanski",,"SRB","26 62 64 63","Round of 128",2006,"United States","Serbia",,
+"Juan Carlos Ferrero",24,"ESP","Fernando Vicente",,"ESP","61 63 62","Round of 128",2006,"Spain","Spain",,
+"David Ferrer",23,"ESP","Simon Stadler",,"GER","61 64 64","Round of 128",2006,"Spain","Germany",,"qualifier"
+"Jarkko Nieminen",22,"FIN","Marcos Daniel",,"BRA","62 64 75","Round of 128",2006,"Finland","Brazil",,
+"Igor Kunitsyn",,"RUS","Gael Monfils",21,"FRA","57 767 63 64","Round of 128",2006,"Russia","France",,
+"Daniele Bracciali",,"ITA","Dominik Hrbaty",20,"SVK","62 64 64","Round of 128",2006,"Italy","Slovakia",,
+"Tommy Haas",19,"GER","Jiri Vanek",,"CZE","762 75 64","Round of 128",2006,"Germany","Czech Republic",,
+"Marcos Baghdatis",18,"CYP","Alan Mackin",,"GBR","64 674 674 75 62","Round of 128",2006,"Cyprus","Great Britain",,"wildcard"
+"Mardy Fish",,"USA","Robby Ginepri",17,"USA","63 62 64","Round of 128",2006,"United States","United States",,
+"Gaston Gaudio",16,"ARG","Jean-Christophe Faurel",,"FRA","75 36 62 64","Round of 128",2006,"Argentina","France",,"lucky loser"
+"Sebastien Grosjean",15,"FRA","Gilles Simon",,"FRA","64 62 64","Round of 128",2006,"France","France",,
+"Radek Stepanek",14,"CZE","Frank Dancevic",,"CAN","764 63 64","Round of 128",2006,"Czech Republic","Canada",,"qualifier"
+"Tomas Berdych",13,"CZE","Jan Hernych",,"CZE","63 64 75","Round of 128",2006,"Czech Republic","Czech Republic",,
+"Jonas Bjorkman",,"SWE","Thomas Johansson",12,"SWE","36 764 61 61","Round of 128",2006,"Sweden","Sweden",,
+"Tommy Robredo",11,"ESP","Simon Greul",,"GER","62 62 57 763","Round of 128",2006,"Spain","Germany",,
+"Fernando Gonzalez",10,"CHI","Luis Horna",,"PER","763 75 62","Round of 128",2006,"Chile","Peru",,
+"Alejandro Falla",,"COL","Nikolay Davydenko",9,"RUS","26 764 768 63","Round of 128",2006,"Colombia","Russia","qualifier",
+"James Blake",8,"USA","Kristian Pless",,"DEN","63 75 57 64","Round of 128",2006,"United States","Denmark",,"qualifier"
+"Mario Ancic",7,"CRO","Nicolas Almagro",,"ESP","762 75 764","Round of 128",2006,"Croatia","Spain",,
+"Lleyton Hewitt",6,"AUS","Filippo Volandri",,"ITA","61 61 63","Round of 128",2006,"Australia","Italy",,
+"Ivan Ljubicic",5,"CRO","Feliciano Lopez",,"ESP","63 64 57 36 119","Round of 128",2006,"Croatia","Spain",,
+"David Nalbandian",4,"ARG","Wesley Moodie",,"RSA","63 64 61","Round of 128",2006,"Argentina","South Africa",,
+"Andy Roddick",3,"USA","Janko Tipsarevic",,"SRB","675 64 766 62","Round of 128",2006,"United States","Serbia",,
+"Rafael Nadal",2,"ESP","Alex Bogdanovic",,"GBR","64 763 64","Round of 128",2006,"Spain","Great Britain",,"wildcard"
+"Roger Federer",1,"SUI","Richard Gasquet",,"FRA","63 62 62","Round of 128",2006,"Switzerland","France",,
+"Mikhail Youzhny",,"RUS","Igor Kunitsyn",,"RUS","63 61 30 (RET)","Round of 64",2006,"Russia","Russia",,
+"Stan Wawrinka",,"SUI","Agustin Calleri",,"ARG","765 75 63","Round of 64",2006,"Switzerland","Argentina",,
+"Andy Murray",,"GBR","Julien Benneteau",,"FRA","765 64 46 61","Round of 64",2006,"Great Britain","France",,
+"Max Mirnyi",,"BLR","Mark Philippoussis",,"AUS","766 64 675 63","Round of 64",2006,"Belarus","Australia",,"wildcard"
+"Philipp Kohlschreiber",,"GER","Alejandro Falla",,"COL","64 64 36 761","Round of 64",2006,"Germany","Colombia",,"qualifier"
+"Mardy Fish",,"USA","Melle Van Gemerden",,"NED","62 60 61","Round of 64",2006,"United States","Netherlands",,
+"Daniele Bracciali",,"ITA","Stefano Galvani",,"ITA","63 673 63 64","Round of 64",2006,"Italy","Italy",,"qualifier"
+"Jonas Bjorkman",,"SWE","Lukas Dlouhy",,"CZE","63 64 46 16 64","Round of 64",2006,"Sweden","Czech Republic",,
+"Nicolas Mahut",,"FRA","Kristof Vliegen",30,"BEL","64 64 63","Round of 64",2006,"France","Belgium",,
+"Fernando Verdasco",28,"ESP","Benjamin Becker",,"GER","64 677 46 63 97","Round of 64",2006,"Spain","Germany",,"qualifier"
+"Dmitry Tursunov",27,"RUS","Alberto Martin",,"ESP","61 75 64","Round of 64",2006,"Russia","Spain",,
+"Olivier Rochus",26,"BEL","Tomas Zib",,"CZE","61 61 60","Round of 64",2006,"Belgium","Czech Republic",,
+"Andre Agassi",25,"USA","Andreas Seppi",,"ITA","64 762 64","Round of 64",2006,"United States","Italy",,
+"Juan Carlos Ferrero",24,"ESP","Roko Karanusic",,"CRO","63 764 63","Round of 64",2006,"Spain","Croatia",,"qualifier"
+"David Ferrer",23,"ESP","Guillermo Garcia-Lopez",,"ESP","762 75 63","Round of 64",2006,"Spain","Spain",,
+"Jarkko Nieminen",22,"FIN","Martin Lee",,"GBR","64 60 63","Round of 64",2006,"Finland","Great Britain",,"wildcard"
+"Tommy Haas",19,"GER","Richard Bloomfield",,"GBR","63 64 764","Round of 64",2006,"Germany","Great Britain",,"wildcard"
+"Marcos Baghdatis",18,"CYP","Andrei Pavel",,"ROU","30 (RET)","Round of 64",2006,"Cyprus","Romania",,"wildcard"
+"Irakli Labadze",,"GEO","Gaston Gaudio",16,"ARG","64 62 63","Round of 64",2006,"Georgia","Argentina","qualifier",
+"Sebastien Grosjean",15,"FRA","Jamie Delgado",,"GBR","63 36 62 63","Round of 64",2006,"France","Great Britain",,"wildcard"
+"Radek Stepanek",14,"CZE","Xavier Malisse",,"BEL","63 674 75 61","Round of 64",2006,"Czech Republic","Belgium",,
+"Tomas Berdych",13,"CZE","Fabrice Santoro",,"FRA","64 676 26 765 64","Round of 64",2006,"Czech Republic","France",,
+"Novak Djokovic",,"SRB","Tommy Robredo",11,"ESP","765 62 64","Round of 64",2006,"Serbia","Spain",,
+"Fernando Gonzalez",10,"CHI","Marat Safin",,"RUS","46 674 64 64 64","Round of 64",2006,"Chile","Russia",,
+"James Blake",8,"USA","Jimmy Wang",,"TPE","64 62 46 62","Round of 64",2006,"United States","Chinese Taipei",,
+"Mario Ancic",7,"CRO","Davide Sanguinetti",,"ITA","64 62 61","Round of 64",2006,"Croatia","Italy",,
+"Lleyton Hewitt",6,"AUS","Hyung-Taik Lee",,"KOR","674 62 766 675 64","Round of 64",2006,"Australia","South Korea",,
+"Ivan Ljubicic",5,"CRO","Justin Gimelstob",,"USA","63 761 75","Round of 64",2006,"Croatia","United States",,
+"David Nalbandian",4,"ARG","Arnaud Clement",,"FRA","64 64 63","Round of 64",2006,"Argentina","France",,
+"Andy Roddick",3,"USA","Florian Mayer",,"GER","64 61 62","Round of 64",2006,"United States","Germany",,
+"Rafael Nadal",2,"ESP","Robert Kendrick",,"USA","674 36 762 75 64","Round of 64",2006,"Spain","United States",,"qualifier"
+"Roger Federer",1,"SUI","Tim Henman",,"GBR","64 60 62","Round of 64",2006,"Switzerland","Great Britain",,
+"Irakli Labadze",,"GEO","Mardy Fish",,"USA","62 (RET)","Round of 32",2006,"Georgia","United States","qualifier",
+"Novak Djokovic",,"SRB","Mikhail Youzhny",,"RUS","46 62 63 63","Round of 32",2006,"Serbia","Russia",,
+"Jonas Bjorkman",,"SWE","Daniele Bracciali",,"ITA","75 62 61","Round of 32",2006,"Sweden","Italy",,
+"Jarkko Nieminen",22,"FIN","Philipp Kohlschreiber",,"GER","16 62 63 764","Round of 32",2006,"Finland","Germany",,
+"Marcos Baghdatis",18,"CYP","Sebastien Grosjean",15,"FRA","46 64 64 61","Round of 32",2006,"Cyprus","France",,
+"Radek Stepanek",14,"CZE","Juan Carlos Ferrero",24,"ESP","57 673 64 62 119","Round of 32",2006,"Czech Republic","Spain",,
+"Tomas Berdych",13,"CZE","Tommy Haas",19,"GER","26 75 767 46 86","Round of 32",2006,"Czech Republic","Germany",,
+"David Ferrer",23,"ESP","Fernando Gonzalez",10,"CHI","46 26 62 63 64","Round of 32",2006,"Spain","Chile",,
+"Max Mirnyi",,"BLR","James Blake",8,"USA","64 36 46 61 60","Round of 32",2006,"Belarus","United States",,
+"Mario Ancic",7,"CRO","Stan Wawrinka",,"SUI","765 675 61 63","Round of 32",2006,"Croatia","Switzerland",,
+"Lleyton Hewitt",6,"AUS","Olivier Rochus",26,"BEL","61 64 64","Round of 32",2006,"Australia","Belgium",,
+"Dmitry Tursunov",27,"RUS","Ivan Ljubicic",5,"CRO","57 46 61 766 62","Round of 32",2006,"Russia","Croatia",,
+"Fernando Verdasco",28,"ESP","David Nalbandian",4,"ARG","769 769 62","Round of 32",2006,"Spain","Argentina",,
+"Andy Murray",,"GBR","Andy Roddick",3,"USA","764 64 64","Round of 32",2006,"Great Britain","United States",,
+"Rafael Nadal",2,"ESP","Andre Agassi",25,"USA","765 62 64","Round of 32",2006,"Spain","United States",,
+"Roger Federer",1,"SUI","Nicolas Mahut",,"FRA","63 762 64","Round of 32",2006,"Switzerland","France",,
+"Jonas Bjorkman",,"SWE","Max Mirnyi",,"BLR","63 766 46 26 63","Round of 16",2006,"Sweden","Belarus",,
+"Jarkko Nieminen",22,"FIN","Dmitry Tursunov",27,"RUS","75 64 672 676 97","Round of 16",2006,"Finland","Russia",,
+"Marcos Baghdatis",18,"CYP","Andy Murray",,"GBR","63 64 762","Round of 16",2006,"Cyprus","Great Britain",,
+"Radek Stepanek",14,"CZE","Fernando Verdasco",28,"ESP","674 63 46 64 62","Round of 16",2006,"Czech Republic","Spain",,
+"Mario Ancic",7,"CRO","Novak Djokovic",,"SRB","64 46 46 75 63","Round of 16",2006,"Croatia","Serbia",,
+"Lleyton Hewitt",6,"AUS","David Ferrer",23,"ESP","64 64 46 75","Round of 16",2006,"Australia","Spain",,
+"Rafael Nadal",2,"ESP","Irakli Labadze",,"GEO","63 764 63","Round of 16",2006,"Spain","Georgia",,"qualifier"
+"Roger Federer",1,"SUI","Tomas Berdych",13,"CZE","63 63 64","Round of 16",2006,"Switzerland","Czech Republic",,
+"Jonas Bjorkman",,"SWE","Radek Stepanek",14,"CZE","763 46 675 767 64","Quarter-Finals",2006,"Sweden","Czech Republic",,
+"Marcos Baghdatis",18,"CYP","Lleyton Hewitt",6,"AUS","61 57 765 62","Quarter-Finals",2006,"Cyprus","Australia",,
+"Rafael Nadal",2,"ESP","Jarkko Nieminen",22,"FIN","63 64 64","Quarter-Finals",2006,"Spain","Finland",,
+"Roger Federer",1,"SUI","Mario Ancic",7,"CRO","64 64 64","Quarter-Finals",2006,"Switzerland","Croatia",,
+"Rafael Nadal",2,"ESP","Marcos Baghdatis",18,"CYP","61 75 63","Semi-Finals",2006,"Spain","Cyprus",,
+"Roger Federer",1,"SUI","Jonas Bjorkman",,"SWE","62 60 62","Semi-Finals",2006,"Switzerland","Sweden",,
+"Roger Federer",1,"SUI","Rafael Nadal",2,"ESP","60 765 672 63","Finals",2006,"Switzerland","Spain",,
+"Tomas Zib",,"CZE","Jose Acasuso",,"ARG","75 63 63","Round of 128",2005,"Czech Republic","Argentina",,
+"Danai Udomchoke",,"THA","Stefan Koubek",,"AUT","57 64 46 63 86","Round of 128",2005,"Thailand","Austria","qualifier",
+"Dmitry Tursunov",,"RUS","Nicolas Almagro",,"ESP","762 764 61","Round of 128",2005,"Russia","Spain",,
+"David Sherwood",,"GBR","Ricardo Mello",,"BRA","63 64 64","Round of 128",2005,"Great Britain","Brazil","wildcard",
+"Fabrice Santoro",,"FRA","Stan Wawrinka",,"SUI","62 677 75 61","Round of 128",2005,"France","Switzerland",,
+"Davide Sanguinetti",,"ITA","Andreas Seppi",,"ITA","63 62 61","Round of 128",2005,"Italy","Italy",,"qualifier"
+"Greg Rusedski",,"GBR","Alberto Martin",,"ESP","63 46 62 61","Round of 128",2005,"Great Britain","Spain",,
+"Alexander Popp",,"GER","Jerome Haehnel",,"FRA","62 63 26 64","Round of 128",2005,"Germany","France",,
+"Mark Philippoussis",,"AUS","Karol Beck",,"SVK","75 64 62","Round of 128",2005,"Australia","Slovakia","wildcard",
+"Andrei Pavel",,"ROU","Roko Karanusic",,"CRO","62 46 62 64","Round of 128",2005,"Romania","Croatia",,"qualifier"
+"Andy Murray",,"GBR","George Bastl",,"SUI","64 62 62","Round of 128",2005,"Great Britain","Switzerland","wildcard","qualifier"
+"Gilles Muller",,"LUX","Felix Mantilla",,"ESP","54 (RET)","Round of 128",2005,"Luxembourg","Spain",,
+"Gael Monfils",,"FRA","Noam Okun",,"ISR","36 64 64 7614","Round of 128",2005,"France","Israel",,"qualifier"
+"Max Mirnyi",,"BLR","Rainer Schuettler",,"GER","63 63 64","Round of 128",2005,"Belarus","Germany",,
+"Ivo Minar",,"CZE","Michal Tabara",,"CZE","64 64 64","Round of 128",2005,"Czech Republic","Czech Republic",,
+"Florian Mayer",,"GER","Santiago Ventura",,"ESP","64 75 62","Round of 128",2005,"Germany","Spain",,
+"Xavier Malisse",,"BEL","Jonathan Marray",,"GBR","63 36 26 61 64","Round of 128",2005,"Belgium","Great Britain",,"wildcard"
+"Yen-Hsun Lu",,"TPE","Arnaud Clement",,"FRA","764 06 61 36 63","Round of 128",2005,"Chinese Taipei","France","qualifier","qualifier"
+"Jean-Rene Lisnard",,"MON","Oscar Hernandez",,"ESP","64 21 (RET)","Round of 128",2005,"Monaco","Spain",,
+"Hyung-Taik Lee",,"KOR","Thomas Enqvist",,"SWE","63 674 75 64","Round of 128",2005,"South Korea","Sweden",,
+"Karol Kucera",,"SVK","Luis Horna",,"PER","46 63 63 64","Round of 128",2005,"Slovakia","Peru",,
+"Kevin Kim",,"USA","Alex Bogdanovic",,"GBR","674 61 64 62","Round of 128",2005,"United States","Great Britain",,"wildcard"
+"Jan Hernych",,"CZE","James Blake",,"USA","16 64 766 764","Round of 128",2005,"Czech Republic","United States",,"wildcard"
+"Victor Hanescu",,"ROU","Kenneth Carlsen",,"DEN","672 764 63 57 64","Round of 128",2005,"Romania","Denmark",,
+"Justin Gimelstob",,"USA","Adrian Garcia",,"CHI","63 64 765","Round of 128",2005,"United States","Chile","lucky loser","qualifier"
+"Gilles Elseneer",,"BEL","Potito Starace",,"ITA","63 769 63","Round of 128",2005,"Belgium","Italy","qualifier",
+"Novak Djokovic",,"SRB","Juan Monaco",,"ARG","63 765 63","Round of 128",2005,"Serbia","Argentina","qualifier",
+"Alessio Di Mauro",,"ITA","Josh Goodall",,"GBR","63 764 63","Round of 128",2005,"Italy","Great Britain",,"wildcard"
+"Alex Calatrava",,"ESP","Tuomas Ketola",,"FIN","64 764 64","Round of 128",2005,"Spain","Finland",,"qualifier"
+"Daniele Bracciali",,"ITA","Ivo Karlovic",,"CRO","674 768 36 765 1210","Round of 128",2005,"Italy","Croatia","lucky loser",
+"Jonas Bjorkman",,"SWE","Jeff Morrison",,"USA","63 63 46 26 62","Round of 128",2005,"Sweden","United States",,"qualifier"
+"Tomas Berdych",,"CZE","Antony Dupuis",,"FRA","765 75 36 764","Round of 128",2005,"Czech Republic","France",,"qualifier"
+"Olivier Rochus",33,"BEL","Paul Goldstein",,"USA","64 62 62","Round of 128",2005,"Belgium","United States",,"lucky loser"
+"Wayne Arthurs",,"AUS","Filippo Volandri",32,"ITA","63 64 64","Round of 128",2005,"Australia","Italy",,
+"Mikhail Youzhny",31,"RUS","Marcos Baghdatis",,"CYP","62 36 61 64","Round of 128",2005,"Russia","Cyprus",,
+"Igor Andreev",,"RUS","Robin Soderling",30,"SWE","673 75 61 75","Round of 128",2005,"Russia","Sweden",,
+"Nicolas Massu",29,"CHI","Sargis Sargsian",,"ARM","767 63 64","Round of 128",2005,"Chile","Armenia",,
+"Jiri Novak",28,"CZE","Peter Wessels",,"NED","764 63 64","Round of 128",2005,"Czech Republic","Netherlands",,
+"Richard Gasquet",27,"FRA","Philipp Kohlschreiber",,"GER","63 36 63 62","Round of 128",2005,"France","Germany",,
+"Feliciano Lopez",26,"ESP","Bjorn Phau",,"GER","57 768 675 62 64","Round of 128",2005,"Spain","Germany",,
+"Nicolas Kiefer",25,"GER","Julien Benneteau",,"FRA","63 765 57 36 64","Round of 128",2005,"Germany","France",,
+"Taylor Dent",24,"USA","Dick Norman",,"BEL","764 764 46 677 61","Round of 128",2005,"United States","Belgium",,"qualifier"
+"Juan Carlos Ferrero",23,"ESP","Jamie Delgado",,"GBR","762 61 64","Round of 128",2005,"Spain","Great Britain",,"qualifier"
+"Dominik Hrbaty",22,"SVK","Cyril Saulnier",,"FRA","760 60 62","Round of 128",2005,"Slovakia","France",,
+"Fernando Gonzalez",21,"CHI","Alan Mackin",,"GBR","63 64 64","Round of 128",2005,"Chile","Great Britain",,"wildcard"
+"Jurgen Melzer",,"AUT","Ivan Ljubicic",20,"CRO","64 64 64","Round of 128",2005,"Austria","Croatia",,
+"Janko Tipsarevic",,"SRB","Tommy Haas",19,"GER","62 21 (RET)","Round of 128",2005,"Serbia","Germany",,
+"David Nalbandian",18,"ARG","Raemon Sluiter",,"NED","62 62 75","Round of 128",2005,"Argentina","Netherlands",,
+"Guillermo Garcia-Lopez",,"ESP","David Ferrer",17,"ESP","63 62 767","Round of 128",2005,"Spain","Spain",,
+"Lars Burgsmuller",,"GER","Mariano Puerta",16,"ARG","61 61 64","Round of 128",2005,"Germany","Argentina",,
+"Guillermo Coria",15,"ARG","Tomas Behrend",,"GER","61 62 62","Round of 128",2005,"Argentina","Germany",,
+"Radek Stepanek",14,"CZE","Robby Ginepri",,"USA","675 63 64 62","Round of 128",2005,"Czech Republic","United States",,
+"Fernando Verdasco",,"ESP","Tommy Robredo",13,"ESP","61 62 75","Round of 128",2005,"Spain","Spain",,
+"Thomas Johansson",12,"SWE","Bohdan Ulihrach",,"CZE","63 62 62","Round of 128",2005,"Sweden","Czech Republic",,
+"Joachim Johansson",11,"SWE","Albert Montanes",,"ESP","765 64 75","Round of 128",2005,"Sweden","Spain",,
+"Mario Ancic",10,"CRO","Tobias Summerer",,"GER","63 75 61","Round of 128",2005,"Croatia","Germany",,"qualifier"
+"Sebastien Grosjean",9,"FRA","Michael Llodra",,"FRA","36 75 46 765 64","Round of 128",2005,"France","France",,
+"Nikolay Davydenko",8,"RUS","Scott Draper",,"AUS","764 64 63","Round of 128",2005,"Russia","Australia",,
+"Tim Henman",6,"GBR","Jarkko Nieminen",,"FIN","36 675 64 75 62","Round of 128",2005,"Great Britain","Finland",,
+"Marat Safin",5,"RUS","Paradorn Srichaphan",,"THA","62 64 64","Round of 128",2005,"Russia","Thailand",,
+"Rafael Nadal",4,"ESP","Vincent Spadea",,"USA","64 63 60","Round of 128",2005,"Spain","United States",,
+"Lleyton Hewitt",3,"AUS","Christophe Rochus",,"BEL","63 63 61","Round of 128",2005,"Australia","Belgium",,
+"Andy Roddick",2,"USA","Jiri Vanek",,"CZE","61 764 62","Round of 128",2005,"United States","Czech Republic",,
+"Roger Federer",1,"SUI","Paul-Henri Mathieu",,"FRA","64 62 64","Round of 128",2005,"Switzerland","France",,
+"Janko Tipsarevic",,"SRB","Yen-Hsun Lu",,"TPE","26 63 62 46 75","Round of 64",2005,"Serbia","Chinese Taipei",,"qualifier"
+"Alexander Popp",,"GER","Wayne Arthurs",,"AUS","63 674 36 764 1412","Round of 64",2005,"Germany","Australia",,
+"Jurgen Melzer",,"AUT","Alex Calatrava",,"ESP","64 64 61","Round of 64",2005,"Austria","Spain",,
+"Florian Mayer",,"GER","Fernando Verdasco",,"ESP","766 75 63","Round of 64",2005,"Germany","Spain",,
+"Novak Djokovic",,"SRB","Guillermo Garcia-Lopez",,"ESP","36 36 765 763 64","Round of 64",2005,"Serbia","Spain","qualifier",
+"Tomas Berdych",,"CZE","Lars Burgsmuller",,"GER","63 63 61","Round of 64",2005,"Czech Republic","Germany",,
+"Igor Andreev",,"RUS","Davide Sanguinetti",,"ITA","64 62 36 63","Round of 64",2005,"Russia","Italy",,
+"Max Mirnyi",,"BLR","Olivier Rochus",33,"BEL","764 62 763","Round of 64",2005,"Belarus","Belgium",,
+"Mikhail Youzhny",31,"RUS","Jean-Rene Lisnard",,"MON","16 75 63 64","Round of 64",2005,"Russia","Monaco",,
+"Justin Gimelstob",,"USA","Nicolas Massu",29,"CHI","63 46 765 760","Round of 64",2005,"United States","Chile","lucky loser",
+"Jiri Novak",28,"CZE","Fabrice Santoro",,"FRA","61 46 764 63","Round of 64",2005,"Czech Republic","France",,
+"Richard Gasquet",27,"FRA","Gilles Elseneer",,"BEL","767 763 673 62","Round of 64",2005,"France","Belgium",,"qualifier"
+"Feliciano Lopez",26,"ESP","David Sherwood",,"GBR","62 64 62","Round of 64",2005,"Spain","Great Britain",,"wildcard"
+"Nicolas Kiefer",25,"GER","Alessio Di Mauro",,"ITA","63 75 63","Round of 64",2005,"Germany","Italy",,
+"Taylor Dent",24,"USA","Kevin Kim",,"USA","63 64 64","Round of 64",2005,"United States","United States",,
+"Juan Carlos Ferrero",23,"ESP","Hyung-Taik Lee",,"KOR","64 36 46 63 63","Round of 64",2005,"Spain","South Korea",,
+"Gael Monfils",,"FRA","Dominik Hrbaty",22,"SVK","63 63 26 75","Round of 64",2005,"France","Slovakia",,
+"Fernando Gonzalez",21,"CHI","Tomas Zib",,"CZE","64 766 63","Round of 64",2005,"Chile","Czech Republic",,
+"David Nalbandian",18,"ARG","Karol Kucera",,"SVK","62 64 63","Round of 64",2005,"Argentina","Slovakia",,
+"Guillermo Coria",15,"ARG","Xavier Malisse",,"BEL","36 63 75 673 64","Round of 64",2005,"Argentina","Belgium",,
+"Andy Murray",,"GBR","Radek Stepanek",14,"CZE","64 64 64","Round of 64",2005,"Great Britain","Czech Republic","wildcard",
+"Thomas Johansson",12,"SWE","Andrei Pavel",,"ROU","36 764 64 764","Round of 64",2005,"Sweden","Romania",,
+"Joachim Johansson",11,"SWE","Greg Rusedski",,"GBR","7610 36 64 765","Round of 64",2005,"Sweden","Great Britain",,
+"Mario Ancic",10,"CRO","Danai Udomchoke",,"THA","766 36 63 63","Round of 64",2005,"Croatia","Thailand",,"qualifier"
+"Sebastien Grosjean",9,"FRA","Victor Hanescu",,"ROU","63 64 62","Round of 64",2005,"France","Romania",,
+"Jonas Bjorkman",,"SWE","Nikolay Davydenko",8,"RUS","674 12 (RET)","Round of 64",2005,"Sweden","Russia",,
+"Dmitry Tursunov",,"RUS","Tim Henman",6,"GBR","36 62 36 63 86","Round of 64",2005,"Russia","Great Britain",,
+"Marat Safin",5,"RUS","Mark Philippoussis",,"AUS","764 764 64","Round of 64",2005,"Russia","Australia",,"wildcard"
+"Gilles Muller",,"LUX","Rafael Nadal",4,"ESP","64 46 63 64","Round of 64",2005,"Luxembourg","Spain",,
+"Lleyton Hewitt",3,"AUS","Jan Hernych",,"CZE","62 75 36 63","Round of 64",2005,"Australia","Czech Republic",,
+"Andy Roddick",2,"USA","Daniele Bracciali",,"ITA","75 63 673 46 63","Round of 64",2005,"United States","Italy",,"lucky loser"
+"Roger Federer",1,"SUI","Ivo Minar",,"CZE","64 64 61","Round of 64",2005,"Switzerland","Czech Republic",,
+"Dmitry Tursunov",,"RUS","Alexander Popp",,"GER","57 765 62 62","Round of 32",2005,"Russia","Germany",,
+"Mikhail Youzhny",31,"RUS","Jonas Bjorkman",,"SWE","75 63 36 769","Round of 32",2005,"Russia","Sweden",,
+"Max Mirnyi",,"BLR","Jiri Novak",28,"CZE","57 75 64 762","Round of 32",2005,"Belarus","Czech Republic",,
+"Richard Gasquet",27,"FRA","Gilles Muller",,"LUX","763 63 63","Round of 32",2005,"France","Luxembourg",,
+"Taylor Dent",24,"USA","Tomas Berdych",,"CZE","63 765 63","Round of 32",2005,"United States","Czech Republic",,
+"Juan Carlos Ferrero",23,"ESP","Florian Mayer",,"GER","36 62 61 61","Round of 32",2005,"Spain","Germany",,
+"David Nalbandian",18,"ARG","Andy Murray",,"GBR","674 16 60 64 61","Round of 32",2005,"Argentina","Great Britain",,"wildcard"
+"Guillermo Coria",15,"ARG","Jurgen Melzer",,"AUT","36 36 62 62 64","Round of 32",2005,"Argentina","Austria",,
+"Thomas Johansson",12,"SWE","Janko Tipsarevic",,"SRB","62 63 61","Round of 32",2005,"Sweden","Serbia",,
+"Fernando Gonzalez",21,"CHI","Joachim Johansson",11,"SWE","64 64 62","Round of 32",2005,"Chile","Sweden",,
+"Mario Ancic",10,"CRO","Gael Monfils",,"FRA","63 63 61","Round of 32",2005,"Croatia","France",,
+"Sebastien Grosjean",9,"FRA","Novak Djokovic",,"SRB","75 64 57 64","Round of 32",2005,"France","Serbia",,"qualifier"
+"Feliciano Lopez",26,"ESP","Marat Safin",5,"RUS","64 764 63","Round of 32",2005,"Spain","Russia",,
+"Lleyton Hewitt",3,"AUS","Justin Gimelstob",,"USA","765 64 75","Round of 32",2005,"Australia","United States",,"lucky loser"
+"Andy Roddick",2,"USA","Igor Andreev",,"RUS","62 62 764","Round of 32",2005,"United States","Russia",,
+"Roger Federer",1,"SUI","Nicolas Kiefer",25,"GER","62 675 61 75","Round of 32",2005,"Switzerland","Germany",,
+"Fernando Gonzalez",21,"CHI","Mikhail Youzhny",31,"RUS","763 765 63","Round of 16",2005,"Chile","Russia",,
+"David Nalbandian",18,"ARG","Richard Gasquet",27,"FRA","64 763 60","Round of 16",2005,"Argentina","France",,
+"Thomas Johansson",12,"SWE","Max Mirnyi",,"BLR","64 75 64","Round of 16",2005,"Sweden","Belarus",,
+"Feliciano Lopez",26,"ESP","Mario Ancic",10,"CRO","64 64 62","Round of 16",2005,"Spain","Croatia",,
+"Sebastien Grosjean",9,"FRA","Dmitry Tursunov",,"RUS","64 675 63 36 61","Round of 16",2005,"France","Russia",,
+"Lleyton Hewitt",3,"AUS","Taylor Dent",24,"USA","64 64 677 63","Round of 16",2005,"Australia","United States",,
+"Andy Roddick",2,"USA","Guillermo Coria",15,"ARG","63 761 64","Round of 16",2005,"United States","Argentina",,
+"Roger Federer",1,"SUI","Juan Carlos Ferrero",23,"ESP","63 64 766","Round of 16",2005,"Switzerland","Spain",,
+"Thomas Johansson",12,"SWE","David Nalbandian",18,"ARG","765 62 62","Quarter-Finals",2005,"Sweden","Argentina",,
+"Lleyton Hewitt",3,"AUS","Feliciano Lopez",26,"ESP","75 64 762","Quarter-Finals",2005,"Australia","Spain",,
+"Andy Roddick",2,"USA","Sebastien Grosjean",9,"FRA","36 62 61 36 63","Quarter-Finals",2005,"United States","France",,
+"Roger Federer",1,"SUI","Fernando Gonzalez",21,"CHI","75 62 762","Quarter-Finals",2005,"Switzerland","Chile",,
+"Andy Roddick",2,"USA","Thomas Johansson",12,"SWE","676 62 7610 765","Semi-Finals",2005,"United States","Sweden",,
+"Roger Federer",1,"SUI","Lleyton Hewitt",3,"AUS","63 64 764","Semi-Finals",2005,"Switzerland","Australia",,
+"Roger Federer",1,"SUI","Andy Roddick",2,"USA","62 762 64","Finals",2005,"Switzerland","United States",,
