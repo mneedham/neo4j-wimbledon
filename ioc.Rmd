@@ -1,0 +1,27 @@
+```{r}
+library(rvest)
+library(dplyr)
+```
+
+```{r}
+s = html_session("https://en.wikipedia.org/wiki/List_of_IOC_country_codes")
+
+rows  = s %>% html_nodes("table.wikitable tr")
+
+df = data.frame()
+for(row in rows) {
+  if(length(row %>% html_nodes("th")) > 0) {
+    next
+  }
+  
+  columns = row %>% html_nodes("td")
+  short = columns[1] %>% html_text()
+  long = columns[3] %>% html_node("a") %>% html_text()  
+  
+  if(!is.na(short) & !is.na(long) & length(columns) == 4 & !grepl("[0-9]", long)) {
+    df = rbind(df, data.frame(short = short, long = long))  
+  }
+}
+
+write.csv(df, "ioc.csv", row.names = FALSE)
+```

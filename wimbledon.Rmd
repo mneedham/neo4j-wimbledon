@@ -1,0 +1,213 @@
+```{r}
+library(rvest)
+library(dplyr)
+library(stringr)
+library(readr)
+
+scrape_matches = function(matches, uri) {
+  year = as.numeric(strsplit(uri, "/")[[1]][9])
+  
+  s = html_session(uri)
+  rows = s %>% html_nodes("div#scoresResultsContent tr")
+  i = 0
+  for(row in rows) {  
+    players = row %>% html_nodes("td.day-table-name a")
+    seedings = row %>% html_nodes("td.day-table-seed")
+    score = row %>% html_node("td.day-table-score a")
+    flags = row %>% html_nodes("td.day-table-flag img")
+    
+    if(!is.null(score)) {
+      player1 = players[1] %>% html_text() %>% str_trim()
+      seeding1 = ifelse(!is.na(seedings[1]), seedings[1] %>% html_node("span") %>% html_text() %>% str_trim(), NA)
+      flag1 = flags[1] %>% html_attr("alt")
+      
+      player2 = players[2] %>% html_text() %>% str_trim()
+      seeding2 = ifelse(!is.na(seedings[2]), seedings[2] %>% html_node("span") %>% html_text() %>% str_trim(), NA)
+      flag2 = flags[2] %>% html_attr("alt")
+          
+      matches = rbind(data.frame(winner = player1, 
+                                 winner_seeding = seeding1, 
+                                 winner_flag = flag1,
+                                 loser = player2, 
+                                 loser_seeding = seeding2,
+                                 loser_flag = flag2,
+                                 score = score %>% html_text() %>% str_trim(),
+                                 round = round,
+                                 year = year), matches)      
+    } else {
+      round = row %>% html_node("th") %>% html_text()
+    }
+  } 
+  return(matches)
+}
+
+ioc = read_csv("ioc.csv")
+find_country = function(flag) {
+  return(lapply(flag, function(f) (ioc %>% filter(short == f))$long) %>% unlist())
+}
+
+matches = data.frame()
+for(year in 2005:2014) {
+  print(paste("processing", year))
+  uri = paste("http://www.atpworldtour.com/en/scores/archive/wimbledon/540/", year, "/results", sep = "")
+  matches = scrape_matches(matches, uri)
+  print("done")
+}
+
+# try and optimise this by using a faster way of building the data frame / downloading the files first
+
+write.csv(matches, "wimbledon.totally.raw.csv", row.names = FALSE)
+matches = read.csv("wimbledon.totally.raw.csv")
+
+matches_with_country = matches %>% mutate(winner_country = find_country(winner_flag), loser_country = find_country(loser_flag))
+write.csv(matches_with_country, "wimbledon.totally.raw.countries.csv", row.names = FALSE)
+
+main_matches = matches_with_country %>% filter(!grepl("Qualifying", round))
+
+write.csv(main_matches, "wimbledon.raw.csv", row.names = FALSE)
+
+# have made a mistake further up when there's only one qualifier - it always gets set to be the winner even if it isn't
+
+main_matches$winner_type = NA
+main_matches$winner_type[main_matches$winner_seeding == "(WC)"] = "wildcard"
+main_matches$winner_type[main_matches$winner_seeding == "(Q)"] = "qualifier"
+main_matches$winner_type[main_matches$winner_seeding == "(LL)"] = "lucky loser"
+
+main_matches$loser_type = NA
+main_matches$loser_type[main_matches$loser_seeding == "(WC)"] = "wildcard"
+main_matches$loser_type[main_matches$loser_seeding == "(Q)"] = "qualifier"
+main_matches$loser_type[main_matches$loser_seeding == "(LL)"] = "lucky loser"
+
+tidy_seeding = function(seeding) {
+  no_brackets = gsub("\\(|\\)", "", seeding)
+  return(gsub("WC|Q|L", NA, no_brackets))
+}
+
+main_matches = main_matches %>% mutate(winner_seeding = as.numeric(tidy_seeding(winner_seeding)), loser_seeding = as.numeric(tidy_seeding(loser_seeding)))
+main_matches$round = factor(main_matches$round, levels =  c("Round of 128", "Round of 64", "Round of 32", "Round of 16", "Quarter-Finals", "Semi-Finals", "Finals"))
+
+write.csv(main_matches, "wimbledon.csv", row.names = FALSE, na = "")
+
+# The underdog won
+main_matches %>% 
+  filter(year == 2013) %>% 
+  filter((winner_seeding > loser_seeding) | (is.na(winner_seeding) & !is.na(loser_seeding))) %>%
+  select(winner, loser, score, winner_seeding, loser_seeding)
+
+main_matches %>% 
+  filter(year == 2014) %>% 
+  filter((winner_seeding > loser_seeding) | (is.na(winner_seeding) & !is.na(loser_seeding))) %>%
+  select(winner, loser, score, winner_seeding, loser_seeding)
+
+# Seeds who lost in the first round
+main_matches %>%  filter(round == "Round of 128" & !is.na(loser_seeding))
+
+# Highest ranked seed to lose in the first round
+main_matches %>% filter(round == "Round of 128" & !is.na(loser_seeding)) %>% 
+  group_by(year) %>% filter(loser_seeding == min(loser_seeding))
+
+main_matches %>% filter(round == "Round of 128" & !is.na(loser_seeding)) %>% 
+  group_by(year) %>% top_n(1, wt = desc(loser_seeding)) %>%
+  select(player = loser, seeding = loser_seeding, lost_to = winner, score)
+
+# How far did the unseeded players get?
+main_matches %>% filter(is.na(loser_seeding)) %>% arrange(desc(round)) %>% head(5)
+
+# How far did the wildcards/qualifier/lucky losers get?
+main_matches %>% filter(loser_type == "wildcard") %>% arrange(desc(round)) %>% head(5)
+main_matches %>% filter(loser_type == "qualifier") %>% arrange(desc(round)) %>% head(5)
+main_matches %>% filter(loser_type == "lucky loser") %>% arrange(desc(round)) %>% head(5)
+
+main_matches$winner = as.character(main_matches$winner)
+main_matches$loser = as.character(main_matches$loser)
+
+# How far did a particular player get?
+round_reached = function(player, main_matches) {
+  furthest_match = main_matches %>% 
+    filter(winner == player | loser == player) %>% 
+    arrange(desc(round)) %>% 
+    head(1)  
+
+    return(ifelse(furthest_match$winner == player, "Winner", as.character(furthest_match$round)))
+}
+
+player = c("Rafael Nadal", "Andy Murray")
+main_matches %>% 
+    filter(winner %in% player | loser %in% player) %>% 
+    group_by(winner, loser)
+    arrange(desc(round)) %>% 
+    head(1)  
+
+matches_2013 = main_matches %>% filter(year == 2013)
+round_reached("Novak Djokovic", matches_2013)
+round_reached("Rafael Nadal", matches_2013)
+round_reached("Andy Murray", matches_2013)
+
+rbind(matches_2013 %>% filter(winner_seeding %in% 1:8) %>% mutate(name = winner, seeding = winner_seeding), 
+      matches_2013 %>% filter(loser_seeding %in% 1:8) %>% mutate(name = loser, seeding = loser_seeding)) %>%
+  select(name, seeding) %>%
+  distinct() %>%
+  arrange(seeding) %>%
+  group_by(name) %>%
+  mutate(round_reached = round_reached(name, matches_2013))
+
+# Which seeds didn't get as far as they should have?
+
+# winners by year
+main_matches %>% filter(round == "Finals") %>% 
+  select(year, winner, winner_seeding, loser, loser_seeding, score)
+
+main_matches %>% filter(round == "Finals") %>% select(winner, winner_seeding, year)
+
+main_matches %>% 
+  filter(round == "Finals") %>% select(winner, winner_seeding, year) %>% 
+  count(winner) %>%
+  arrange(desc(n))
+
+main_matches %>% 
+  filter(round == "Finals") %>% select(winner, winner_seeding, winner_country, year) %>% 
+  count(winner_country) %>%
+  arrange(desc(n))
+
+# how did Murray get on?
+player_performance = function(name, matches) {
+  player = data.frame()
+  for(y in 2005:2014) {
+    round = round_reached(name, filter(matches, year == y))
+    if(length(round) == 1) {
+      player = rbind(player, data.frame(year = y, round = round))      
+    } else {
+      player = rbind(player, data.frame(year = y, round = "Did not enter"))
+    } 
+  }
+  return(player)
+}
+
+player_performance("Andy Murray", main_matches)
+player_performance("Roger Federer", main_matches)
+player_performance("Novak Djokovic", main_matches)
+
+rounds = c("Did not enter", "Round of 128", "Round of 64", "Round of 32", "Round of 16", "Quarter-Finals", "Semi-Finals", "Finals", "Winner")
+
+draw_chart = function(player, main_matches){
+  df = player_performance(player, main_matches)
+  df$round = factor(df$round, levels =  rounds)
+  
+  ggplot(aes(x = year, y = round, group=1), data = df) + 
+    geom_point() + 
+    geom_line() + 
+    scale_x_continuous(breaks=df$year) + 
+    scale_y_discrete(breaks = rounds, drop=FALSE) + 
+    ggtitle(player) + 
+    theme(axis.text.x=element_text(angle=90, hjust=1))
+}
+
+a = draw_chart("Andy Murray", main_matches)
+b = draw_chart("Novak Djokovic", main_matches)
+c = draw_chart("Rafael Nadal", main_matches)
+d = draw_chart("Roger Federer", main_matches)
+
+library(gridExtra)
+grid.arrange(a,b,c,d, ncol=2)
+
+```
